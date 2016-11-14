@@ -1,4 +1,4 @@
-# Applied Data Analysis project:
+# Applied Data Analysis project
 
 Aim : Doing a happy map for a city in Switzerland like GoodCityLife project (NOKIA)  
 Idea : The idea would be to build a happy map minimizing both the inverse of happiness and the travel time  
@@ -21,7 +21,9 @@ We suppose that we will have at our disposal :
 
 - for the analysis we will be using Keras
 
-2/ Viz : - Optimization (Algorithm)
+2/ Viz : 
+
+- optimization (Algorithm)
 
 - build a map
          
