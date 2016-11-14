@@ -1,5 +1,6 @@
-Aim : Doing a happy map for a city in Switzerland like GoodCityLife project (NOKIA).
-Idea : The idea would be to build a happy map minimizing both the inverse of happiness and the travel time.
+Aim : Doing a happy map for a city in Switzerland like GoodCityLife project (NOKIA).  
+Idea : The idea would be to build a happy map minimizing both the inverse of happiness and the travel time.  
+
 Work Plan :
 
 We suppose that we will have at our disposal :
