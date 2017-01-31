@@ -1,0 +1,1 @@
+mkdir "$MONTH"_locations && cd "$MONTH"_locations && hadoop fs -get "/user/fboehm/instagram-images/$MONTH/*.json" && ../jq-linux64 -c '{(input_filename|sub(".json$"; "")): .}' *.json | ../jq-linux64 -s add >../"$MONTH"_locations.json
