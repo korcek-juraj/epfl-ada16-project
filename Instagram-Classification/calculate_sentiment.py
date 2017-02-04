@@ -5,6 +5,21 @@ import numpy as np
 
 
 def calculate_sentiment(results_filename, classes_filename, sentiment_filename):
+    """
+    For every Image ID, it computes sentiment by multiplying confidence/score of classes/objects found in an image corresponding
+    to the given Image ID from results JSON file (passed in parameter results_filename) with sentiment weight for particular
+    class defined in classes JSON file (passed in classes_filename parameter) and summing over these products.
+
+    The output file is in form of JSON dictionary with Image IDs being keys and dictionaries {'sent_float': float, 'sent_int': int from {-1, 0, 1}}
+    being values. 'sent_int' is just 'sent_float' discretized into 3 bins:
+    -1 if 'sent_float' from [-1, -0.33>
+     0 if 'sent_float' from [-0.33, 0.33]
+     1 if 'sent_float' from <0.33, 1]
+    :param results_filename: filename of the results JSON file
+    :param classes_filename: filename of the JSON file extracted with extract_classes.py script and manually changed to fit the task
+    :param sentiment_filename: filename of an output JSON file containing dictionary of Instagram Image IDs and their sentiment
+    :return: None
+    """
     sentiment_dict = {}
 
     with open(classes_filename) as classes_file:
