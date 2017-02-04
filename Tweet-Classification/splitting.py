@@ -1,6 +1,7 @@
 import pandas as pd
 
 
+#Using GEONAMES, we create a dictionary with places and their latitude/longitude
 cols = ["geonameid","name","ascii","alternate","latitude","longitude","fclass","fcode","ccode","cc2",
            "ad1","ad2","ad3","ad4","pop","elev","dem","timeZ","date"]
 df_ = pd.read_csv("CH.txt",sep="\t", header=None, names=cols)
@@ -21,6 +22,9 @@ for i in range(df.shape[0]):
 
 files=["s1-cleaned/1","s2-cleaned/2","s3-cleaned/3","s4-cleaned/4"]
 
+#You have to create the four folders s1-cleaned,s2-cleaned, s3-cleaned, s4-cleaned in the folder cleaned-data
+#and put i.csv in the folder si-cleaned for i =1,2,3,4
+# below, will create the splitting into train/test
 for file in files:
     file1=pd.read_csv("cleaned-data/"+file+".csv",sep=';')
     del file1['Unnamed: 0']
@@ -33,6 +37,9 @@ for file in files:
     test_probas = []
     neutral_tweets = []
     neutral_labels = []
+    #We check if the location is in the dictionary we created if yes we put it in the test set, otherwise we put the 
+    # the tweet in the train set
+    # we also create files ineutral.csv to test our models on neutral tweets
     for i in range(file1.shape[0]):
         if file1['location'][i] in cities:
             if file1['sentiment'][i]=='NEUTRAL':
@@ -57,6 +64,7 @@ for file in files:
                     train_labels.append(0)
                 else:
                     train_labels.append(1)
+    #Creating the dataframes for train/test/neutral
     df_train=pd.DataFrame([])
     df_test=pd.DataFrame([])
     df_train['label']=train_labels
@@ -69,6 +77,7 @@ for file in files:
     df_n = pd.DataFrame([])
     df_n['tweet']=neutral_tweets
     df_n['label']=neutral_labels
+    #putting everything into a csv file
     df_train.to_csv("cleaned-data/"+file+"train.csv",sep=';')
     df_test.to_csv("cleaned-data/"+file+"test.csv",sep=';')
     df_n.to_csv("cleaned-data/"+file+"neutral.csv",sep=';')
