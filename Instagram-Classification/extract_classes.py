@@ -32,6 +32,7 @@ def extract_classes(results_filename, classes_filename):
         json.dump(sorted(list(classes_dict.items()), key=lambda x: x[1]['score'], reverse=True), classes_file, sort_keys=True, indent=4, separators=(',', ': '))
     print('No. of classses: ' + str(len(classes_dict)))
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-r', '--path_to_results_file', type=str, required=True)
