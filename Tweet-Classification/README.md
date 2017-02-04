@@ -1,13 +1,13 @@
 # Sentiment Analysis on Twitter data 
 
-For the first part of this project, we did sentiment analysis on twitter data. we had at our disposal daily geolocated tweets in Switzerland
+For the first part of this project, we did a sentiment analysis on twitter data. we had at our disposal daily geolocated tweets in Switzerland
 from January to October. These tweets were labeled by "POSITIVE", "NEGATIVE", or "NEUTRAL". The end-goal of this project is to scrape the 
 web daily and run on them the algorithms we found to build a daily sentiment map of Switzerland.
 
 ## Methods
 
-- The first part before running any analysis was to clean the data, since Tweets are very noisy texts. You can see the pipeline for the cleaning
-in the file `create_clean.py`. After that, we analyzed the data and we noticed the huge imbalance. In fact, doing a 3-class classification 
+- The first part before running any analysis was to clean the data, since Tweets are very noisy texts. You can see the pipeline for the cleaning in the file `create_clean.py`.
+After that, we analyzed the data and we noticed the huge imbalance. In fact, doing a 3-class classification 
 without considering the imbalance would be the same as running a dummy model that always predict the majority class (e.g. "NEUTRAL" class).
 We decided to train the models only on a POSITIVE/NEGATIVE labeled tweets. Also, since the features might change from one season to another,
 we decided to do seasonal models : 1/ January, February 2/ March, April, May 3/ June, July, August 3/ September, October
@@ -17,9 +17,7 @@ we decided to do seasonal models : 1/ January, February 2/ March, April, May 3/ 
 - In the folder `dicos` you can find the three dictionaries we found to help with de-noising the text.
 
 - Then, we had to split our data into training/validation/test. With the file `splitting.py`, and since all tweets weren't geolocated, we
-stored all the tweets that are geolocated into the test set since we only need the geolocation to build the map. We splitted the rest into 10%
-for validation 90% for training. To get the latitude/longitude, we used GEONAMES. In fact, the source_location was given into several languages
-and GEONAMES is a database that covers many places in switzerland in several languages.
+  stored all the tweets that are geolocated into the test set since we only need the geolocation to build the map. We splitted the rest     into 10% for validation 90% for training. To get the latitude/longitude, we used GEONAMES. In fact, the source_location was given into      several languages and GEONAMES is a database that covers many places in switzerland in several languages.
 
 - In the file `featuring.py`, you can find the two sets of features we used : 
 - `Pre-trained embedding`: 1-grams with pretrained word embeddings (GLoVE)
