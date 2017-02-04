@@ -60,6 +60,10 @@ see, the classification probabilities are very high for "POS/NEG" Tweets and mor
 of most of neutral Tweets with a high threshold.
 ## How to run the code
 
+```
+$ pip install requirements.txt
+```
+
 First put all the data in a folder in which you create the folder `cleaned-data` and create all the cleaned files :
 ```
 $ python3 create_clean.py
