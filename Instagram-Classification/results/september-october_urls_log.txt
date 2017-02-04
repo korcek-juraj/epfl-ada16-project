@@ -1,0 +1,3522 @@
+Images remaining (length of url_queue): 111380/111366
+image_queue length: 0
+result_queue length: 0
+Images remaining (length of url_queue): 111314/111366
+image_queue length: 4
+result_queue length: 0
+BLB4zXJhExy: image missing!
+BK8lsS1gENo: image missing!
+Images remaining (length of url_queue): 111160/111366
+image_queue length: 76
+result_queue length: 0
+BJ56xiahwRl: image missing!
+Images remaining (length of url_queue): 111024/111366
+image_queue length: 83
+result_queue length: 0
+Images remaining (length of url_queue): 110883/111366
+image_queue length: 91
+result_queue length: 0
+BJ7RMHshvm7: image missing!
+BK4yLpTBCCG: image missing!
+Images remaining (length of url_queue): 110751/111366
+image_queue length: 84
+result_queue length: 0
+BLAxe97BOzc: image missing!
+Images remaining (length of url_queue): 110614/111366
+image_queue length: 98
+result_queue length: 0
+Images remaining (length of url_queue): 110479/111366
+image_queue length: 95
+result_queue length: 0
+BK4pMqJA40H: image missing!
+BKCJVDHgqZR: image missing!
+Images remaining (length of url_queue): 110339/111366
+image_queue length: 94
+result_queue length: 0
+BKEiW4nAgyW: image missing!
+Images remaining (length of url_queue): 110212/111366
+image_queue length: 89
+result_queue length: 0
+BJ8J1Q5AQGd: image missing!
+BKBWU57gect: image missing!
+BK6SfwUjElL: image missing!
+Images remaining (length of url_queue): 110073/111366
+image_queue length: 101
+result_queue length: 0
+BK8Odr-BkkW: image missing!
+Images remaining (length of url_queue): 109937/111366
+image_queue length: 100
+result_queue length: 0
+BLFT9iNhDv-: image missing!
+BLECNtIAOxC: image missing!
+BK76JZ2jeY8: image missing!
+BLEQpRVAl1D: image missing!
+Images remaining (length of url_queue): 109807/111366
+image_queue length: 94
+result_queue length: 0
+Images remaining (length of url_queue): 109672/111366
+image_queue length: 97
+result_queue length: 0
+Images remaining (length of url_queue): 109524/111366
+image_queue length: 114
+result_queue length: 0
+BJ0wBBxBTOC: image missing!
+Images remaining (length of url_queue): 109390/111366
+image_queue length: 120
+result_queue length: 0
+BK7zhwoB9Qr: image missing!
+Images remaining (length of url_queue): 109266/111366
+image_queue length: 106
+result_queue length: 0
+Images remaining (length of url_queue): 109127/111366
+image_queue length: 112
+result_queue length: 0
+BKGuoAWjxq4: image missing!
+BJ5UzXDDcNP: image missing!
+Images remaining (length of url_queue): 108989/111366
+image_queue length: 114
+result_queue length: 0
+Images remaining (length of url_queue): 108851/111366
+image_queue length: 121
+result_queue length: 0
+BJ2wSMMB3_d: image missing!
+BKCDVQQDBgR: image missing!
+Images remaining (length of url_queue): 108717/111366
+image_queue length: 122
+result_queue length: 0
+BJ_Z-0AgvsH: image missing!
+Images remaining (length of url_queue): 108576/111366
+image_queue length: 132
+result_queue length: 0
+Images remaining (length of url_queue): 108443/111366
+image_queue length: 135
+result_queue length: 0
+Images remaining (length of url_queue): 108311/111366
+image_queue length: 129
+result_queue length: 0
+BKEk26ggJfO: image missing!
+BJ7Tmk1g9v5: image missing!
+Images remaining (length of url_queue): 108178/111366
+image_queue length: 130
+result_queue length: 0
+BJ2EYt6Bo4i: image missing!
+BKEXyGVg4Xe: image missing!
+Images remaining (length of url_queue): 108037/111366
+image_queue length: 132
+result_queue length: 0
+BK4HbQMA6Z3: image missing!
+BKAeD8EBNuu: image missing!
+Images remaining (length of url_queue): 107902/111366
+image_queue length: 139
+result_queue length: 0
+BJ3FQNvj29H: image missing!
+BKGK2oDBRSg: image missing!
+BJ14wOijcnt: image missing!
+Images remaining (length of url_queue): 107772/111366
+image_queue length: 132
+result_queue length: 0
+BKCBWDrgZQK: image missing!
+BK-mDInh_q5: image missing!
+BLB539yj25m: image missing!
+Images remaining (length of url_queue): 107635/111366
+image_queue length: 131
+result_queue length: 0
+BK6RUVXACjk: image missing!
+Images remaining (length of url_queue): 107498/111366
+image_queue length: 137
+result_queue length: 0
+BK8pPahh5Jk: image missing!
+Images remaining (length of url_queue): 107371/111366
+image_queue length: 129
+result_queue length: 0
+BK7oU3mjmuh: image missing!
+BKHBmZqDYjU: image missing!
+BK5toN4hGwV: image missing!
+Images remaining (length of url_queue): 107245/111366
+image_queue length: 122
+result_queue length: 0
+BJ9fZNBgLMM: image missing!
+BJ3eDcsgcOe: image missing!
+Images remaining (length of url_queue): 107114/111366
+image_queue length: 115
+result_queue length: 0
+Images remaining (length of url_queue): 106985/111366
+image_queue length: 114
+result_queue length: 0
+BJ2PwR_h20A: image missing!
+BLGpr1tBe40: image missing!
+Images remaining (length of url_queue): 106842/111366
+image_queue length: 119
+result_queue length: 0
+BLElhuGDZJq: image missing!
+BLEp28HBIxh: image missing!
+Images remaining (length of url_queue): 106707/111366
+image_queue length: 121
+result_queue length: 0
+Images remaining (length of url_queue): 106577/111366
+image_queue length: 127
+result_queue length: 0
+Images remaining (length of url_queue): 106438/111366
+image_queue length: 132
+result_queue length: 0
+BJ3KsS6hIVf: image missing!
+BJ-KPdGALT6: image missing!
+Images remaining (length of url_queue): 106291/111366
+image_queue length: 149
+result_queue length: 0
+BLE__4WBq-d: image missing!
+Images remaining (length of url_queue): 106169/111366
+image_queue length: 135
+result_queue length: 0
+BK0bSkZjKzA: image missing!
+BKFjc0ohLsu: image missing!
+BLH7q0tj2_9: image missing!
+Images remaining (length of url_queue): 106033/111366
+image_queue length: 139
+result_queue length: 0
+BKGEL81A9_N: image missing!
+Images remaining (length of url_queue): 105887/111366
+image_queue length: 146
+result_queue length: 0
+BJ5suhrDuR9: image missing!
+Images remaining (length of url_queue): 105742/111366
+image_queue length: 156
+result_queue length: 0
+BK8i1mIAkiY: image missing!
+Images remaining (length of url_queue): 105603/111366
+image_queue length: 169
+result_queue length: 0
+BK-tJCsDBAA: image missing!
+Images remaining (length of url_queue): 105463/111366
+image_queue length: 175
+result_queue length: 0
+BK-7naWBjRb: image missing!
+Images remaining (length of url_queue): 105334/111366
+image_queue length: 173
+result_queue length: 0
+BKJZZ_4gf7Y: image missing!
+Images remaining (length of url_queue): 105194/111366
+image_queue length: 178
+result_queue length: 0
+BJ4Yp9Sh1_J: image missing!
+BKG3HZBBicd: image missing!
+BK6T6ynBd0B: image missing!
+Images remaining (length of url_queue): 105068/111366
+image_queue length: 166
+result_queue length: 0
+BJzZg1oBGFT: image missing!
+Images remaining (length of url_queue): 104935/111366
+image_queue length: 173
+result_queue length: 0
+BKJetkmj7u8: image missing!
+BJ0VDVngyDA: image missing!
+Images remaining (length of url_queue): 104783/111366
+image_queue length: 188
+result_queue length: 0
+BLB2W-bj2d1: image missing!
+BJ2QZGzD-k7: image missing!
+Images remaining (length of url_queue): 104640/111366
+image_queue length: 196
+result_queue length: 0
+BKEyW63ASiB: image missing!
+BK-IaH7gLuk: image missing!
+Images remaining (length of url_queue): 104506/111366
+image_queue length: 196
+result_queue length: 0
+BK0013ohFuo: image missing!
+BKBu7V4APch: image missing!
+BLB_bg-jLbn: image missing!
+Images remaining (length of url_queue): 104373/111366
+image_queue length: 196
+result_queue length: 0
+BK8iGJfhL1t: image missing!
+BKG13AAhzWG: image missing!
+Images remaining (length of url_queue): 104241/111366
+image_queue length: 201
+result_queue length: 0
+Images remaining (length of url_queue): 104107/111366
+image_queue length: 205
+result_queue length: 0
+BLEp9nHAqAP: image missing!
+BK6UkLaBk9S: image missing!
+Images remaining (length of url_queue): 103957/111366
+image_queue length: 214
+result_queue length: 0
+BJ0d3E3A8b4: image missing!
+Images remaining (length of url_queue): 103824/111366
+image_queue length: 213
+result_queue length: 0
+BK5W0VkgrP0: image missing!
+BJ_SiFsAfvL: image missing!
+BK6Gi-VhU-M: image missing!
+BJ3aLScjQQr: image missing!
+Images remaining (length of url_queue): 103685/111366
+image_queue length: 222
+result_queue length: 0
+BLKOxyAAxKT: image missing!
+Images remaining (length of url_queue): 103547/111366
+image_queue length: 221
+result_queue length: 0
+BK0MerahcrJ: image missing!
+Images remaining (length of url_queue): 103405/111366
+image_queue length: 233
+result_queue length: 0
+BJ_Swwbh2ji: image missing!
+Images remaining (length of url_queue): 103268/111366
+image_queue length: 233
+result_queue length: 0
+BJ--axwBlgD: image missing!
+BJzM8zhAsqU: image missing!
+Images remaining (length of url_queue): 103140/111366
+image_queue length: 231
+result_queue length: 0
+BLBjyJ3gdYg: image missing!
+BK-zQrwDLGm: image missing!
+Images remaining (length of url_queue): 103003/111366
+image_queue length: 233
+result_queue length: 0
+BKEGwVfhFV4: image missing!
+Images remaining (length of url_queue): 102866/111366
+image_queue length: 244
+result_queue length: 0
+BJ8PVL7gP7Q: image missing!
+BJ5VlFJBMKr: image missing!
+Images remaining (length of url_queue): 102736/111366
+image_queue length: 238
+result_queue length: 0
+BJ5vPLUjMIi: image missing!
+Images remaining (length of url_queue): 102595/111366
+image_queue length: 248
+result_queue length: 0
+BKBuceNjzDx: image missing!
+Images remaining (length of url_queue): 102472/111366
+image_queue length: 233
+result_queue length: 0
+BK7e-VYD07c: image missing!
+Images remaining (length of url_queue): 102339/111366
+image_queue length: 233
+result_queue length: 0
+BK4HW5WDAMq: image missing!
+BJ6nGe5joTV: image missing!
+Images remaining (length of url_queue): 102205/111366
+image_queue length: 235
+result_queue length: 0
+Images remaining (length of url_queue): 102070/111366
+image_queue length: 241
+result_queue length: 0
+BK1Xqbbjsmm: image missing!
+Images remaining (length of url_queue): 101945/111366
+image_queue length: 229
+result_queue length: 0
+BJ8yHejAour: image missing!
+Images remaining (length of url_queue): 101807/111366
+image_queue length: 233
+result_queue length: 0
+BLJ_eVtgsHP: image missing!
+BLE9tqAjck9: image missing!
+Images remaining (length of url_queue): 101668/111366
+image_queue length: 236
+result_queue length: 0
+BLEBe30AO87: image missing!
+BJ8B_KIAQPp: image missing!
+Images remaining (length of url_queue): 101531/111366
+image_queue length: 242
+result_queue length: 0
+BKBc0utDpiF: image missing!
+BK7sXu_jxzb: image missing!
+BJ9xNrNBL5d: image missing!
+BLLYhqBhfo2: image missing!
+Images remaining (length of url_queue): 101390/111366
+image_queue length: 245
+result_queue length: 0
+BJ-bOXTBKQK: image missing!
+Images remaining (length of url_queue): 101255/111366
+image_queue length: 245
+result_queue length: 0
+BK97mefBhxh: image missing!
+BK3a2jBgIDe: image missing!
+Images remaining (length of url_queue): 101131/111366
+image_queue length: 237
+result_queue length: 0
+BJ1FeLvAsCn: image missing!
+BKJ0FgYBCCa: image missing!
+Images remaining (length of url_queue): 100990/111366
+image_queue length: 243
+result_queue length: 0
+BK-HkRlh2RL: image missing!
+BLFKE17gCwr: image missing!
+Images remaining (length of url_queue): 100856/111366
+image_queue length: 251
+result_queue length: 0
+BKJzdEXh9-i: image missing!
+BKD7P_yAl6h: image missing!
+Images remaining (length of url_queue): 100717/111366
+image_queue length: 253
+result_queue length: 0
+BK3gHQpgAol: image missing!
+BKGoQx-hp5f: image missing!
+Images remaining (length of url_queue): 100586/111366
+image_queue length: 245
+result_queue length: 0
+BKGn2LzByTu: image missing!
+BJ7Pdq9j-WD: image missing!
+Images remaining (length of url_queue): 100447/111366
+image_queue length: 251
+result_queue length: 0
+Images remaining (length of url_queue): 100321/111366
+image_queue length: 246
+result_queue length: 0
+BJ0unvLheYJ: image missing!
+BJ_GSpWgFax: image missing!
+Images remaining (length of url_queue): 100188/111366
+image_queue length: 242
+result_queue length: 0
+BKGZr1hhpzf: image missing!
+BK81FQHD3Va: image missing!
+Images remaining (length of url_queue): 100050/111366
+image_queue length: 247
+result_queue length: 0
+Images remaining (length of url_queue): 99920/111366
+image_queue length: 253
+result_queue length: 0
+BJ2VJfrhzHJ: image missing!
+BJ0nXy0gA0y: image missing!
+BKAwxu5AZBv: image missing!
+Images remaining (length of url_queue): 99784/111366
+image_queue length: 248
+result_queue length: 0
+BLCHss2jF5x: image missing!
+BK5Q9yNhP6P: image missing!
+Images remaining (length of url_queue): 99646/111366
+image_queue length: 252
+result_queue length: 0
+Images remaining (length of url_queue): 99497/111366
+image_queue length: 271
+result_queue length: 0
+Images remaining (length of url_queue): 99361/111366
+image_queue length: 272
+result_queue length: 0
+Images remaining (length of url_queue): 99227/111366
+image_queue length: 273
+result_queue length: 0
+BK9Oo0hgsSZ: image missing!
+Images remaining (length of url_queue): 99083/111366
+image_queue length: 281
+result_queue length: 0
+Images remaining (length of url_queue): 98945/111366
+image_queue length: 286
+result_queue length: 0
+BLBNKkFj7-Z: image missing!
+Images remaining (length of url_queue): 98812/111366
+image_queue length: 289
+result_queue length: 1
+Images remaining (length of url_queue): 98681/111366
+image_queue length: 289
+result_queue length: 0
+Images remaining (length of url_queue): 98542/111366
+image_queue length: 292
+result_queue length: 0
+BKK7M9UhOzU: image missing!
+Images remaining (length of url_queue): 98411/111366
+image_queue length: 295
+result_queue length: 0
+Images remaining (length of url_queue): 98270/111366
+image_queue length: 303
+result_queue length: 0
+BLDcm9HBymw: image missing!
+Images remaining (length of url_queue): 98133/111366
+image_queue length: 308
+result_queue length: 0
+BKClrsRg1VR: image missing!
+BK0bHEjDCpA: image missing!
+Images remaining (length of url_queue): 97995/111366
+image_queue length: 311
+result_queue length: 0
+BK5wXU9AzIt: image missing!
+BKDQegMhWRd: image missing!
+Images remaining (length of url_queue): 97870/111366
+image_queue length: 300
+result_queue length: 0
+BKDxeJKDx9a: image missing!
+BKCcaKZBfMH: image missing!
+BJ_Hm0lDJ-H: image missing!
+Images remaining (length of url_queue): 97741/111366
+image_queue length: 293
+result_queue length: 0
+BJ5PXZ-BAcl: image missing!
+Images remaining (length of url_queue): 97600/111366
+image_queue length: 311
+result_queue length: 0
+Images remaining (length of url_queue): 97467/111366
+image_queue length: 304
+result_queue length: 0
+BJ7zoYTAzWo: image missing!
+BK3Lgb8gUZS: image missing!
+Images remaining (length of url_queue): 97332/111366
+image_queue length: 306
+result_queue length: 0
+BLFFsSTBgMI: image missing!
+Images remaining (length of url_queue): 97204/111366
+image_queue length: 306
+result_queue length: 0
+BKFzXivhAJq: image missing!
+Images remaining (length of url_queue): 97064/111366
+image_queue length: 308
+result_queue length: 0
+BK9DEqABTmw: image missing!
+Images remaining (length of url_queue): 96924/111366
+image_queue length: 320
+result_queue length: 0
+Images remaining (length of url_queue): 96796/111366
+image_queue length: 314
+result_queue length: 0
+BJ0hWJzj0Dz: image missing!
+BK3i5fLjM4S: image missing!
+BK9Xo71gvkn: image missing!
+Images remaining (length of url_queue): 96669/111366
+image_queue length: 310
+result_queue length: 0
+BLD_s3EBrkE: image missing!
+Images remaining (length of url_queue): 96533/111366
+image_queue length: 302
+result_queue length: 0
+BJ0ZfE0Bgoy: image missing!
+BK8nVK2AR1d: image missing!
+Images remaining (length of url_queue): 96408/111366
+image_queue length: 303
+result_queue length: 0
+BK6oVWUBsk6: image missing!
+BJ0EBeWjfmA: image missing!
+BLEEkX5BslK: image missing!
+Images remaining (length of url_queue): 96275/111366
+image_queue length: 295
+result_queue length: 0
+BKEQL_pDN0t: image missing!
+BKBFU_-AaU5: image missing!
+BKERcZcAhx9: image missing!
+BJ20OEyj4mH: image missing!
+Images remaining (length of url_queue): 96137/111366
+image_queue length: 292
+result_queue length: 0
+BK0R_OTgQ-j: image missing!
+BK-LNeBDMag: image missing!
+BJ-cBOMAyJR: image missing!
+Images remaining (length of url_queue): 96002/111366
+image_queue length: 293
+result_queue length: 0
+Images remaining (length of url_queue): 95862/111366
+image_queue length: 303
+result_queue length: 0
+BK-fewqBdCf: image missing!
+Images remaining (length of url_queue): 95729/111366
+image_queue length: 295
+result_queue length: 0
+Images remaining (length of url_queue): 95595/111366
+image_queue length: 300
+result_queue length: 0
+BK8QgpDA2l3: image missing!
+Images remaining (length of url_queue): 95462/111366
+image_queue length: 299
+result_queue length: 0
+BKAtzqnAxlp: image missing!
+Images remaining (length of url_queue): 95318/111366
+image_queue length: 311
+result_queue length: 0
+BKIljHVgygg: image missing!
+Images remaining (length of url_queue): 95190/111366
+image_queue length: 306
+result_queue length: 0
+BK5pcpFjSE9: image missing!
+BJzhkOEB8I5: image missing!
+Images remaining (length of url_queue): 95061/111366
+image_queue length: 301
+result_queue length: 0
+BLDYi_fgx98: image missing!
+BK3Ruv8gP8-: image missing!
+BKERBjPj7wK: image missing!
+Images remaining (length of url_queue): 94937/111366
+image_queue length: 287
+result_queue length: 0
+BJ4M5jvAAF7: image missing!
+BKDqoQwhUAT: image missing!
+BK7_rJghpKG: image missing!
+Images remaining (length of url_queue): 94803/111366
+image_queue length: 283
+result_queue length: 0
+Images remaining (length of url_queue): 94676/111366
+image_queue length: 279
+result_queue length: 0
+BK7pOXPhgqR: image missing!
+BJ8SKmUB0KY: image missing!
+Images remaining (length of url_queue): 94544/111366
+image_queue length: 275
+result_queue length: 0
+BLCDyZWhWPR: image missing!
+BK5fumNA-wi: image missing!
+Images remaining (length of url_queue): 94413/111366
+image_queue length: 276
+result_queue length: 0
+BJ6b3VjAY7Z: image missing!
+BK3BPLpgqw-: image missing!
+BJ0gcG6DCNO: image missing!
+Images remaining (length of url_queue): 94283/111366
+image_queue length: 270
+result_queue length: 0
+Images remaining (length of url_queue): 94151/111366
+image_queue length: 275
+result_queue length: 0
+BJ_41a7B4Tk: image missing!
+Images remaining (length of url_queue): 94012/111366
+image_queue length: 276
+result_queue length: 0
+BKDjPNuDLUt: image missing!
+Images remaining (length of url_queue): 93874/111366
+image_queue length: 277
+result_queue length: 0
+BKGgeY-DA34: image missing!
+BKDU-CtD-vt: image missing!
+BKCLum8AHTc: image missing!
+BLIGwfUjeFD: image missing!
+Images remaining (length of url_queue): 93735/111366
+image_queue length: 285
+result_queue length: 0
+BJ9_UixgYbv: image missing!
+Images remaining (length of url_queue): 93595/111366
+image_queue length: 290
+result_queue length: 0
+BKGKcLsA9he: image missing!
+Images remaining (length of url_queue): 93473/111366
+image_queue length: 281
+result_queue length: 0
+BJ0hXNPDYcQ: image missing!
+Images remaining (length of url_queue): 93340/111366
+image_queue length: 280
+result_queue length: 0
+BJ76hWWhh01: image missing!
+BKF7QANALEQ: image missing!
+BK8CfgNBCJs: image missing!
+BJ8JLJABwcn: image missing!
+BLJ3SftA0DQ: image missing!
+Images remaining (length of url_queue): 93200/111366
+image_queue length: 284
+result_queue length: 0
+BK3k2HYgSdz: image missing!
+BLB6AIjh-7W: image missing!
+Images remaining (length of url_queue): 93062/111366
+image_queue length: 287
+result_queue length: 0
+Images remaining (length of url_queue): 92933/111366
+image_queue length: 281
+result_queue length: 0
+BJ5fUWUBB_s: image missing!
+Images remaining (length of url_queue): 92800/111366
+image_queue length: 283
+result_queue length: 0
+Images remaining (length of url_queue): 92668/111366
+image_queue length: 285
+result_queue length: 0
+BK6E7T4jUQQ: image missing!
+Images remaining (length of url_queue): 92538/111366
+image_queue length: 283
+result_queue length: 0
+BK1rprIg88h: image missing!
+Images remaining (length of url_queue): 92406/111366
+image_queue length: 276
+result_queue length: 0
+BJ_c0Y_jlin: image missing!
+Images remaining (length of url_queue): 92265/111366
+image_queue length: 289
+result_queue length: 0
+BK3nmgohzDR: image missing!
+Images remaining (length of url_queue): 92139/111366
+image_queue length: 285
+result_queue length: 0
+BKJd12Wjggy: image missing!
+BLJSc3EhGZA: image missing!
+BLBKidig1Jn: image missing!
+BJ-X5CyAdpR: image missing!
+Images remaining (length of url_queue): 92001/111366
+image_queue length: 291
+result_queue length: 0
+BLDxL3gA6ZN: image missing!
+BK3ceoAjPdU: image missing!
+BK801YxjBQD: image missing!
+BJzcI42geK0: image missing!
+Images remaining (length of url_queue): 91860/111366
+image_queue length: 292
+result_queue length: 0
+BJ1GICYhqhz: image missing!
+Images remaining (length of url_queue): 91738/111366
+image_queue length: 281
+result_queue length: 0
+BKF7LSSgDUC: image missing!
+BKGxyWBgGGf: image missing!
+Images remaining (length of url_queue): 91600/111366
+image_queue length: 280
+result_queue length: 0
+BK5e6CwBNcW: image missing!
+Images remaining (length of url_queue): 91465/111366
+image_queue length: 284
+result_queue length: 0
+Images remaining (length of url_queue): 91326/111366
+image_queue length: 287
+result_queue length: 0
+BK5GDjiBEdP: image missing!
+Images remaining (length of url_queue): 91197/111366
+image_queue length: 291
+result_queue length: 0
+Images remaining (length of url_queue): 91058/111366
+image_queue length: 291
+result_queue length: 0
+BK8VjKUByWS: image missing!
+Images remaining (length of url_queue): 90925/111366
+image_queue length: 294
+result_queue length: 0
+BK3fqSpAjkl: image missing!
+Images remaining (length of url_queue): 90790/111366
+image_queue length: 295
+result_queue length: 0
+BK8o5z2BN2I: image missing!
+Images remaining (length of url_queue): 90659/111366
+image_queue length: 288
+result_queue length: 0
+Images remaining (length of url_queue): 90520/111366
+image_queue length: 305
+result_queue length: 0
+Images remaining (length of url_queue): 90380/111366
+image_queue length: 307
+result_queue length: 0
+BLJntWmjP8m: image missing!
+BKFaNlehdRo: image missing!
+BLByUYtAI80: image missing!
+Images remaining (length of url_queue): 90248/111366
+image_queue length: 297
+result_queue length: 0
+BLGZoBoBeQO: image missing!
+BKJyRoCDTfF: image missing!
+BKJzQ80h6a3: image missing!
+Images remaining (length of url_queue): 90108/111366
+image_queue length: 308
+result_queue length: 0
+BKGvu77gRhB: image missing!
+Images remaining (length of url_queue): 89977/111366
+image_queue length: 302
+result_queue length: 0
+Images remaining (length of url_queue): 89846/111366
+image_queue length: 305
+result_queue length: 0
+BKF3qArAzBy: image missing!
+BK-D4DXBLA5: image missing!
+Images remaining (length of url_queue): 89712/111366
+image_queue length: 308
+result_queue length: 0
+Images remaining (length of url_queue): 89584/111366
+image_queue length: 298
+result_queue length: 0
+BJ6bxThAb6_: image missing!
+BJ0FnChj5IQ: image missing!
+Images remaining (length of url_queue): 89457/111366
+image_queue length: 300
+result_queue length: 1
+BJzo31Ph62n: image missing!
+Images remaining (length of url_queue): 89316/111366
+image_queue length: 306
+result_queue length: 0
+BJ43nwdAKYj: image missing!
+Images remaining (length of url_queue): 89194/111366
+image_queue length: 295
+result_queue length: 0
+BJ0zKybAZNt: image missing!
+Images remaining (length of url_queue): 89053/111366
+image_queue length: 302
+result_queue length: 0
+Images remaining (length of url_queue): 88911/111366
+image_queue length: 311
+result_queue length: 0
+BKIQNBVhCrP: image missing!
+BK7W2nHBiCy: image missing!
+BLE9Qx6DhNw: image missing!
+Images remaining (length of url_queue): 88786/111366
+image_queue length: 307
+result_queue length: 0
+BKBG7CuA-uC: image missing!
+BKIdqEUBEl6: image missing!
+Images remaining (length of url_queue): 88652/111366
+image_queue length: 301
+result_queue length: 0
+BJ3SS_XDp2e: image missing!
+Images remaining (length of url_queue): 88522/111366
+image_queue length: 297
+result_queue length: 0
+Images remaining (length of url_queue): 88386/111366
+image_queue length: 316
+result_queue length: 0
+BLGBgzwDdI_: image missing!
+Images remaining (length of url_queue): 88261/111366
+image_queue length: 311
+result_queue length: 0
+BK-6K9YBDGY: image missing!
+Images remaining (length of url_queue): 88128/111366
+image_queue length: 306
+result_queue length: 0
+BKBjl0PBw05: image missing!
+Images remaining (length of url_queue): 88000/111366
+image_queue length: 301
+result_queue length: 0
+BLD_p_Gg8ql: image missing!
+Images remaining (length of url_queue): 87857/111366
+image_queue length: 311
+result_queue length: 0
+BK6rUVUhkh3: image missing!
+Images remaining (length of url_queue): 87719/111366
+image_queue length: 322
+result_queue length: 0
+BKGpJdkj55b: image missing!
+BK5Co80gOyI: image missing!
+Images remaining (length of url_queue): 87582/111366
+image_queue length: 324
+result_queue length: 0
+BK-Xb5RB7Mg: image missing!
+Images remaining (length of url_queue): 87445/111366
+image_queue length: 328
+result_queue length: 0
+BLJLj0LhSxr: image missing!
+Images remaining (length of url_queue): 87314/111366
+image_queue length: 325
+result_queue length: 0
+Images remaining (length of url_queue): 87181/111366
+image_queue length: 325
+result_queue length: 0
+BKDN8ymjso2: image missing!
+Images remaining (length of url_queue): 87042/111366
+image_queue length: 332
+result_queue length: 0
+Images remaining (length of url_queue): 86907/111366
+image_queue length: 335
+result_queue length: 0
+BK0YpiSggHP: image missing!
+BK8wUtIjDMK: image missing!
+BJ5LDZrgvl2: image missing!
+Images remaining (length of url_queue): 86770/111366
+image_queue length: 340
+result_queue length: 0
+BK6SQCHgHx8: image missing!
+Images remaining (length of url_queue): 86640/111366
+image_queue length: 338
+result_queue length: 0
+BJ3hQ3lAg92: image missing!
+Images remaining (length of url_queue): 86504/111366
+image_queue length: 339
+result_queue length: 0
+BK5F9y3BO_k: image missing!
+BJ0kD50hmQq: image missing!
+Images remaining (length of url_queue): 86363/111366
+image_queue length: 345
+result_queue length: 0
+BK-76WKgr0J: image missing!
+BKCyX6Cgt8H: image missing!
+Images remaining (length of url_queue): 86222/111366
+image_queue length: 353
+result_queue length: 0
+BKDwvOhBUeG: image missing!
+Images remaining (length of url_queue): 86091/111366
+image_queue length: 350
+result_queue length: 0
+BK8B4NthXsX: image missing!
+BJ5kaY8jOFO: image missing!
+Images remaining (length of url_queue): 85955/111366
+image_queue length: 347
+result_queue length: 0
+BLDLD5HAHIM: image missing!
+Images remaining (length of url_queue): 85819/111366
+image_queue length: 352
+result_queue length: 0
+BK06edTBPkp: image missing!
+BLK1TV-g2Mp: image missing!
+Images remaining (length of url_queue): 85673/111366
+image_queue length: 366
+result_queue length: 0
+Images remaining (length of url_queue): 85529/111366
+image_queue length: 376
+result_queue length: 0
+BLEGRSkjHzM: image missing!
+Images remaining (length of url_queue): 85402/111366
+image_queue length: 372
+result_queue length: 0
+Images remaining (length of url_queue): 85265/111366
+image_queue length: 375
+result_queue length: 0
+BK8xLJnjzQN: image missing!
+Images remaining (length of url_queue): 85126/111366
+image_queue length: 382
+result_queue length: 0
+BLIzjnBBwUQ: image missing!
+BLIxIOEjzCn: image missing!
+BLJqfJah6jC: image missing!
+Images remaining (length of url_queue): 84989/111366
+image_queue length: 382
+result_queue length: 0
+BJ3RojCg8og: image missing!
+BLJN4dajKrj: image missing!
+BLBVpf0ApBO: image missing!
+Images remaining (length of url_queue): 84855/111366
+image_queue length: 386
+result_queue length: 0
+Images remaining (length of url_queue): 84722/111366
+image_queue length: 396
+result_queue length: 0
+BK5_AbEjYLg: image missing!
+Images remaining (length of url_queue): 84588/111366
+image_queue length: 389
+result_queue length: 0
+BLEIQa9jM1-: image missing!
+Images remaining (length of url_queue): 84443/111366
+image_queue length: 401
+result_queue length: 0
+Images remaining (length of url_queue): 84331/111366
+image_queue length: 395
+result_queue length: 0
+BKAP1m1BxhX: image missing!
+Images remaining (length of url_queue): 84196/111366
+image_queue length: 387
+result_queue length: 0
+Images remaining (length of url_queue): 84058/111366
+image_queue length: 398
+result_queue length: 0
+BLE_tGlDf3p: image missing!
+BKG1jvkj00z: image missing!
+BJ-FOEXBvT7: image missing!
+Images remaining (length of url_queue): 83917/111366
+image_queue length: 403
+result_queue length: 0
+BJ96gJ1BU77: image missing!
+BK9AmzgA7oW: image missing!
+Images remaining (length of url_queue): 83784/111366
+image_queue length: 396
+result_queue length: 0
+BJ-42QkAuqf: image missing!
+Images remaining (length of url_queue): 83648/111366
+image_queue length: 406
+result_queue length: 0
+BJz6-KojO0h: image missing!
+Images remaining (length of url_queue): 83520/111366
+image_queue length: 406
+result_queue length: 0
+Images remaining (length of url_queue): 83385/111366
+image_queue length: 403
+result_queue length: 1
+Images remaining (length of url_queue): 83255/111366
+image_queue length: 399
+result_queue length: 0
+BJzt9vcBi8W: image missing!
+BJ0MVXZBrOe: image missing!
+Images remaining (length of url_queue): 83127/111366
+image_queue length: 396
+result_queue length: 0
+Images remaining (length of url_queue): 82993/111366
+image_queue length: 397
+result_queue length: 0
+BLEShyqDKpb: image missing!
+BLD6kQkgR1P: image missing!
+Images remaining (length of url_queue): 82853/111366
+image_queue length: 414
+result_queue length: 0
+BLG4GN6h1_b: image missing!
+Images remaining (length of url_queue): 82723/111366
+image_queue length: 414
+result_queue length: 0
+BJ_h04DgnDo: image missing!
+Images remaining (length of url_queue): 82589/111366
+image_queue length: 411
+result_queue length: 0
+Images remaining (length of url_queue): 82453/111366
+image_queue length: 419
+result_queue length: 0
+Images remaining (length of url_queue): 82318/111366
+image_queue length: 420
+result_queue length: 0
+BK6ODfPAvmm: image missing!
+Images remaining (length of url_queue): 82183/111366
+image_queue length: 416
+result_queue length: 0
+BJ7tBTFj1z0: image missing!
+BK0Pp4YAiMQ: image missing!
+BK5-WoegQcM: image missing!
+BK5D1m8B8lT: image missing!
+Images remaining (length of url_queue): 82054/111366
+image_queue length: 424
+result_queue length: 0
+BK44Br7gkG8: image missing!
+BLEFbsVDOM4: image missing!
+BJz6s-vAKGm: image missing!
+Images remaining (length of url_queue): 81913/111366
+image_queue length: 420
+result_queue length: 0
+BLJWTQOg5V5: image missing!
+BKBuoIRgNtQ: image missing!
+Images remaining (length of url_queue): 81776/111366
+image_queue length: 423
+result_queue length: 0
+BJ0uPNRDNWI: image missing!
+BKI53uwBx0r: image missing!
+Images remaining (length of url_queue): 81634/111366
+image_queue length: 428
+result_queue length: 0
+BLEQmWrg6R1: image missing!
+Images remaining (length of url_queue): 81505/111366
+image_queue length: 422
+result_queue length: 0
+BLInan7AZX-: image missing!
+BK74N_NgXMe: image missing!
+Images remaining (length of url_queue): 81367/111366
+image_queue length: 435
+result_queue length: 0
+Images remaining (length of url_queue): 81231/111366
+image_queue length: 439
+result_queue length: 0
+BK11hsKDaH-: image missing!
+Images remaining (length of url_queue): 81092/111366
+image_queue length: 440
+result_queue length: 0
+BLE6LsDj6OC: image missing!
+BKGZMVDAeYa: image missing!
+BJ-fYLMjRH2: image missing!
+Images remaining (length of url_queue): 80958/111366
+image_queue length: 441
+result_queue length: 0
+Images remaining (length of url_queue): 80822/111366
+image_queue length: 452
+result_queue length: 0
+Images remaining (length of url_queue): 80684/111366
+image_queue length: 452
+result_queue length: 0
+BK1P2wUDlqW: image missing!
+BKHxZc2gqTL: image missing!
+Images remaining (length of url_queue): 80552/111366
+image_queue length: 455
+result_queue length: 0
+Images remaining (length of url_queue): 80408/111366
+image_queue length: 472
+result_queue length: 0
+BK8B1rKjCux: image missing!
+Images remaining (length of url_queue): 80284/111366
+image_queue length: 466
+result_queue length: 0
+BLJBlC1AT7p: image missing!
+Images remaining (length of url_queue): 80149/111366
+image_queue length: 461
+result_queue length: 0
+BLGpZeZBDx3: image missing!
+BJ_SBRUj6iD: image missing!
+BLBqLBngypk: image missing!
+BKALVh4As-6: image missing!
+BJ12kd2AZe4: image missing!
+Images remaining (length of url_queue): 80005/111366
+image_queue length: 472
+result_queue length: 0
+BK574Dhhl6-: image missing!
+BJ22wBdjf3h: image missing!
+BLI379KDIKG: image missing!
+Images remaining (length of url_queue): 79881/111366
+image_queue length: 455
+result_queue length: 0
+BJ6U1I7DUA7: image missing!
+BK25pdFBO6f: image missing!
+Images remaining (length of url_queue): 79747/111366
+image_queue length: 458
+result_queue length: 0
+BLGls_UgsIl: image missing!
+BLCS0-ljSWH: image missing!
+Images remaining (length of url_queue): 79616/111366
+image_queue length: 463
+result_queue length: 0
+BJ4u6N3DCTG: image missing!
+Images remaining (length of url_queue): 79479/111366
+image_queue length: 465
+result_queue length: 0
+Images remaining (length of url_queue): 79353/111366
+image_queue length: 458
+result_queue length: 0
+BKCBMbfgJ4C: image missing!
+Images remaining (length of url_queue): 79214/111366
+image_queue length: 462
+result_queue length: 0
+BKI8QTODUct: image missing!
+Images remaining (length of url_queue): 79077/111366
+image_queue length: 464
+result_queue length: 0
+Images remaining (length of url_queue): 78948/111366
+image_queue length: 468
+result_queue length: 0
+Images remaining (length of url_queue): 78824/111366
+image_queue length: 456
+result_queue length: 0
+BJ5Hnl0ACwM: image missing!
+BKBKvylj_by: image missing!
+Images remaining (length of url_queue): 78688/111366
+image_queue length: 459
+result_queue length: 1
+BLI3UVqjwSc: image missing!
+Images remaining (length of url_queue): 78555/111366
+image_queue length: 455
+result_queue length: 0
+BKD_-Kcjfi2: image missing!
+BJzan6rA8VI: image missing!
+BJzwE1FD5qF: image missing!
+BJ44UXdhnjC: image missing!
+BKDE3WFAQaK: image missing!
+Images remaining (length of url_queue): 78423/111366
+image_queue length: 448
+result_queue length: 0
+BJ46Zbpg1px: image missing!
+Images remaining (length of url_queue): 78292/111366
+image_queue length: 457
+result_queue length: 0
+BLCJw-sB1La: image missing!
+Images remaining (length of url_queue): 78158/111366
+image_queue length: 459
+result_queue length: 0
+BK9Uy0ajICT: image missing!
+Images remaining (length of url_queue): 78019/111366
+image_queue length: 467
+result_queue length: 0
+BJ2zunxDKRg: image missing!
+Images remaining (length of url_queue): 77890/111366
+image_queue length: 465
+result_queue length: 0
+BKDuJH8h719: image missing!
+BLIPFUlh29J: image missing!
+Images remaining (length of url_queue): 77745/111366
+image_queue length: 477
+result_queue length: 0
+Images remaining (length of url_queue): 77618/111366
+image_queue length: 468
+result_queue length: 0
+Images remaining (length of url_queue): 77489/111366
+image_queue length: 476
+result_queue length: 0
+BJ0qjFuAVar: image missing!
+Images remaining (length of url_queue): 77359/111366
+image_queue length: 465
+result_queue length: 0
+BLEGFBzDn69: image missing!
+BJ2WFGuDi2E: image missing!
+Images remaining (length of url_queue): 77233/111366
+image_queue length: 460
+result_queue length: 1
+BKEKKyyDdvA: image missing!
+Images remaining (length of url_queue): 77097/111366
+image_queue length: 456
+result_queue length: 0
+BLKZeDKgl23: image missing!
+Images remaining (length of url_queue): 76962/111366
+image_queue length: 466
+result_queue length: 0
+BLGjhmWgYjs: image missing!
+Images remaining (length of url_queue): 76827/111366
+image_queue length: 468
+result_queue length: 0
+BKC_QtvDJLn: image missing!
+BLGUoTLg7Ah: image missing!
+Images remaining (length of url_queue): 76704/111366
+image_queue length: 456
+result_queue length: 0
+BJzaR36AJag: image missing!
+Images remaining (length of url_queue): 76566/111366
+image_queue length: 467
+result_queue length: 0
+BJ0Y1VFAOht: image missing!
+Images remaining (length of url_queue): 76434/111366
+image_queue length: 467
+result_queue length: 0
+BKBfxpChtXk: image missing!
+Images remaining (length of url_queue): 76299/111366
+image_queue length: 463
+result_queue length: 0
+BLE82cJjhpu: image missing!
+BLEjL1mANE3: image missing!
+Images remaining (length of url_queue): 76171/111366
+image_queue length: 462
+result_queue length: 0
+Images remaining (length of url_queue): 76037/111366
+image_queue length: 464
+result_queue length: 0
+BK3uu2kgeN7: image missing!
+Images remaining (length of url_queue): 75890/111366
+image_queue length: 477
+result_queue length: 0
+BLEquVGjl4_: image missing!
+Images remaining (length of url_queue): 75752/111366
+image_queue length: 483
+result_queue length: 0
+BJ-0GKLjxSd: image missing!
+Images remaining (length of url_queue): 75623/111366
+image_queue length: 474
+result_queue length: 0
+BJ2K4gsBqWH: image missing!
+Images remaining (length of url_queue): 75490/111366
+image_queue length: 476
+result_queue length: 0
+BLCTi1YgkMY: image missing!
+Images remaining (length of url_queue): 75353/111366
+image_queue length: 481
+result_queue length: 0
+Images remaining (length of url_queue): 75205/111366
+image_queue length: 495
+result_queue length: 0
+BJzlYTDBgMt: image missing!
+BJ4gxrkgpvx: image missing!
+Images remaining (length of url_queue): 75065/111366
+image_queue length: 507
+result_queue length: 0
+BK0uve4h9WB: image missing!
+Images remaining (length of url_queue): 74926/111366
+image_queue length: 514
+result_queue length: 0
+BKEluurgQYu: image missing!
+Images remaining (length of url_queue): 74802/111366
+image_queue length: 506
+result_queue length: 0
+Images remaining (length of url_queue): 74671/111366
+image_queue length: 503
+result_queue length: 0
+Images remaining (length of url_queue): 74550/111366
+image_queue length: 497
+result_queue length: 0
+BJ6FtuPBG8N: image missing!
+Images remaining (length of url_queue): 74420/111366
+image_queue length: 503
+result_queue length: 0
+BK8zNU7jYtK: image missing!
+BJ-eXJjg4ok: image missing!
+BJ7-fNrjcKK: image missing!
+Images remaining (length of url_queue): 74290/111366
+image_queue length: 490
+result_queue length: 0
+BKB6qOygrkT: image missing!
+Images remaining (length of url_queue): 74155/111366
+image_queue length: 493
+result_queue length: 0
+Images remaining (length of url_queue): 74018/111366
+image_queue length: 499
+result_queue length: 0
+BJ0EAIJhxvB: image missing!
+Images remaining (length of url_queue): 73881/111366
+image_queue length: 509
+result_queue length: 0
+BLAofZCj_2-: image missing!
+Images remaining (length of url_queue): 73753/111366
+image_queue length: 506
+result_queue length: 0
+BK8VzPvgs--: image missing!
+Images remaining (length of url_queue): 73608/111366
+image_queue length: 509
+result_queue length: 0
+BLB9_eOD93w: image missing!
+Images remaining (length of url_queue): 73471/111366
+image_queue length: 515
+result_queue length: 0
+BKIJ8WSB4B2: image missing!
+BK5QiFcDB2G: image missing!
+Images remaining (length of url_queue): 73336/111366
+image_queue length: 516
+result_queue length: 0
+BKD2UUTD-rQ: image missing!
+BK09eVphlE7: image missing!
+Images remaining (length of url_queue): 73203/111366
+image_queue length: 511
+result_queue length: 0
+BJ-IMNeAdux: image missing!
+Images remaining (length of url_queue): 73076/111366
+image_queue length: 501
+result_queue length: 0
+Images remaining (length of url_queue): 72939/111366
+image_queue length: 508
+result_queue length: 0
+Images remaining (length of url_queue): 72800/111366
+image_queue length: 522
+result_queue length: 1
+Images remaining (length of url_queue): 72678/111366
+image_queue length: 506
+result_queue length: 0
+Images remaining (length of url_queue): 72543/111366
+image_queue length: 514
+result_queue length: 0
+BJ5aeDvjnXc: image missing!
+BJ8CmsDjUue: image missing!
+Images remaining (length of url_queue): 72407/111366
+image_queue length: 504
+result_queue length: 0
+Images remaining (length of url_queue): 72277/111366
+image_queue length: 511
+result_queue length: 0
+Images remaining (length of url_queue): 72150/111366
+image_queue length: 512
+result_queue length: 0
+Images remaining (length of url_queue): 72021/111366
+image_queue length: 516
+result_queue length: 0
+BLGqRvhhO0p: image missing!
+Images remaining (length of url_queue): 71895/111366
+image_queue length: 509
+result_queue length: 0
+BK5fze8AJB8: image missing!
+BJ5u-n3Du-r: image missing!
+Images remaining (length of url_queue): 71754/111366
+image_queue length: 510
+result_queue length: 0
+BK-oWqghI9X: image missing!
+Images remaining (length of url_queue): 71624/111366
+image_queue length: 504
+result_queue length: 0
+Images remaining (length of url_queue): 71493/111366
+image_queue length: 505
+result_queue length: 0
+BK5maOyDRpP: image missing!
+BKBqEJyA5OJ: image missing!
+Images remaining (length of url_queue): 71355/111366
+image_queue length: 503
+result_queue length: 0
+BK7e9mhjxrA: image missing!
+BLGzVxIjs8J: image missing!
+Images remaining (length of url_queue): 71214/111366
+image_queue length: 515
+result_queue length: 0
+BKGO3OfhZyz: image missing!
+Images remaining (length of url_queue): 71079/111366
+image_queue length: 519
+result_queue length: 0
+BLCcWTFg7dz: image missing!
+BJ5Z2PxDTd3: image missing!
+BJy6Ex7BYQU: image missing!
+Images remaining (length of url_queue): 70944/111366
+image_queue length: 517
+result_queue length: 0
+Images remaining (length of url_queue): 70810/111366
+image_queue length: 519
+result_queue length: 0
+BLBp59ajN3D: image missing!
+Images remaining (length of url_queue): 70671/111366
+image_queue length: 527
+result_queue length: 0
+BJ0ytKWgOnu: image missing!
+BK0gph_Bbl_: image missing!
+Images remaining (length of url_queue): 70536/111366
+image_queue length: 529
+result_queue length: 0
+BJ6cU9dAR-W: image missing!
+Images remaining (length of url_queue): 70403/111366
+image_queue length: 531
+result_queue length: 0
+BKAslSOg0BS: image missing!
+Images remaining (length of url_queue): 70270/111366
+image_queue length: 539
+result_queue length: 0
+BJ1-GHvhUpA: image missing!
+Images remaining (length of url_queue): 70134/111366
+image_queue length: 540
+result_queue length: 0
+Images remaining (length of url_queue): 69990/111366
+image_queue length: 552
+result_queue length: 0
+Images remaining (length of url_queue): 69855/111366
+image_queue length: 552
+result_queue length: 0
+Images remaining (length of url_queue): 69727/111366
+image_queue length: 550
+result_queue length: 0
+Images remaining (length of url_queue): 69582/111366
+image_queue length: 559
+result_queue length: 0
+Images remaining (length of url_queue): 69439/111366
+image_queue length: 573
+result_queue length: 0
+BKBxaN1h6ik: image missing!
+Images remaining (length of url_queue): 69301/111366
+image_queue length: 579
+result_queue length: 0
+BKJzvTfBfnR: image missing!
+Images remaining (length of url_queue): 69163/111366
+image_queue length: 580
+result_queue length: 0
+BLL9zD7Fh76: image missing!
+Images remaining (length of url_queue): 69028/111366
+image_queue length: 584
+result_queue length: 0
+BK1Tmoxh_yq: image missing!
+Images remaining (length of url_queue): 68905/111366
+image_queue length: 567
+result_queue length: 0
+Images remaining (length of url_queue): 68776/111366
+image_queue length: 568
+result_queue length: 0
+BK4EXKOgw3O: image missing!
+Images remaining (length of url_queue): 68646/111366
+image_queue length: 563
+result_queue length: 0
+BK8WIp_BJ53: image missing!
+BK7ZeeUg1bI: image missing!
+Images remaining (length of url_queue): 68508/111366
+image_queue length: 566
+result_queue length: 0
+BJ5b1XyBBon: image missing!
+Images remaining (length of url_queue): 68379/111366
+image_queue length: 569
+result_queue length: 0
+BKA112vDj_J: image missing!
+Images remaining (length of url_queue): 68250/111366
+image_queue length: 561
+result_queue length: 0
+BK9IOhNhJDp: image missing!
+BKIcPp7jTSp: image missing!
+Images remaining (length of url_queue): 68111/111366
+image_queue length: 566
+result_queue length: 0
+BK8uED4Dwn5: image missing!
+BJ0VZhcBRlu: image missing!
+BJ7XmaXhP5a: image missing!
+Images remaining (length of url_queue): 67979/111366
+image_queue length: 565
+result_queue length: 0
+BJ0m16IALWO: image missing!
+BLBjc80BcgY: image missing!
+Images remaining (length of url_queue): 67842/111366
+image_queue length: 569
+result_queue length: 0
+BLCTEs5Akn8: image missing!
+BKDgVTJgMlg: image missing!
+BKBmmsYhMBW: image missing!
+Images remaining (length of url_queue): 67721/111366
+image_queue length: 552
+result_queue length: 0
+Images remaining (length of url_queue): 67591/111366
+image_queue length: 557
+result_queue length: 0
+BLDsknvh37y: image missing!
+BKK1MYbDCcr: image missing!
+Images remaining (length of url_queue): 67468/111366
+image_queue length: 552
+result_queue length: 4
+BKA7nmLh5zH: image missing!
+BKJdytWDVGI: image missing!
+Images remaining (length of url_queue): 67360/111366
+image_queue length: 540
+result_queue length: 0
+Images remaining (length of url_queue): 67225/111366
+image_queue length: 543
+result_queue length: 0
+Images remaining (length of url_queue): 67084/111366
+image_queue length: 555
+result_queue length: 0
+BK7sOFTgwDH: image missing!
+Images remaining (length of url_queue): 66952/111366
+image_queue length: 552
+result_queue length: 0
+BK2SfXDh5H1: image missing!
+BKFpHFlD-99: image missing!
+BLEcv7MDBcu: image missing!
+Images remaining (length of url_queue): 66820/111366
+image_queue length: 549
+result_queue length: 0
+BJ-CEq8BXFF: image missing!
+BJ3A_LAggir: image missing!
+BK8QkfyAEw2: image missing!
+Images remaining (length of url_queue): 66677/111366
+image_queue length: 555
+result_queue length: 0
+BJ5NAOQDrSt: image missing!
+BK6pAvRj4XL: image missing!
+BLCaPDUDJdP: image missing!
+Images remaining (length of url_queue): 66538/111366
+image_queue length: 556
+result_queue length: 0
+Images remaining (length of url_queue): 66406/111366
+image_queue length: 557
+result_queue length: 0
+BLBQRxrjnGj: image missing!
+Images remaining (length of url_queue): 66277/111366
+image_queue length: 551
+result_queue length: 0
+BJ1AVIJj142: image missing!
+Images remaining (length of url_queue): 66148/111366
+image_queue length: 551
+result_queue length: 0
+BK5IFaNjKn6: image missing!
+Images remaining (length of url_queue): 66017/111366
+image_queue length: 552
+result_queue length: 0
+BJ7sO9UA5UW: image missing!
+Images remaining (length of url_queue): 65894/111366
+image_queue length: 535
+result_queue length: 0
+BK5-xYIA1zu: image missing!
+BJ08PoeB35m: image missing!
+BKBoCzdjwSW: image missing!
+Images remaining (length of url_queue): 65747/111366
+image_queue length: 554
+result_queue length: 1
+BJ-xOS0j8v8: image missing!
+BJ8auBGjnJd: image missing!
+BKIb__Mg7BH: image missing!
+Images remaining (length of url_queue): 65617/111366
+image_queue length: 549
+result_queue length: 0
+Images remaining (length of url_queue): 65480/111366
+image_queue length: 556
+result_queue length: 0
+BJ6O1QIDrzI: image missing!
+Images remaining (length of url_queue): 65346/111366
+image_queue length: 553
+result_queue length: 1
+BLIZw_iDYLz: image missing!
+Images remaining (length of url_queue): 65208/111366
+image_queue length: 552
+result_queue length: 0
+Images remaining (length of url_queue): 65072/111366
+image_queue length: 561
+result_queue length: 0
+BK8usjCDTTq: image missing!
+Images remaining (length of url_queue): 64943/111366
+image_queue length: 563
+result_queue length: 0
+BK850ZRDPPk: image missing!
+Images remaining (length of url_queue): 64803/111366
+image_queue length: 574
+result_queue length: 3
+Images remaining (length of url_queue): 64669/111366
+image_queue length: 562
+result_queue length: 0
+Images remaining (length of url_queue): 64533/111366
+image_queue length: 576
+result_queue length: 0
+BK-q1OXhk1A: image missing!
+BK6cYHlhbHp: image missing!
+Images remaining (length of url_queue): 64403/111366
+image_queue length: 576
+result_queue length: 1
+BK-kYh2AoZX: image missing!
+BKIcasQgseT: image missing!
+Images remaining (length of url_queue): 64266/111366
+image_queue length: 571
+result_queue length: 0
+BK-7_3ugegl: image missing!
+BJ5aghRjYHc: image missing!
+BK803HzDV5o: image missing!
+BK0yHyeBALl: image missing!
+Images remaining (length of url_queue): 64139/111366
+image_queue length: 567
+result_queue length: 0
+BK84wiPDT1K: image missing!
+Images remaining (length of url_queue): 64008/111366
+image_queue length: 568
+result_queue length: 0
+BLBfiPfhG0a: image missing!
+BJ2TF-7AQij: image missing!
+Images remaining (length of url_queue): 63874/111366
+image_queue length: 564
+result_queue length: 0
+BLBZDS8hHf3: image missing!
+BK2wbYfB91x: image missing!
+Images remaining (length of url_queue): 63733/111366
+image_queue length: 576
+result_queue length: 0
+BJ3HvHzB9Ao: image missing!
+BJ7RRCjgc1P: image missing!
+Images remaining (length of url_queue): 63596/111366
+image_queue length: 583
+result_queue length: 0
+BKKLglsDNJA: image missing!
+BLH9hkDjZgB: image missing!
+Images remaining (length of url_queue): 63461/111366
+image_queue length: 580
+result_queue length: 1
+BJ-CKsvhdCc: image missing!
+Images remaining (length of url_queue): 63332/111366
+image_queue length: 577
+result_queue length: 0
+BK4vDVsgGTL: image missing!
+BK-NKZvBxzT: image missing!
+Images remaining (length of url_queue): 63203/111366
+image_queue length: 578
+result_queue length: 0
+BK6P6PeDkNT: image missing!
+Images remaining (length of url_queue): 63064/111366
+image_queue length: 582
+result_queue length: 0
+Images remaining (length of url_queue): 62917/111366
+image_queue length: 592
+result_queue length: 0
+BKEIR8RhEvC: image missing!
+Images remaining (length of url_queue): 62786/111366
+image_queue length: 588
+result_queue length: 0
+Images remaining (length of url_queue): 62655/111366
+image_queue length: 592
+result_queue length: 0
+Images remaining (length of url_queue): 62519/111366
+image_queue length: 595
+result_queue length: 1
+BJ77XXXBp7Y: image missing!
+BK6pnUXj4t0: image missing!
+Images remaining (length of url_queue): 62377/111366
+image_queue length: 607
+result_queue length: 0
+BKBGVOajhi-: image missing!
+BJ2FmT_Av94: image missing!
+Images remaining (length of url_queue): 62235/111366
+image_queue length: 612
+result_queue length: 0
+Images remaining (length of url_queue): 62103/111366
+image_queue length: 612
+result_queue length: 0
+BJ8eFJvDaE9: image missing!
+BK6X1_Shg15: image missing!
+Images remaining (length of url_queue): 61966/111366
+image_queue length: 606
+result_queue length: 0
+BLI3OE9DNs6: image missing!
+BK082Y_Ay9T: image missing!
+Images remaining (length of url_queue): 61828/111366
+image_queue length: 618
+result_queue length: 0
+BKGIoVxB7NR: image missing!
+Images remaining (length of url_queue): 61697/111366
+image_queue length: 616
+result_queue length: 0
+BJ5BbVDhmPk: image missing!
+Images remaining (length of url_queue): 61557/111366
+image_queue length: 627
+result_queue length: 0
+BKGpOPYAF99: image missing!
+BK4BM4aAYkp: image missing!
+Images remaining (length of url_queue): 61431/111366
+image_queue length: 614
+result_queue length: 0
+Images remaining (length of url_queue): 61298/111366
+image_queue length: 614
+result_queue length: 0
+BLE895eDWR5: image missing!
+BJ-R_6CBSE7: image missing!
+Images remaining (length of url_queue): 61169/111366
+image_queue length: 612
+result_queue length: 0
+Images remaining (length of url_queue): 61028/111366
+image_queue length: 625
+result_queue length: 1
+BK2oyxbBMxJ: image missing!
+Images remaining (length of url_queue): 60890/111366
+image_queue length: 626
+result_queue length: 0
+BK1TZLPgGpm: image missing!
+BLJzCCPDzrn: image missing!
+Images remaining (length of url_queue): 60756/111366
+image_queue length: 628
+result_queue length: 0
+Images remaining (length of url_queue): 60625/111366
+image_queue length: 629
+result_queue length: 0
+BLJ7RZ5AaNa: image missing!
+Images remaining (length of url_queue): 60482/111366
+image_queue length: 643
+result_queue length: 0
+Images remaining (length of url_queue): 60349/111366
+image_queue length: 644
+result_queue length: 0
+BLI5V_JDv7_: image missing!
+BLBEgZqjVRK: image missing!
+Images remaining (length of url_queue): 60223/111366
+image_queue length: 637
+result_queue length: 0
+Images remaining (length of url_queue): 60090/111366
+image_queue length: 638
+result_queue length: 0
+BKC-8MugZjP: image missing!
+Images remaining (length of url_queue): 59944/111366
+image_queue length: 651
+result_queue length: 0
+Images remaining (length of url_queue): 59813/111366
+image_queue length: 647
+result_queue length: 0
+Images remaining (length of url_queue): 59670/111366
+image_queue length: 654
+result_queue length: 0
+BJ5uFJjD6lG: image missing!
+BK8goWKAYK7: image missing!
+Images remaining (length of url_queue): 59538/111366
+image_queue length: 654
+result_queue length: 0
+BJ4KvkmAoD6: image missing!
+BJ9xUkSBmzn: image missing!
+BK8YBBRhzeF: image missing!
+Images remaining (length of url_queue): 59404/111366
+image_queue length: 655
+result_queue length: 0
+Images remaining (length of url_queue): 59263/111366
+image_queue length: 668
+result_queue length: 0
+Images remaining (length of url_queue): 59132/111366
+image_queue length: 667
+result_queue length: 0
+BLBy6FugWtt: image missing!
+Images remaining (length of url_queue): 59003/111366
+image_queue length: 659
+result_queue length: 0
+BLDl7T3j8Ui: image missing!
+BLJHobKj290: image missing!
+BLBRbQkD4sF: image missing!
+Images remaining (length of url_queue): 58873/111366
+image_queue length: 658
+result_queue length: 0
+BK21xEDjNxG: image missing!
+BKGfy7Fgtrp: image missing!
+BKGffWPh9tq: image missing!
+BK8cgaZh7M7: image missing!
+Images remaining (length of url_queue): 58745/111366
+image_queue length: 655
+result_queue length: 0
+Images remaining (length of url_queue): 58596/111366
+image_queue length: 672
+result_queue length: 1
+BJ2ydYFBCzp: image missing!
+BKAsJebjpIP: image missing!
+Images remaining (length of url_queue): 58456/111366
+image_queue length: 676
+result_queue length: 0
+BLIckrJhWk9: image missing!
+BK71FWUhmDn: image missing!
+Images remaining (length of url_queue): 58327/111366
+image_queue length: 674
+result_queue length: 0
+Images remaining (length of url_queue): 58193/111366
+image_queue length: 672
+result_queue length: 0
+Images remaining (length of url_queue): 58061/111366
+image_queue length: 673
+result_queue length: 0
+BJ-5C9kBmRp: image missing!
+Images remaining (length of url_queue): 57923/111366
+image_queue length: 679
+result_queue length: 0
+Images remaining (length of url_queue): 57798/111366
+image_queue length: 674
+result_queue length: 0
+Images remaining (length of url_queue): 57663/111366
+image_queue length: 680
+result_queue length: 0
+BJ1mnHEhfzU: image missing!
+Images remaining (length of url_queue): 57537/111366
+image_queue length: 678
+result_queue length: 0
+BKHMSDxDDON: image missing!
+BJ8L9PzgLjf: image missing!
+Images remaining (length of url_queue): 57401/111366
+image_queue length: 684
+result_queue length: 0
+BJzuw0KD1W6: image missing!
+BJ5C-YiBtPZ: image missing!
+Images remaining (length of url_queue): 57263/111366
+image_queue length: 686
+result_queue length: 0
+Images remaining (length of url_queue): 57140/111366
+image_queue length: 681
+result_queue length: 0
+BK7KAekgTQQ: image missing!
+BJ0bwr_Bci2: image missing!
+Images remaining (length of url_queue): 57007/111366
+image_queue length: 679
+result_queue length: 1
+BKATmMshyr6: image missing!
+Images remaining (length of url_queue): 56868/111366
+image_queue length: 688
+result_queue length: 0
+BK0NJ1eh-bh: image missing!
+Images remaining (length of url_queue): 56731/111366
+image_queue length: 686
+result_queue length: 0
+Images remaining (length of url_queue): 56600/111366
+image_queue length: 692
+result_queue length: 0
+BK8yO57jhhb: image missing!
+BKJRvsSjcgI: image missing!
+Images remaining (length of url_queue): 56466/111366
+image_queue length: 692
+result_queue length: 0
+BKAIrbwjGK1: image missing!
+Images remaining (length of url_queue): 56340/111366
+image_queue length: 681
+result_queue length: 0
+BK99g2BBlOw: image missing!
+Images remaining (length of url_queue): 56213/111366
+image_queue length: 675
+result_queue length: 0
+BKEE2wXDlhj: image missing!
+BJ08D6aBEi0: image missing!
+Images remaining (length of url_queue): 56068/111366
+image_queue length: 686
+result_queue length: 0
+BKEJ__4D6g6: image missing!
+Images remaining (length of url_queue): 55935/111366
+image_queue length: 688
+result_queue length: 0
+Images remaining (length of url_queue): 55797/111366
+image_queue length: 693
+result_queue length: 0
+BK8KucKDkq9: image missing!
+Images remaining (length of url_queue): 55667/111366
+image_queue length: 692
+result_queue length: 0
+BJ_S3uAhA2L: image missing!
+Images remaining (length of url_queue): 55529/111366
+image_queue length: 695
+result_queue length: 0
+Images remaining (length of url_queue): 55394/111366
+image_queue length: 697
+result_queue length: 0
+BKAYGaJhZLl: image missing!
+Images remaining (length of url_queue): 55257/111366
+image_queue length: 699
+result_queue length: 0
+BLDuPCIBCeZ: image missing!
+Images remaining (length of url_queue): 55137/111366
+image_queue length: 692
+result_queue length: 1
+BKFifGIgEoY: image missing!
+Images remaining (length of url_queue): 55014/111366
+image_queue length: 681
+result_queue length: 0
+BLBmBodjMO8: image missing!
+Images remaining (length of url_queue): 54883/111366
+image_queue length: 675
+result_queue length: 0
+Images remaining (length of url_queue): 54765/111366
+image_queue length: 659
+result_queue length: 0
+Images remaining (length of url_queue): 54636/111366
+image_queue length: 660
+result_queue length: 0
+BKA-fMoDBAA: image missing!
+BKDH68-BO1u: image missing!
+BLI52qYj-2y: image missing!
+Images remaining (length of url_queue): 54505/111366
+image_queue length: 656
+result_queue length: 0
+BK0xrNfh2qq: image missing!
+Images remaining (length of url_queue): 54378/111366
+image_queue length: 643
+result_queue length: 0
+BJ8H5TSjgYX: image missing!
+Images remaining (length of url_queue): 54252/111366
+image_queue length: 638
+result_queue length: 0
+BK47xWkhs3k: image missing!
+BJ76-EuDIEK: image missing!
+Images remaining (length of url_queue): 54130/111366
+image_queue length: 624
+result_queue length: 1
+BJ2TjW8DncN: image missing!
+Images remaining (length of url_queue): 54003/111366
+image_queue length: 617
+result_queue length: 0
+BJ2NAq-hGmB: image missing!
+BK8lLbogWeo: image missing!
+BKJtoG-AeId: image missing!
+BK8yfAbjVP6: image missing!
+BK0sCChD8Qg: image missing!
+Images remaining (length of url_queue): 53887/111366
+image_queue length: 597
+result_queue length: 0
+BLEcnKbjOMg: image missing!
+Images remaining (length of url_queue): 53766/111366
+image_queue length: 584
+result_queue length: 0
+BK-Y8uhBTZw: image missing!
+BJzwv8_B6lH: image missing!
+Images remaining (length of url_queue): 53640/111366
+image_queue length: 571
+result_queue length: 0
+Images remaining (length of url_queue): 53510/111366
+image_queue length: 567
+result_queue length: 0
+BJ0Np-zAH7V: image missing!
+BK-2AYljkQS: image missing!
+BK7Yd8oge5F: image missing!
+Images remaining (length of url_queue): 53384/111366
+image_queue length: 558
+result_queue length: 0
+BJ9saVzgX97: image missing!
+BK8n5l5BK6q: image missing!
+Images remaining (length of url_queue): 53244/111366
+image_queue length: 563
+result_queue length: 0
+BJ5vtM0jiUd: image missing!
+BK99aqShuWf: image missing!
+Images remaining (length of url_queue): 53115/111366
+image_queue length: 562
+result_queue length: 0
+BKHDRRZA05T: image missing!
+Images remaining (length of url_queue): 52974/111366
+image_queue length: 574
+result_queue length: 0
+BLFGonqB5Gw: image missing!
+BLJHxo2jJ6S: image missing!
+Images remaining (length of url_queue): 52840/111366
+image_queue length: 573
+result_queue length: 0
+BJ0ItD-gLtb: image missing!
+BK4_KPWgP5I: image missing!
+Images remaining (length of url_queue): 52714/111366
+image_queue length: 564
+result_queue length: 0
+BJ18cVNhP8g: image missing!
+BLGJ0wagcGz: image missing!
+Images remaining (length of url_queue): 52582/111366
+image_queue length: 566
+result_queue length: 0
+Images remaining (length of url_queue): 52444/111366
+image_queue length: 571
+result_queue length: 0
+BJ84cVZhaf3: image missing!
+Images remaining (length of url_queue): 52313/111366
+image_queue length: 564
+result_queue length: 0
+Images remaining (length of url_queue): 52191/111366
+image_queue length: 553
+result_queue length: 0
+BK9-be1BGnm: image missing!
+Images remaining (length of url_queue): 52064/111366
+image_queue length: 546
+result_queue length: 0
+Images remaining (length of url_queue): 51926/111366
+image_queue length: 555
+result_queue length: 0
+BKAif0xD4Ke: image missing!
+BLLvQldB3VY: image missing!
+BJ4aMcEgABq: image missing!
+Images remaining (length of url_queue): 51789/111366
+image_queue length: 558
+result_queue length: 0
+BJ0deSDBDWi: image missing!
+Images remaining (length of url_queue): 51663/111366
+image_queue length: 555
+result_queue length: 0
+Images remaining (length of url_queue): 51534/111366
+image_queue length: 547
+result_queue length: 0
+Images remaining (length of url_queue): 51396/111366
+image_queue length: 555
+result_queue length: 0
+BJ0RG7_DH-_: image missing!
+BJ5oFIHD2w_: image missing!
+Images remaining (length of url_queue): 51262/111366
+image_queue length: 558
+result_queue length: 0
+Images remaining (length of url_queue): 51133/111366
+image_queue length: 555
+result_queue length: 0
+BJ3O72HhDzb: image missing!
+Images remaining (length of url_queue): 50987/111366
+image_queue length: 565
+result_queue length: 0
+Images remaining (length of url_queue): 50850/111366
+image_queue length: 572
+result_queue length: 0
+Images remaining (length of url_queue): 50710/111366
+image_queue length: 576
+result_queue length: 0
+BK7wxQ2BwA9: image missing!
+Images remaining (length of url_queue): 50584/111366
+image_queue length: 581
+result_queue length: 0
+BLJX0hJAAjQ: image missing!
+BKDmuLqgpeb: image missing!
+Images remaining (length of url_queue): 50458/111366
+image_queue length: 569
+result_queue length: 0
+Images remaining (length of url_queue): 50335/111366
+image_queue length: 562
+result_queue length: 0
+BK8f-NwD_fv: image missing!
+BJ05SlOj-N_: image missing!
+Images remaining (length of url_queue): 50198/111366
+image_queue length: 567
+result_queue length: 0
+BK0TfpEDXf0: image missing!
+Images remaining (length of url_queue): 50062/111366
+image_queue length: 569
+result_queue length: 1
+BK3BJ6nA4V4: image missing!
+BJ3dRr5jq2J: image missing!
+Images remaining (length of url_queue): 49923/111366
+image_queue length: 570
+result_queue length: 0
+BJ8MNynh7Fm: image missing!
+Images remaining (length of url_queue): 49779/111366
+image_queue length: 582
+result_queue length: 0
+BKAxVs5AOAZ: image missing!
+BJ3Pp5SjJR1: image missing!
+BKGVNdmjPLf: image missing!
+Images remaining (length of url_queue): 49645/111366
+image_queue length: 587
+result_queue length: 0
+Images remaining (length of url_queue): 49508/111366
+image_queue length: 589
+result_queue length: 0
+BJ5a2usj4Hx: image missing!
+Images remaining (length of url_queue): 49378/111366
+image_queue length: 584
+result_queue length: 0
+BKBPYP-jIjJ: image missing!
+Images remaining (length of url_queue): 49237/111366
+image_queue length: 596
+result_queue length: 1
+BKBnAtOjy55: image missing!
+BKBftZLhXxa: image missing!
+BKK8Waxgkrb: image missing!
+Images remaining (length of url_queue): 49104/111366
+image_queue length: 592
+result_queue length: 0
+Images remaining (length of url_queue): 48960/111366
+image_queue length: 605
+result_queue length: 0
+BKG8QEYh6YE: image missing!
+Images remaining (length of url_queue): 48829/111366
+image_queue length: 600
+result_queue length: 0
+Images remaining (length of url_queue): 48684/111366
+image_queue length: 612
+result_queue length: 0
+BLI-G45ASn3: image missing!
+Images remaining (length of url_queue): 48548/111366
+image_queue length: 612
+result_queue length: 0
+Images remaining (length of url_queue): 48410/111366
+image_queue length: 618
+result_queue length: 0
+Images remaining (length of url_queue): 48272/111366
+image_queue length: 624
+result_queue length: 0
+Images remaining (length of url_queue): 48137/111366
+image_queue length: 633
+result_queue length: 0
+BLEeRg4hhVb: image missing!
+BLClsfYB_Bp: image missing!
+BJ3CxzXAol9: image missing!
+Images remaining (length of url_queue): 48001/111366
+image_queue length: 629
+result_queue length: 0
+BJ1y8rgjgMr: image missing!
+BK117CRD0u-: image missing!
+Images remaining (length of url_queue): 47859/111366
+image_queue length: 638
+result_queue length: 0
+BJ2-SqrBR6-: image missing!
+BK-1oQGDnCx: image missing!
+BLGF39MDG_m: image missing!
+Images remaining (length of url_queue): 47729/111366
+image_queue length: 635
+result_queue length: 0
+BLHAOXTh089: image missing!
+BLAE_2oB8RV: image missing!
+Images remaining (length of url_queue): 47604/111366
+image_queue length: 628
+result_queue length: 0
+BJ-_j1tANhg: image missing!
+BK8af0gjGvo: image missing!
+BKFPQZygFXc: image missing!
+BJ3RQfgBoHE: image missing!
+Images remaining (length of url_queue): 47467/111366
+image_queue length: 640
+result_queue length: 0
+BK5p30Kj6Uc: image missing!
+Images remaining (length of url_queue): 47336/111366
+image_queue length: 633
+result_queue length: 0
+BKGbioQAJxe: image missing!
+Images remaining (length of url_queue): 47201/111366
+image_queue length: 637
+result_queue length: 0
+BLL5OmzjL2y: image missing!
+BJ7HvHOgotU: image missing!
+Images remaining (length of url_queue): 47066/111366
+image_queue length: 635
+result_queue length: 0
+Images remaining (length of url_queue): 46921/111366
+image_queue length: 648
+result_queue length: 0
+BKH6kb-AAdN: image missing!
+BJ8Gk2SAECh: image missing!
+BJ3U_S7hhWo: image missing!
+BKHQcG7DsNi: image missing!
+Images remaining (length of url_queue): 46794/111366
+image_queue length: 632
+result_queue length: 0
+Images remaining (length of url_queue): 46650/111366
+image_queue length: 648
+result_queue length: 0
+BKAoDMXBqp_: image missing!
+BLDvZ5lgh-n: image missing!
+Images remaining (length of url_queue): 46507/111366
+image_queue length: 657
+result_queue length: 0
+BK8xCWGDo9-: image missing!
+BKBlbp7jk8O: image missing!
+Images remaining (length of url_queue): 46362/111366
+image_queue length: 665
+result_queue length: 0
+Images remaining (length of url_queue): 46233/111366
+image_queue length: 659
+result_queue length: 0
+BK51iWSjroT: image missing!
+Images remaining (length of url_queue): 46100/111366
+image_queue length: 666
+result_queue length: 0
+BK1L6vIjUey: image missing!
+BK88G-CD37L: image missing!
+BJ2sIFsD9tL: image missing!
+Images remaining (length of url_queue): 45967/111366
+image_queue length: 659
+result_queue length: 0
+BJ5oEdbgIXA: image missing!
+BKGr_8EgXI1: image missing!
+BK3BohaAQTU: image missing!
+Images remaining (length of url_queue): 45840/111366
+image_queue length: 647
+result_queue length: 0
+Images remaining (length of url_queue): 45718/111366
+image_queue length: 638
+result_queue length: 0
+Images remaining (length of url_queue): 45595/111366
+image_queue length: 626
+result_queue length: 0
+BK8pHHCh4k4: image missing!
+BK-v-whDaDf: image missing!
+Images remaining (length of url_queue): 45465/111366
+image_queue length: 617
+result_queue length: 0
+BJ3kswvg4jm: image missing!
+Images remaining (length of url_queue): 45330/111366
+image_queue length: 626
+result_queue length: 0
+BK2zz42BM7s: image missing!
+Images remaining (length of url_queue): 45193/111366
+image_queue length: 630
+result_queue length: 0
+Images remaining (length of url_queue): 45058/111366
+image_queue length: 636
+result_queue length: 0
+BJ7p1WzBscw: image missing!
+Images remaining (length of url_queue): 44927/111366
+image_queue length: 636
+result_queue length: 0
+BLEfEG9h02X: image missing!
+BLHNDPQhCrp: image missing!
+Images remaining (length of url_queue): 44791/111366
+image_queue length: 636
+result_queue length: 0
+BLAyKyTDvvU: image missing!
+BK3FJrZAHBF: image missing!
+Images remaining (length of url_queue): 44652/111366
+image_queue length: 643
+result_queue length: 0
+BK71LdUhfSf: image missing!
+BK00c09BLku: image missing!
+BKEzbbuhmlo: image missing!
+Images remaining (length of url_queue): 44519/111366
+image_queue length: 640
+result_queue length: 0
+BJzx0vMBA2w: image missing!
+Images remaining (length of url_queue): 44395/111366
+image_queue length: 632
+result_queue length: 0
+BK0dd3AAxTE: image missing!
+BKF7UVHjJgh: image missing!
+Images remaining (length of url_queue): 44255/111366
+image_queue length: 635
+result_queue length: 0
+Images remaining (length of url_queue): 44124/111366
+image_queue length: 633
+result_queue length: 0
+BJ-dNJvj5lK: image missing!
+BK77gKwgBo4: image missing!
+BJ_IbM6BjIl: image missing!
+BKDgStQhkFm: image missing!
+Images remaining (length of url_queue): 43986/111366
+image_queue length: 633
+result_queue length: 0
+BK1VKbhDdZo: image missing!
+Images remaining (length of url_queue): 43835/111366
+image_queue length: 656
+result_queue length: 0
+Images remaining (length of url_queue): 43710/111366
+image_queue length: 646
+result_queue length: 0
+BJ07Mv9gM4M: image missing!
+BLBc6iNB36a: image missing!
+Images remaining (length of url_queue): 43571/111366
+image_queue length: 654
+result_queue length: 0
+Images remaining (length of url_queue): 43438/111366
+image_queue length: 650
+result_queue length: 0
+BJ0CNcwjIqo: image missing!
+BJ44n0rAN2W: image missing!
+Images remaining (length of url_queue): 43311/111366
+image_queue length: 637
+result_queue length: 0
+BKIPeUpBdiS: image missing!
+Images remaining (length of url_queue): 43170/111366
+image_queue length: 652
+result_queue length: 0
+BJ54G2ahUz1: image missing!
+BKAckfggNnz: image missing!
+BLHeNNUD9fx: image missing!
+Images remaining (length of url_queue): 43035/111366
+image_queue length: 648
+result_queue length: 0
+BLGX0RQhtpN: image missing!
+BK3e5r5js4G: image missing!
+Images remaining (length of url_queue): 42896/111366
+image_queue length: 653
+result_queue length: 0
+BKD0h_DAeJs: image missing!
+Images remaining (length of url_queue): 42750/111366
+image_queue length: 674
+result_queue length: 0
+BLDtsQqjxc2: image missing!
+Images remaining (length of url_queue): 42610/111366
+image_queue length: 684
+result_queue length: 0
+BKFYOX9DJed: image missing!
+BLEOcIVDcim: image missing!
+BJ6eTJvDQuk: image missing!
+Images remaining (length of url_queue): 42471/111366
+image_queue length: 687
+result_queue length: 0
+BJ0rAOQjwqF: image missing!
+BK4xU0TA6Ij: image missing!
+BKIChmnjDKT: image missing!
+BJ0mMJnBLcj: image missing!
+Images remaining (length of url_queue): 42342/111366
+image_queue length: 678
+result_queue length: 0
+BJ0Lz9bhN7D: image missing!
+Images remaining (length of url_queue): 42214/111366
+image_queue length: 677
+result_queue length: 0
+BKBnEPUBwML: image missing!
+Images remaining (length of url_queue): 42073/111366
+image_queue length: 689
+result_queue length: 0
+BJ2fq0YBK3I: image missing!
+BKEFAucgWW4: image missing!
+Images remaining (length of url_queue): 41943/111366
+image_queue length: 682
+result_queue length: 0
+BKIVN47A_7g: image missing!
+BKAjthkBcfV: image missing!
+Images remaining (length of url_queue): 41807/111366
+image_queue length: 684
+result_queue length: 0
+BK-7N4eAlf4: image missing!
+BLCaJAvjK_J: image missing!
+Images remaining (length of url_queue): 41669/111366
+image_queue length: 690
+result_queue length: 0
+BJ-7YfrjZ7X: image missing!
+BLImmzRhYu_: image missing!
+Images remaining (length of url_queue): 41537/111366
+image_queue length: 680
+result_queue length: 0
+Images remaining (length of url_queue): 41408/111366
+image_queue length: 685
+result_queue length: 0
+BKIvsgoArGx: image missing!
+BJzvE3zh3bt: image missing!
+BKJFUflhjkz: image missing!
+Images remaining (length of url_queue): 41277/111366
+image_queue length: 673
+result_queue length: 0
+BLGvqCkAR2z: image missing!
+BK8sTQaD-_X: image missing!
+BK00A5KAYOl: image missing!
+BJ5A7aTAdTg: image missing!
+Images remaining (length of url_queue): 41149/111366
+image_queue length: 663
+result_queue length: 0
+Images remaining (length of url_queue): 41007/111366
+image_queue length: 670
+result_queue length: 0
+BJ2PdJpj-uG: image missing!
+BKI9LhMAeWw: image missing!
+Images remaining (length of url_queue): 40869/111366
+image_queue length: 679
+result_queue length: 0
+BJ3juishuys: image missing!
+Images remaining (length of url_queue): 40733/111366
+image_queue length: 682
+result_queue length: 0
+BJ208d3AaKo: image missing!
+BK7stMTBVEf: image missing!
+BJ8BfnmBKOA: image missing!
+Images remaining (length of url_queue): 40591/111366
+image_queue length: 690
+result_queue length: 0
+BKGh2jtD5rn: image missing!
+Images remaining (length of url_queue): 40448/111366
+image_queue length: 702
+result_queue length: 0
+Images remaining (length of url_queue): 40315/111366
+image_queue length: 704
+result_queue length: 0
+BJ8AWDSArRE: image missing!
+Images remaining (length of url_queue): 40182/111366
+image_queue length: 707
+result_queue length: 0
+BLCfjorDALa: image missing!
+Images remaining (length of url_queue): 40055/111366
+image_queue length: 702
+result_queue length: 0
+Images remaining (length of url_queue): 39912/111366
+image_queue length: 709
+result_queue length: 1
+Images remaining (length of url_queue): 39775/111366
+image_queue length: 713
+result_queue length: 0
+BLJ-Qsuh-Ur: image missing!
+BKC51HmhKrD: image missing!
+BK8u9NijR71: image missing!
+BKDp578Bw5U: image missing!
+Images remaining (length of url_queue): 39640/111366
+image_queue length: 714
+result_queue length: 0
+Images remaining (length of url_queue): 39507/111366
+image_queue length: 717
+result_queue length: 0
+BK3YNu3AG10: image missing!
+Images remaining (length of url_queue): 39372/111366
+image_queue length: 718
+result_queue length: 0
+Images remaining (length of url_queue): 39241/111366
+image_queue length: 715
+result_queue length: 0
+Images remaining (length of url_queue): 39097/111366
+image_queue length: 727
+result_queue length: 0
+Images remaining (length of url_queue): 38970/111366
+image_queue length: 720
+result_queue length: 0
+Images remaining (length of url_queue): 38831/111366
+image_queue length: 733
+result_queue length: 0
+BK21SNwh8Q5: image missing!
+Images remaining (length of url_queue): 38701/111366
+image_queue length: 732
+result_queue length: 0
+Images remaining (length of url_queue): 38567/111366
+image_queue length: 728
+result_queue length: 0
+Images remaining (length of url_queue): 38440/111366
+image_queue length: 718
+result_queue length: 0
+Images remaining (length of url_queue): 38317/111366
+image_queue length: 709
+result_queue length: 0
+Images remaining (length of url_queue): 38177/111366
+image_queue length: 722
+result_queue length: 0
+BLEimq4AjWN: image missing!
+Images remaining (length of url_queue): 38041/111366
+image_queue length: 721
+result_queue length: 0
+BJ7SHD8BBNQ: image missing!
+Images remaining (length of url_queue): 37906/111366
+image_queue length: 722
+result_queue length: 0
+Images remaining (length of url_queue): 37769/111366
+image_queue length: 726
+result_queue length: 0
+Images remaining (length of url_queue): 37638/111366
+image_queue length: 724
+result_queue length: 0
+Images remaining (length of url_queue): 37500/111366
+image_queue length: 730
+result_queue length: 0
+BKJ08BUAUSM: image missing!
+BLBigTgDBf4: image missing!
+Images remaining (length of url_queue): 37372/111366
+image_queue length: 731
+result_queue length: 0
+Images remaining (length of url_queue): 37236/111366
+image_queue length: 730
+result_queue length: 0
+BJ8JjYXB25h: image missing!
+BJ7CZJ2A4oX: image missing!
+Images remaining (length of url_queue): 37096/111366
+image_queue length: 736
+result_queue length: 0
+BK8wk2WD6N9: image missing!
+Images remaining (length of url_queue): 36957/111366
+image_queue length: 742
+result_queue length: 1
+BKDGtjfDOrH: image missing!
+Images remaining (length of url_queue): 36821/111366
+image_queue length: 748
+result_queue length: 0
+BK0qHBkDAzZ: image missing!
+Images remaining (length of url_queue): 36697/111366
+image_queue length: 744
+result_queue length: 0
+BJ5VqG0hwdm: image missing!
+BLAg_KTgXaa: image missing!
+BLETqvrAMeF: image missing!
+BJziK1NAsOJ: image missing!
+BJ2paM9DYah: image missing!
+Images remaining (length of url_queue): 36553/111366
+image_queue length: 749
+result_queue length: 0
+Images remaining (length of url_queue): 36413/111366
+image_queue length: 757
+result_queue length: 0
+BK-mMDrgrpw: image missing!
+Images remaining (length of url_queue): 36274/111366
+image_queue length: 769
+result_queue length: 1
+BK3YKM6DTfs: image missing!
+Images remaining (length of url_queue): 36137/111366
+image_queue length: 772
+result_queue length: 0
+Images remaining (length of url_queue): 35999/111366
+image_queue length: 779
+result_queue length: 0
+BLCfJS0DURq: image missing!
+Images remaining (length of url_queue): 35876/111366
+image_queue length: 774
+result_queue length: 0
+Images remaining (length of url_queue): 35742/111366
+image_queue length: 780
+result_queue length: 0
+BK6Wm72hcDL: image missing!
+BKDwGbtBi3M: image missing!
+Images remaining (length of url_queue): 35593/111366
+image_queue length: 801
+result_queue length: 0
+BK0MuBgBQeN: image missing!
+BLHXlPZjHGG: image missing!
+Images remaining (length of url_queue): 35459/111366
+image_queue length: 798
+result_queue length: 0
+Images remaining (length of url_queue): 35327/111366
+image_queue length: 800
+result_queue length: 1
+Images remaining (length of url_queue): 35184/111366
+image_queue length: 804
+result_queue length: 0
+BJ6V2XaAtfj: image missing!
+Images remaining (length of url_queue): 35052/111366
+image_queue length: 809
+result_queue length: 0
+BJ308f1DMmR: image missing!
+Images remaining (length of url_queue): 34911/111366
+image_queue length: 816
+result_queue length: 1
+BK4BSlbjZqX: image missing!
+BJ_LkmPDauz: image missing!
+Images remaining (length of url_queue): 34782/111366
+image_queue length: 821
+result_queue length: 0
+Images remaining (length of url_queue): 34646/111366
+image_queue length: 819
+result_queue length: 0
+BLIUBZ7DZcc: image missing!
+BK0ge2WBQaf: image missing!
+Images remaining (length of url_queue): 34511/111366
+image_queue length: 819
+result_queue length: 0
+BLJ5ObpBqId: image missing!
+Images remaining (length of url_queue): 34376/111366
+image_queue length: 825
+result_queue length: 0
+Images remaining (length of url_queue): 34242/111366
+image_queue length: 831
+result_queue length: 0
+Images remaining (length of url_queue): 34113/111366
+image_queue length: 820
+result_queue length: 0
+Images remaining (length of url_queue): 33982/111366
+image_queue length: 827
+result_queue length: 0
+Images remaining (length of url_queue): 33833/111366
+image_queue length: 840
+result_queue length: 0
+BKK2_8YAlqQ: image missing!
+Images remaining (length of url_queue): 33700/111366
+image_queue length: 841
+result_queue length: 0
+Images remaining (length of url_queue): 33562/111366
+image_queue length: 848
+result_queue length: 0
+BJ8q0aSDN6R: image missing!
+Images remaining (length of url_queue): 33427/111366
+image_queue length: 853
+result_queue length: 0
+Images remaining (length of url_queue): 33292/111366
+image_queue length: 857
+result_queue length: 0
+Images remaining (length of url_queue): 33156/111366
+image_queue length: 860
+result_queue length: 0
+BJ3OmDLADS2: image missing!
+BK8xgBCjil-: image missing!
+Images remaining (length of url_queue): 33009/111366
+image_queue length: 875
+result_queue length: 0
+Images remaining (length of url_queue): 32873/111366
+image_queue length: 883
+result_queue length: 0
+BLAgoRKh1B2: image missing!
+Images remaining (length of url_queue): 32744/111366
+image_queue length: 875
+result_queue length: 0
+BJzoU85Bk8I: image missing!
+BKEM22eAWr0: image missing!
+Images remaining (length of url_queue): 32613/111366
+image_queue length: 881
+result_queue length: 0
+Images remaining (length of url_queue): 32491/111366
+image_queue length: 863
+result_queue length: 0
+BLFMrHKD9Or: image missing!
+Images remaining (length of url_queue): 32358/111366
+image_queue length: 868
+result_queue length: 0
+BJ0N1Qqg83m: image missing!
+BJ8Lvr4B4Jn: image missing!
+Images remaining (length of url_queue): 32222/111366
+image_queue length: 870
+result_queue length: 0
+Images remaining (length of url_queue): 32085/111366
+image_queue length: 874
+result_queue length: 0
+BLHLOiiDjso: image missing!
+BKGEhWigxeD: image missing!
+BLD8qpXgIj4: image missing!
+Images remaining (length of url_queue): 31952/111366
+image_queue length: 875
+result_queue length: 0
+BJ05yoMAv0T: image missing!
+Images remaining (length of url_queue): 31811/111366
+image_queue length: 878
+result_queue length: 0
+BLBzG-SAAAp: image missing!
+Images remaining (length of url_queue): 31683/111366
+image_queue length: 871
+result_queue length: 0
+BJ453Y-DuMP: image missing!
+Images remaining (length of url_queue): 31544/111366
+image_queue length: 885
+result_queue length: 0
+BKK3Fggh7qz: image missing!
+Images remaining (length of url_queue): 31405/111366
+image_queue length: 893
+result_queue length: 0
+BK8IhGXDpZo: image missing!
+Images remaining (length of url_queue): 31267/111366
+image_queue length: 900
+result_queue length: 0
+Images remaining (length of url_queue): 31126/111366
+image_queue length: 907
+result_queue length: 0
+Images remaining (length of url_queue): 30983/111366
+image_queue length: 921
+result_queue length: 0
+BJ57OE8BsmZ: image missing!
+Images remaining (length of url_queue): 30846/111366
+image_queue length: 920
+result_queue length: 0
+BKB1LLchKNc: image missing!
+BKD05LKAt8L: image missing!
+BLIzJdUD6jm: image missing!
+Images remaining (length of url_queue): 30724/111366
+image_queue length: 909
+result_queue length: 0
+Images remaining (length of url_queue): 30602/111366
+image_queue length: 904
+result_queue length: 0
+BK7AbXcB_xX: image missing!
+Images remaining (length of url_queue): 30469/111366
+image_queue length: 904
+result_queue length: 0
+BLIsYtBDKg_: image missing!
+Images remaining (length of url_queue): 30334/111366
+image_queue length: 911
+result_queue length: 0
+BLI_bRighXD: image missing!
+Images remaining (length of url_queue): 30185/111366
+image_queue length: 927
+result_queue length: 0
+BKI5c1bjUPB: image missing!
+BJ7600gBdWd: image missing!
+BK2EEnahL-X: image missing!
+Images remaining (length of url_queue): 30043/111366
+image_queue length: 929
+result_queue length: 0
+Images remaining (length of url_queue): 29910/111366
+image_queue length: 932
+result_queue length: 0
+BK6VEIEBPyx: image missing!
+Images remaining (length of url_queue): 29780/111366
+image_queue length: 928
+result_queue length: 0
+BJ5bAPGB_7q: image missing!
+BKFNZTkgmRH: image missing!
+Images remaining (length of url_queue): 29646/111366
+image_queue length: 929
+result_queue length: 0
+Images remaining (length of url_queue): 29516/111366
+image_queue length: 928
+result_queue length: 0
+BKGAW7hBigD: image missing!
+Images remaining (length of url_queue): 29387/111366
+image_queue length: 922
+result_queue length: 0
+BKFu47KBFrC: image missing!
+BJ34hq4ANzy: image missing!
+Images remaining (length of url_queue): 29252/111366
+image_queue length: 925
+result_queue length: 0
+BJ1DmN3gJpt: image missing!
+BJ2sSiDh_hS: image missing!
+Images remaining (length of url_queue): 29111/111366
+image_queue length: 928
+result_queue length: 0
+BLDsUrzhpca: image missing!
+Images remaining (length of url_queue): 28976/111366
+image_queue length: 931
+result_queue length: 0
+BJ2q4M8gm8W: image missing!
+BJ21W0FhkM1: image missing!
+Images remaining (length of url_queue): 28843/111366
+image_queue length: 926
+result_queue length: 0
+BJ72B3ThOUP: image missing!
+BK0dSTXAR6P: image missing!
+Images remaining (length of url_queue): 28706/111366
+image_queue length: 930
+result_queue length: 0
+BJ2R5KShci_: image missing!
+BKI3vDuDGFH: image missing!
+BK2yp1Ijl1V: image missing!
+BLEL5Ougfqq: image missing!
+BK56dPfBhfd: image missing!
+Images remaining (length of url_queue): 28569/111366
+image_queue length: 927
+result_queue length: 0
+BJ8uQ5KjwzJ: image missing!
+BLCDTfLjs0Y: image missing!
+BLCZ80yjtDr: image missing!
+Images remaining (length of url_queue): 28433/111366
+image_queue length: 928
+result_queue length: 0
+Images remaining (length of url_queue): 28286/111366
+image_queue length: 948
+result_queue length: 0
+BKJc98kg8E1: image missing!
+Images remaining (length of url_queue): 28162/111366
+image_queue length: 935
+result_queue length: 0
+BK6T7ypgUXT: image missing!
+BJ288kdhxGA: image missing!
+Images remaining (length of url_queue): 28027/111366
+image_queue length: 937
+result_queue length: 0
+Images remaining (length of url_queue): 27884/111366
+image_queue length: 952
+result_queue length: 0
+BJ5HDCAARvd: image missing!
+BJ9idUrAuh_: image missing!
+Images remaining (length of url_queue): 27745/111366
+image_queue length: 962
+result_queue length: 1
+BJ4mAObguya: image missing!
+Images remaining (length of url_queue): 27609/111366
+image_queue length: 965
+result_queue length: 0
+BJ3NQgfBNW3: image missing!
+Images remaining (length of url_queue): 27486/111366
+image_queue length: 954
+result_queue length: 0
+BJ6W8Kdg5lL: image missing!
+BK1K2jjD0Zf: image missing!
+BK1RepHA9v2: image missing!
+Images remaining (length of url_queue): 27346/111366
+image_queue length: 961
+result_queue length: 0
+BLBWr-phhp8: image missing!
+BK5gcddBhDu: image missing!
+BJ4xwfbgazl: image missing!
+BK-IvThhSeJ: image missing!
+Images remaining (length of url_queue): 27215/111366
+image_queue length: 953
+result_queue length: 2
+BK4B4rcj1oC: image missing!
+Images remaining (length of url_queue): 27078/111366
+image_queue length: 960
+result_queue length: 0
+BJ0s4lbA--P: image missing!
+Images remaining (length of url_queue): 26944/111366
+image_queue length: 953
+result_queue length: 0
+Images remaining (length of url_queue): 26812/111366
+image_queue length: 957
+result_queue length: 0
+Images remaining (length of url_queue): 26674/111366
+image_queue length: 964
+result_queue length: 0
+BK2qTsxB2uB: image missing!
+Images remaining (length of url_queue): 26531/111366
+image_queue length: 967
+result_queue length: 0
+BJ0Qzo0hYoU: image missing!
+BJ5DMxSh_bD: image missing!
+BJ3HsPZgtLw: image missing!
+BK-YBTdB3VN: image missing!
+Images remaining (length of url_queue): 26394/111366
+image_queue length: 969
+result_queue length: 0
+BLG1axsjVKN: image missing!
+Images remaining (length of url_queue): 26257/111366
+image_queue length: 969
+result_queue length: 0
+BKCDS0Uj5u8: image missing!
+Images remaining (length of url_queue): 26132/111366
+image_queue length: 962
+result_queue length: 0
+BJ5S1t9j_wA: image missing!
+BKBuQzPj4sF: image missing!
+BKCxuadAL3e: image missing!
+Images remaining (length of url_queue): 25993/111366
+image_queue length: 969
+result_queue length: 0
+Images remaining (length of url_queue): 25860/111366
+image_queue length: 971
+result_queue length: 0
+Images remaining (length of url_queue): 25731/111366
+image_queue length: 968
+result_queue length: 0
+Images remaining (length of url_queue): 25590/111366
+image_queue length: 976
+result_queue length: 0
+Images remaining (length of url_queue): 25445/111366
+image_queue length: 993
+result_queue length: 0
+BLCEjd7gsCI: image missing!
+BJ1pNZghZGg: image missing!
+Images remaining (length of url_queue): 25303/111366
+image_queue length: 995
+result_queue length: 0
+BLJS95aDpmV: image missing!
+BLB0Hexg1Xs: image missing!
+Images remaining (length of url_queue): 25169/111366
+image_queue length: 995
+result_queue length: 0
+BJ5mzY5j5ca: image missing!
+Images remaining (length of url_queue): 25038/111366
+image_queue length: 996
+result_queue length: 0
+BJ2wI8CDa77: image missing!
+BKIzTGjBQbJ: image missing!
+Images remaining (length of url_queue): 24904/111366
+image_queue length: 999
+result_queue length: 0
+BK07S83A28E: image missing!
+BJ-8XfaAIWE: image missing!
+Images remaining (length of url_queue): 24768/111366
+image_queue length: 1002
+result_queue length: 0
+BJ8Omaeg6A7: image missing!
+Images remaining (length of url_queue): 24652/111366
+image_queue length: 984
+result_queue length: 0
+Images remaining (length of url_queue): 24522/111366
+image_queue length: 982
+result_queue length: 0
+BLLAzCfBlyb: image missing!
+BK94dyzhhzm: image missing!
+Images remaining (length of url_queue): 24394/111366
+image_queue length: 984
+result_queue length: 0
+Images remaining (length of url_queue): 24255/111366
+image_queue length: 989
+result_queue length: 0
+BK2E8Kjg3gN: image missing!
+Images remaining (length of url_queue): 24129/111366
+image_queue length: 979
+result_queue length: 0
+BJzfX2DjgUR: image missing!
+Images remaining (length of url_queue): 24000/111366
+image_queue length: 981
+result_queue length: 0
+Images remaining (length of url_queue): 23874/111366
+image_queue length: 971
+result_queue length: 0
+BK5Vy_7jrGp: image missing!
+BJ79CBEh3kl: image missing!
+BLCEPt4B2H3: image missing!
+Images remaining (length of url_queue): 23738/111366
+image_queue length: 972
+result_queue length: 0
+BK8klK3gnX4: image missing!
+Images remaining (length of url_queue): 23606/111366
+image_queue length: 974
+result_queue length: 0
+BK220ZmDsAL: image missing!
+Images remaining (length of url_queue): 23473/111366
+image_queue length: 971
+result_queue length: 0
+BJ2KoCgjvIr: image missing!
+BK3l88LByLC: image missing!
+Images remaining (length of url_queue): 23335/111366
+image_queue length: 975
+result_queue length: 0
+Images remaining (length of url_queue): 23210/111366
+image_queue length: 972
+result_queue length: 0
+BK8iWR5BWsz: image missing!
+Images remaining (length of url_queue): 23059/111366
+image_queue length: 987
+result_queue length: 0
+BKF11IZD2MW: image missing!
+Images remaining (length of url_queue): 22922/111366
+image_queue length: 989
+result_queue length: 0
+Images remaining (length of url_queue): 22787/111366
+image_queue length: 990
+result_queue length: 0
+BJ8PtyeAXL-: image missing!
+Images remaining (length of url_queue): 22643/111366
+image_queue length: 1003
+result_queue length: 0
+BKJn4JgAj-d: image missing!
+Images remaining (length of url_queue): 22513/111366
+image_queue length: 1002
+result_queue length: 0
+BK8j1LugUcz: image missing!
+Images remaining (length of url_queue): 22376/111366
+image_queue length: 1015
+result_queue length: 0
+BJ0Z8_3Bm8u: image missing!
+Images remaining (length of url_queue): 22246/111366
+image_queue length: 1015
+result_queue length: 0
+BKHQixLj7h6: image missing!
+Images remaining (length of url_queue): 22118/111366
+image_queue length: 1003
+result_queue length: 1
+BK8UfVOhnDf: image missing!
+Images remaining (length of url_queue): 21984/111366
+image_queue length: 1006
+result_queue length: 1
+BKG6iY9AZzF: image missing!
+Images remaining (length of url_queue): 21859/111366
+image_queue length: 999
+result_queue length: 0
+Images remaining (length of url_queue): 21722/111366
+image_queue length: 999
+result_queue length: 0
+Images remaining (length of url_queue): 21592/111366
+image_queue length: 996
+result_queue length: 0
+BKJE288DjLX: image missing!
+Images remaining (length of url_queue): 21457/111366
+image_queue length: 1000
+result_queue length: 0
+BJ5hTGsASBo: image missing!
+Images remaining (length of url_queue): 21316/111366
+image_queue length: 1007
+result_queue length: 0
+BJ1gFvIgfnX: image missing!
+Images remaining (length of url_queue): 21182/111366
+image_queue length: 1013
+result_queue length: 0
+Images remaining (length of url_queue): 21042/111366
+image_queue length: 1027
+result_queue length: 0
+BLEGtftAU8A: image missing!
+Images remaining (length of url_queue): 20908/111366
+image_queue length: 1023
+result_queue length: 0
+BKHA-iZDW1L: image missing!
+BLFpz51A9uf: image missing!
+Images remaining (length of url_queue): 20768/111366
+image_queue length: 1026
+result_queue length: 0
+BJ1kdYmhZO5: image missing!
+BK26PiugIWN: image missing!
+Images remaining (length of url_queue): 20630/111366
+image_queue length: 1031
+result_queue length: 0
+BK70DO_BkTB: image missing!
+Images remaining (length of url_queue): 20498/111366
+image_queue length: 1025
+result_queue length: 1
+BLIu2CaDlc4: image missing!
+Images remaining (length of url_queue): 20367/111366
+image_queue length: 1034
+result_queue length: 0
+Images remaining (length of url_queue): 20229/111366
+image_queue length: 1033
+result_queue length: 0
+Images remaining (length of url_queue): 20082/111366
+image_queue length: 1048
+result_queue length: 0
+BKB05FGgjaR: image missing!
+Images remaining (length of url_queue): 19951/111366
+image_queue length: 1041
+result_queue length: 0
+Images remaining (length of url_queue): 19809/111366
+image_queue length: 1054
+result_queue length: 0
+BKBibNmAFCd: image missing!
+BKGNt24AgBN: image missing!
+Images remaining (length of url_queue): 19678/111366
+image_queue length: 1055
+result_queue length: 0
+BKKNDknjLPW: image missing!
+BKDl5IaD1mO: image missing!
+Images remaining (length of url_queue): 19538/111366
+image_queue length: 1065
+result_queue length: 0
+Images remaining (length of url_queue): 19406/111366
+image_queue length: 1062
+result_queue length: 0
+BJ3cm77jK3e: image missing!
+BJ7ATr7AJG0: image missing!
+Images remaining (length of url_queue): 19272/111366
+image_queue length: 1065
+result_queue length: 0
+Images remaining (length of url_queue): 19137/111366
+image_queue length: 1067
+result_queue length: 0
+BKGPMVbgWe8: image missing!
+Images remaining (length of url_queue): 19006/111366
+image_queue length: 1061
+result_queue length: 0
+Images remaining (length of url_queue): 18874/111366
+image_queue length: 1063
+result_queue length: 0
+BK6DFU5jRM0: image missing!
+Images remaining (length of url_queue): 18748/111366
+image_queue length: 1055
+result_queue length: 0
+Images remaining (length of url_queue): 18612/111366
+image_queue length: 1060
+result_queue length: 1
+BJ4UOD1Be4T: image missing!
+BKDRVQxD_ZV: image missing!
+Images remaining (length of url_queue): 18472/111366
+image_queue length: 1068
+result_queue length: 0
+BKFEncqjRBU: image missing!
+BK6P3k1gd4i: image missing!
+BJzx0IKh6bO: image missing!
+Images remaining (length of url_queue): 18331/111366
+image_queue length: 1071
+result_queue length: 0
+BKJn_p0A5MY: image missing!
+BKBKjYDghEg: image missing!
+Images remaining (length of url_queue): 18191/111366
+image_queue length: 1077
+result_queue length: 0
+BK-BKX0hoDs: image missing!
+BKDgs5qh3mz: image missing!
+Images remaining (length of url_queue): 18058/111366
+image_queue length: 1077
+result_queue length: 0
+Images remaining (length of url_queue): 17926/111366
+image_queue length: 1073
+result_queue length: 0
+Images remaining (length of url_queue): 17790/111366
+image_queue length: 1078
+result_queue length: 0
+Images remaining (length of url_queue): 17654/111366
+image_queue length: 1080
+result_queue length: 0
+BK7x-ZZhbtM: image missing!
+Images remaining (length of url_queue): 17514/111366
+image_queue length: 1098
+result_queue length: 0
+BLCazKLAnb-: image missing!
+Images remaining (length of url_queue): 17373/111366
+image_queue length: 1109
+result_queue length: 0
+BK8BEK1hBkx: image missing!
+Images remaining (length of url_queue): 17224/111366
+image_queue length: 1123
+result_queue length: 0
+Images remaining (length of url_queue): 17100/111366
+image_queue length: 1119
+result_queue length: 0
+Images remaining (length of url_queue): 16953/111366
+image_queue length: 1131
+result_queue length: 0
+BKAvJo_g6iP: image missing!
+Images remaining (length of url_queue): 16821/111366
+image_queue length: 1138
+result_queue length: 0
+Images remaining (length of url_queue): 16677/111366
+image_queue length: 1151
+result_queue length: 0
+BJ_WxgXh13V: image missing!
+BK0_8sLj95b: image missing!
+BK6WlRQgFd2: image missing!
+Images remaining (length of url_queue): 16534/111366
+image_queue length: 1159
+result_queue length: 0
+BJ0UHovhoXD: image missing!
+Images remaining (length of url_queue): 16408/111366
+image_queue length: 1154
+result_queue length: 0
+BJ0OLhJAEyy: image missing!
+Images remaining (length of url_queue): 16273/111366
+image_queue length: 1160
+result_queue length: 0
+Images remaining (length of url_queue): 16138/111366
+image_queue length: 1159
+result_queue length: 0
+BJz4lqchgaD: image missing!
+Images remaining (length of url_queue): 15999/111366
+image_queue length: 1165
+result_queue length: 0
+BK0QkgzBA0b: image missing!
+BK5kyJ3hL3A: image missing!
+BKJGY-ehBme: image missing!
+Images remaining (length of url_queue): 15856/111366
+image_queue length: 1181
+result_queue length: 1
+BJ6s-8RDqoO: image missing!
+BLENUMggWnt: image missing!
+Images remaining (length of url_queue): 15719/111366
+image_queue length: 1188
+result_queue length: 1
+Images remaining (length of url_queue): 15574/111366
+image_queue length: 1196
+result_queue length: 0
+BJ5I0JkBlva: image missing!
+Images remaining (length of url_queue): 15438/111366
+image_queue length: 1200
+result_queue length: 0
+BJ_7eOcgY9a: image missing!
+BKGPf3cAyx7: image missing!
+Images remaining (length of url_queue): 15306/111366
+image_queue length: 1199
+result_queue length: 0
+Images remaining (length of url_queue): 15175/111366
+image_queue length: 1197
+result_queue length: 0
+BKA9rY8hUnj: image missing!
+Images remaining (length of url_queue): 15043/111366
+image_queue length: 1194
+result_queue length: 0
+Images remaining (length of url_queue): 14912/111366
+image_queue length: 1194
+result_queue length: 0
+BJ87SgtgdMr: image missing!
+Images remaining (length of url_queue): 14779/111366
+image_queue length: 1195
+result_queue length: 0
+BLA1VeLhvtr: image missing!
+BKCXD2Dha2O: image missing!
+BLIwrJtDIK-: image missing!
+Images remaining (length of url_queue): 14657/111366
+image_queue length: 1182
+result_queue length: 0
+Images remaining (length of url_queue): 14521/111366
+image_queue length: 1180
+result_queue length: 0
+Images remaining (length of url_queue): 14386/111366
+image_queue length: 1185
+result_queue length: 0
+BLGjve-ASDi: image missing!
+BKCvYfmB0gt: image missing!
+Images remaining (length of url_queue): 14243/111366
+image_queue length: 1194
+result_queue length: 0
+Images remaining (length of url_queue): 14114/111366
+image_queue length: 1192
+result_queue length: 0
+BJ8uON_BTx7: image missing!
+Images remaining (length of url_queue): 13994/111366
+image_queue length: 1181
+result_queue length: 0
+BLDtieMDYzU: image missing!
+BJ7tNcID6qb: image missing!
+Images remaining (length of url_queue): 13859/111366
+image_queue length: 1181
+result_queue length: 0
+BKFhmG1hunu: image missing!
+BK0RP6VguGu: image missing!
+Images remaining (length of url_queue): 13729/111366
+image_queue length: 1173
+result_queue length: 0
+BK2gYs_AsrU: image missing!
+BKDuZFMBqeY: image missing!
+Images remaining (length of url_queue): 13597/111366
+image_queue length: 1174
+result_queue length: 0
+BLBkBmyDRvp: image missing!
+Images remaining (length of url_queue): 13453/111366
+image_queue length: 1184
+result_queue length: 0
+BLBCluqhjvI: image missing!
+BJ1EhxRjDuU: image missing!
+Images remaining (length of url_queue): 13318/111366
+image_queue length: 1186
+result_queue length: 0
+BLJXeLuA0eA: image missing!
+Images remaining (length of url_queue): 13179/111366
+image_queue length: 1189
+result_queue length: 0
+BK1Qf9UAEgS: image missing!
+BK5tIEyBA58: image missing!
+BK0-wMYBXag: image missing!
+Images remaining (length of url_queue): 13036/111366
+image_queue length: 1192
+result_queue length: 0
+BK8vRgEDgwq: image missing!
+Images remaining (length of url_queue): 12912/111366
+image_queue length: 1195
+result_queue length: 0
+BKAnU7Jh5m4: image missing!
+Images remaining (length of url_queue): 12780/111366
+image_queue length: 1184
+result_queue length: 0
+BLBf0EWhvS8: image missing!
+Images remaining (length of url_queue): 12636/111366
+image_queue length: 1197
+result_queue length: 0
+Images remaining (length of url_queue): 12492/111366
+image_queue length: 1215
+result_queue length: 0
+Images remaining (length of url_queue): 12355/111366
+image_queue length: 1219
+result_queue length: 0
+Images remaining (length of url_queue): 12221/111366
+image_queue length: 1218
+result_queue length: 0
+Images remaining (length of url_queue): 12095/111366
+image_queue length: 1219
+result_queue length: 1
+BKBq08ggXRd: image missing!
+Images remaining (length of url_queue): 11955/111366
+image_queue length: 1220
+result_queue length: 0
+BK8wkO4jGNW: image missing!
+Images remaining (length of url_queue): 11820/111366
+image_queue length: 1226
+result_queue length: 0
+BK01oJchrmQ: image missing!
+Images remaining (length of url_queue): 11683/111366
+image_queue length: 1232
+result_queue length: 0
+BLBfMCoBs2z: image missing!
+Images remaining (length of url_queue): 11545/111366
+image_queue length: 1230
+result_queue length: 0
+Images remaining (length of url_queue): 11408/111366
+image_queue length: 1241
+result_queue length: 0
+Images remaining (length of url_queue): 11271/111366
+image_queue length: 1243
+result_queue length: 0
+Images remaining (length of url_queue): 11138/111366
+image_queue length: 1247
+result_queue length: 0
+BK-o0z4B2zp: image missing!
+BLGIjg_DGd6: image missing!
+Images remaining (length of url_queue): 10997/111366
+image_queue length: 1253
+result_queue length: 0
+Images remaining (length of url_queue): 10861/111366
+image_queue length: 1257
+result_queue length: 0
+Images remaining (length of url_queue): 10730/111366
+image_queue length: 1251
+result_queue length: 0
+BJ7YBuwAolW: image missing!
+BK39ceVhlko: image missing!
+Images remaining (length of url_queue): 10596/111366
+image_queue length: 1250
+result_queue length: 0
+BK3UIEGAca9: image missing!
+Images remaining (length of url_queue): 10465/111366
+image_queue length: 1249
+result_queue length: 0
+BLE9bQbjWku: image missing!
+BKDe3y5DrZG: image missing!
+Images remaining (length of url_queue): 10330/111366
+image_queue length: 1246
+result_queue length: 0
+BJ3RslKB_CE: image missing!
+Images remaining (length of url_queue): 10176/111366
+image_queue length: 1271
+result_queue length: 0
+BK-q9aRhKqg: image missing!
+BKA9gclByeq: image missing!
+Images remaining (length of url_queue): 10043/111366
+image_queue length: 1265
+result_queue length: 0
+BLHEHLfDhye: image missing!
+BK3TMXvAtP1: image missing!
+Images remaining (length of url_queue): 9898/111366
+image_queue length: 1284
+result_queue length: 0
+BLCfXfZDXy8: image missing!
+Images remaining (length of url_queue): 9769/111366
+image_queue length: 1274
+result_queue length: 0
+BKASdlhhYSE: image missing!
+Images remaining (length of url_queue): 9640/111366
+image_queue length: 1277
+result_queue length: 0
+BKCBn_ejAbi: image missing!
+Images remaining (length of url_queue): 9501/111366
+image_queue length: 1278
+result_queue length: 0
+BLC1_A5BS9C: image missing!
+BLEeKipjQyw: image missing!
+Images remaining (length of url_queue): 9364/111366
+image_queue length: 1283
+result_queue length: 1
+BJ-T5HUhBMt: image missing!
+Images remaining (length of url_queue): 9229/111366
+image_queue length: 1289
+result_queue length: 0
+BKApaVqhxZN: image missing!
+BKCA8saAPaZ: image missing!
+Images remaining (length of url_queue): 9102/111366
+image_queue length: 1279
+result_queue length: 0
+Images remaining (length of url_queue): 8954/111366
+image_queue length: 1296
+result_queue length: 0
+BJ9uLXmB8os: image missing!
+BLBuIYXgQyj: image missing!
+BLJdzQIB5Wa: image missing!
+BKCue_YDR17: image missing!
+Images remaining (length of url_queue): 8822/111366
+image_queue length: 1293
+result_queue length: 0
+BK6Gu7_ArAf: image missing!
+Images remaining (length of url_queue): 8684/111366
+image_queue length: 1298
+result_queue length: 0
+BLGIFC6jKoz: image missing!
+Images remaining (length of url_queue): 8540/111366
+image_queue length: 1318
+result_queue length: 0
+BKBwCpDAuw6: image missing!
+BK3HwBgBlwT: image missing!
+Images remaining (length of url_queue): 8415/111366
+image_queue length: 1308
+result_queue length: 0
+BK8wEQwDCNR: image missing!
+Images remaining (length of url_queue): 8274/111366
+image_queue length: 1320
+result_queue length: 0
+BK79wklArLK: image missing!
+Images remaining (length of url_queue): 8144/111366
+image_queue length: 1322
+result_queue length: 0
+BLKMTPRARmZ: image missing!
+BK4i41Zhd6w: image missing!
+BK5SLxrBxOd: image missing!
+Images remaining (length of url_queue): 8012/111366
+image_queue length: 1309
+result_queue length: 0
+BK8PVmTgQ4C: image missing!
+BJ7MEEPD1KJ: image missing!
+Images remaining (length of url_queue): 7879/111366
+image_queue length: 1318
+result_queue length: 0
+BJ63KgkBnc3: image missing!
+BJ0Jk6RgyUJ: image missing!
+Images remaining (length of url_queue): 7743/111366
+image_queue length: 1317
+result_queue length: 0
+BK7mOu_jtT3: image missing!
+Images remaining (length of url_queue): 7618/111366
+image_queue length: 1304
+result_queue length: 0
+BJ0jKccjN6o: image missing!
+BJ05_yqD7d-: image missing!
+BK3O5OYhNwe: image missing!
+Images remaining (length of url_queue): 7484/111366
+image_queue length: 1308
+result_queue length: 0
+BLAw4O2BaZo: image missing!
+BJ3NxBuhHhF: image missing!
+Images remaining (length of url_queue): 7360/111366
+image_queue length: 1298
+result_queue length: 0
+BLBpOGZg8hd: image missing!
+BKHpP4ZAka6: image missing!
+Images remaining (length of url_queue): 7237/111366
+image_queue length: 1292
+result_queue length: 0
+BKD6aw1BUVO: image missing!
+BKG2FIFgIMC: image missing!
+Images remaining (length of url_queue): 7107/111366
+image_queue length: 1290
+result_queue length: 0
+BK-JZD6DNlE: image missing!
+BK28eCBBoHB: image missing!
+Images remaining (length of url_queue): 6978/111366
+image_queue length: 1283
+result_queue length: 0
+BKH5psOBZbw: image missing!
+Images remaining (length of url_queue): 6856/111366
+image_queue length: 1268
+result_queue length: 0
+BLDLy9IhKpm: image missing!
+Images remaining (length of url_queue): 6729/111366
+image_queue length: 1262
+result_queue length: 0
+BLBbiOVDGk-: image missing!
+Images remaining (length of url_queue): 6600/111366
+image_queue length: 1258
+result_queue length: 0
+Images remaining (length of url_queue): 6474/111366
+image_queue length: 1251
+result_queue length: 0
+BLDxQEtAY49: image missing!
+Images remaining (length of url_queue): 6337/111366
+image_queue length: 1258
+result_queue length: 0
+BJ30TWWjJGM: image missing!
+Images remaining (length of url_queue): 6209/111366
+image_queue length: 1253
+result_queue length: 0
+BK7sAGkglhn: image missing!
+BK3pXDhjxzq: image missing!
+Images remaining (length of url_queue): 6089/111366
+image_queue length: 1235
+result_queue length: 0
+Images remaining (length of url_queue): 5960/111366
+image_queue length: 1232
+result_queue length: 0
+BJ1wglhAQal: image missing!
+Images remaining (length of url_queue): 5831/111366
+image_queue length: 1227
+result_queue length: 0
+BKJfxNSBN7j: image missing!
+Images remaining (length of url_queue): 5704/111366
+image_queue length: 1218
+result_queue length: 0
+BKBCYshDaVk: image missing!
+Images remaining (length of url_queue): 5574/111366
+image_queue length: 1218
+result_queue length: 0
+Images remaining (length of url_queue): 5426/111366
+image_queue length: 1237
+result_queue length: 0
+BJ8VbPngiQQ: image missing!
+Images remaining (length of url_queue): 5285/111366
+image_queue length: 1246
+result_queue length: 0
+Images remaining (length of url_queue): 5150/111366
+image_queue length: 1245
+result_queue length: 0
+Images remaining (length of url_queue): 5009/111366
+image_queue length: 1251
+result_queue length: 0
+Images remaining (length of url_queue): 4875/111366
+image_queue length: 1253
+result_queue length: 0
+Images remaining (length of url_queue): 4739/111366
+image_queue length: 1257
+result_queue length: 0
+Images remaining (length of url_queue): 4597/111366
+image_queue length: 1267
+result_queue length: 0
+BKCcgmYD-9o: image missing!
+Images remaining (length of url_queue): 4464/111366
+image_queue length: 1278
+result_queue length: 0
+Images remaining (length of url_queue): 4333/111366
+image_queue length: 1276
+result_queue length: 0
+BJ275t6A_jW: image missing!
+BKC9nsXj8as: image missing!
+Images remaining (length of url_queue): 4203/111366
+image_queue length: 1267
+result_queue length: 0
+BLIwtNjjiEf: image missing!
+BLGw_I3Br4E: image missing!
+Images remaining (length of url_queue): 4071/111366
+image_queue length: 1268
+result_queue length: 0
+BLD3J4KBExT: image missing!
+BK86QQVAYdl: image missing!
+BKD03PMBQ0V: image missing!
+Images remaining (length of url_queue): 3943/111366
+image_queue length: 1267
+result_queue length: 0
+BKH-C-gD5BR: image missing!
+Images remaining (length of url_queue): 3799/111366
+image_queue length: 1279
+result_queue length: 0
+Images remaining (length of url_queue): 3668/111366
+image_queue length: 1271
+result_queue length: 0
+BJ3ranbD1Ok: image missing!
+BK-ipwQDd9k: image missing!
+BJ6X7PXjfSS: image missing!
+Images remaining (length of url_queue): 3543/111366
+image_queue length: 1268
+result_queue length: 0
+BJzSbrEjGh5: image missing!
+BLAqqxQgNNL: image missing!
+Images remaining (length of url_queue): 3406/111366
+image_queue length: 1268
+result_queue length: 0
+BK0D5LHh_hw: image missing!
+BJ082vYj-YC: image missing!
+BLEtTK1BxC0: image missing!
+Images remaining (length of url_queue): 3276/111366
+image_queue length: 1266
+result_queue length: 0
+BLBLW3gjbBq: image missing!
+Images remaining (length of url_queue): 3134/111366
+image_queue length: 1277
+result_queue length: 0
+BK1UcnYjsbR: image missing!
+Images remaining (length of url_queue): 3000/111366
+image_queue length: 1275
+result_queue length: 0
+BK0tETMhjW0: image missing!
+BK2MStpBhCb: image missing!
+BLGH4TUBi3b: image missing!
+Images remaining (length of url_queue): 2866/111366
+image_queue length: 1277
+result_queue length: 0
+Images remaining (length of url_queue): 2727/111366
+image_queue length: 1289
+result_queue length: 0
+BK8SPBmBuIT: image missing!
+Images remaining (length of url_queue): 2592/111366
+image_queue length: 1286
+result_queue length: 0
+BJ0vi2QDe5_: image missing!
+Images remaining (length of url_queue): 2451/111366
+image_queue length: 1297
+result_queue length: 0
+BKJeWuljpcU: image missing!
+Images remaining (length of url_queue): 2313/111366
+image_queue length: 1307
+result_queue length: 0
+BK3UJnHgf2O: image missing!
+Images remaining (length of url_queue): 2182/111366
+image_queue length: 1309
+result_queue length: 0
+BJ2qSNlgsio: image missing!
+BK5KZRMDDkv: image missing!
+Images remaining (length of url_queue): 2044/111366
+image_queue length: 1311
+result_queue length: 0
+BLHAyK2jEhR: image missing!
+BJ7hW0bAnjH: image missing!
+Images remaining (length of url_queue): 1897/111366
+image_queue length: 1325
+result_queue length: 0
+Images remaining (length of url_queue): 1770/111366
+image_queue length: 1318
+result_queue length: 0
+BK2mlKDhxwg: image missing!
+Images remaining (length of url_queue): 1626/111366
+image_queue length: 1336
+result_queue length: 0
+BJ_aO_bj5Qs: image missing!
+Images remaining (length of url_queue): 1486/111366
+image_queue length: 1344
+result_queue length: 0
+Images remaining (length of url_queue): 1345/111366
+image_queue length: 1357
+result_queue length: 0
+BJ0qWOkhM_l: image missing!
+Images remaining (length of url_queue): 1212/111366
+image_queue length: 1353
+result_queue length: 0
+Images remaining (length of url_queue): 1083/111366
+image_queue length: 1352
+result_queue length: 0
+BK03WEijmZG: image missing!
+Images remaining (length of url_queue): 938/111366
+image_queue length: 1357
+result_queue length: 0
+BLKD1jzgaXX: image missing!
+BK0E4TIh54L: image missing!
+Images remaining (length of url_queue): 806/111366
+image_queue length: 1357
+result_queue length: 0
+BLKAFWsj19w: image missing!
+Images remaining (length of url_queue): 669/111366
+image_queue length: 1361
+result_queue length: 0
+BK6TZA0hOAz: image missing!
+BJ1ACSjjljW: image missing!
+BK3Zx7PBLwV: image missing!
+Images remaining (length of url_queue): 531/111366
+image_queue length: 1359
+result_queue length: 0
+BLEwJZcgD1H: image missing!
+Images remaining (length of url_queue): 394/111366
+image_queue length: 1364
+result_queue length: 1
+BKAPXWaAkU4: image missing!
+BJ4lLLhj2fU: image missing!
+BJ8G40lArkk: image missing!
+Images remaining (length of url_queue): 262/111366
+image_queue length: 1363
+result_queue length: 0
+Images remaining (length of url_queue): 130/111366
+image_queue length: 1361
+result_queue length: 0
+BKC8tP-jYlX: image missing!
+BLESCg9gcdg: image missing!
+Images remaining (length of url_queue): 2/111366
+image_queue length: 1350
+result_queue length: 0
+Download done!
+Images remaining (length of url_queue): 0/111366
+image_queue length: 1274
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 1139
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 997
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 867
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 732
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 598
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 458
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 327
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 193
+result_queue length: 0
+Images remaining (length of url_queue): 0/111366
+image_queue length: 57
+result_queue length: 0
+Classification done!
+Done!

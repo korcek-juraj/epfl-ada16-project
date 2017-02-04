@@ -1,0 +1,7994 @@
+[
+    [
+        "alp",
+        {
+            "count": 96264,
+            "score": 38481.72469686356,
+            "weight": 1
+        }
+    ],
+    [
+        "lakeside, lakeshore",
+        {
+            "count": 106644,
+            "score": 26101.230516960662,
+            "weight": 1
+        }
+    ],
+    [
+        "valley, vale",
+        {
+            "count": 85191,
+            "score": 13810.25966847047,
+            "weight": 1
+        }
+    ],
+    [
+        "palace",
+        {
+            "count": 30765,
+            "score": 6042.974862092323,
+            "weight": 1
+        }
+    ],
+    [
+        "seashore, coast, seacoast, sea-coast",
+        {
+            "count": 46379,
+            "score": 5866.485379824434,
+            "weight": 1
+        }
+    ],
+    [
+        "stage",
+        {
+            "count": 15864,
+            "score": 4378.702701036458,
+            "weight": 0
+        }
+    ],
+    [
+        "castle",
+        {
+            "count": 23501,
+            "score": 4003.0090514437115,
+            "weight": 1
+        }
+    ],
+    [
+        "sunglasses, dark glasses, shades",
+        {
+            "count": 16066,
+            "score": 3999.9190538267367,
+            "weight": 0
+        }
+    ],
+    [
+        "ski",
+        {
+            "count": 27024,
+            "score": 3763.681736929902,
+            "weight": 0
+        }
+    ],
+    [
+        "fountain",
+        {
+            "count": 16002,
+            "score": 3678.386124183241,
+            "weight": 1
+        }
+    ],
+    [
+        "cliff, drop, drop-off",
+        {
+            "count": 47976,
+            "score": 3587.5658526697252,
+            "weight": 1
+        }
+    ],
+    [
+        "plate",
+        {
+            "count": 12022,
+            "score": 3212.342609533449,
+            "weight": 0
+        }
+    ],
+    [
+        "sports car, sport car",
+        {
+            "count": 7781,
+            "score": 3143.117863010164,
+            "weight": 0
+        }
+    ],
+    [
+        "restaurant, eating house, eating place, eatery",
+        {
+            "count": 17401,
+            "score": 3086.3226159650094,
+            "weight": 0
+        }
+    ],
+    [
+        "web site, website, internet site, site",
+        {
+            "count": 13712,
+            "score": 2945.722905251113,
+            "weight": 0
+        }
+    ],
+    [
+        "monastery",
+        {
+            "count": 23269,
+            "score": 2722.7007666234067,
+            "weight": 1
+        }
+    ],
+    [
+        "sunglass",
+        {
+            "count": 14352,
+            "score": 2625.436672363466,
+            "weight": 0
+        }
+    ],
+    [
+        "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        {
+            "count": 24986,
+            "score": 2358.3806424977083,
+            "weight": 1
+        }
+    ],
+    [
+        "dock, dockage, docking facility",
+        {
+            "count": 16942,
+            "score": 2332.8264596649296,
+            "weight": 0
+        }
+    ],
+    [
+        "airliner",
+        {
+            "count": 4771,
+            "score": 2316.09909137294,
+            "weight": 0
+        }
+    ],
+    [
+        "promontory, headland, head, foreland",
+        {
+            "count": 36270,
+            "score": 2302.9965726739006,
+            "weight": 1
+        }
+    ],
+    [
+        "pier",
+        {
+            "count": 18780,
+            "score": 2116.8505035474536,
+            "weight": 1
+        }
+    ],
+    [
+        "volcano",
+        {
+            "count": 21141,
+            "score": 2116.4065040027726,
+            "weight": 1
+        }
+    ],
+    [
+        "wing",
+        {
+            "count": 8248,
+            "score": 2095.4953856864113,
+            "weight": 0
+        }
+    ],
+    [
+        "wig",
+        {
+            "count": 11732,
+            "score": 1986.505796499432,
+            "weight": 0
+        }
+    ],
+    [
+        "streetcar, tram, tramcar, trolley, trolley car",
+        {
+            "count": 8480,
+            "score": 1864.259196967595,
+            "weight": 0
+        }
+    ],
+    [
+        "church, church building",
+        {
+            "count": 13831,
+            "score": 1844.0483754855659,
+            "weight": 1
+        }
+    ],
+    [
+        "mountain bike, all-terrain bike, off-roader",
+        {
+            "count": 11529,
+            "score": 1829.5912752596705,
+            "weight": 0
+        }
+    ],
+    [
+        "book jacket, dust cover, dust jacket, dust wrapper",
+        {
+            "count": 12015,
+            "score": 1792.0932421514551,
+            "weight": 0
+        }
+    ],
+    [
+        "boathouse",
+        {
+            "count": 21046,
+            "score": 1762.012209568685,
+            "weight": 1
+        }
+    ],
+    [
+        "stopwatch, stop watch",
+        {
+            "count": 5761,
+            "score": 1717.4540003834572,
+            "weight": 0
+        }
+    ],
+    [
+        "bell cote, bell cot",
+        {
+            "count": 14690,
+            "score": 1656.9561452981843,
+            "weight": 1
+        }
+    ],
+    [
+        "park bench",
+        {
+            "count": 9094,
+            "score": 1549.1975156038543,
+            "weight": 1
+        }
+    ],
+    [
+        "comic book",
+        {
+            "count": 9794,
+            "score": 1423.9428315332202,
+            "weight": 0
+        }
+    ],
+    [
+        "bikini, two-piece",
+        {
+            "count": 9488,
+            "score": 1418.0062894354244,
+            "weight": 0
+        }
+    ],
+    [
+        "analog clock",
+        {
+            "count": 7442,
+            "score": 1385.025532744412,
+            "weight": 0
+        }
+    ],
+    [
+        "patio, terrace",
+        {
+            "count": 10509,
+            "score": 1381.1320605753892,
+            "weight": 0
+        }
+    ],
+    [
+        "dam, dike, dyke",
+        {
+            "count": 16003,
+            "score": 1358.0689773641916,
+            "weight": 1
+        }
+    ],
+    [
+        "spotlight, spot",
+        {
+            "count": 10800,
+            "score": 1336.7684376086652,
+            "weight": 0
+        }
+    ],
+    [
+        "miniskirt, mini",
+        {
+            "count": 8064,
+            "score": 1316.399191849639,
+            "weight": 0
+        }
+    ],
+    [
+        "seat belt, seatbelt",
+        {
+            "count": 9081,
+            "score": 1267.6882951247976,
+            "weight": 0
+        }
+    ],
+    [
+        "flagpole, flagstaff",
+        {
+            "count": 6273,
+            "score": 1197.2866312968445,
+            "weight": 0
+        }
+    ],
+    [
+        "stole",
+        {
+            "count": 9866,
+            "score": 1193.9565454843664,
+            "weight": 0
+        }
+    ],
+    [
+        "jean, blue jean, denim",
+        {
+            "count": 9238,
+            "score": 1186.2011209696693,
+            "weight": 0
+        }
+    ],
+    [
+        "tile roof",
+        {
+            "count": 5735,
+            "score": 1176.914275055312,
+            "weight": 0
+        }
+    ],
+    [
+        "racer, race car, racing car",
+        {
+            "count": 7699,
+            "score": 1167.4275876421098,
+            "weight": 0
+        }
+    ],
+    [
+        "envelope",
+        {
+            "count": 7844,
+            "score": 1108.6297455877805,
+            "weight": 0
+        }
+    ],
+    [
+        "jersey, T-shirt, tee shirt",
+        {
+            "count": 6954,
+            "score": 1102.4946658005456,
+            "weight": 0
+        }
+    ],
+    [
+        "bannister, banister, balustrade, balusters, handrail",
+        {
+            "count": 8298,
+            "score": 1088.4579779141864,
+            "weight": 0
+        }
+    ],
+    [
+        "fur coat",
+        {
+            "count": 5730,
+            "score": 1088.1161246816928,
+            "weight": 0
+        }
+    ],
+    [
+        "suspension bridge",
+        {
+            "count": 7416,
+            "score": 1078.9665579095285,
+            "weight": 1
+        }
+    ],
+    [
+        "vault",
+        {
+            "count": 6750,
+            "score": 1045.9111267894982,
+            "weight": 1
+        }
+    ],
+    [
+        "umbrella",
+        {
+            "count": 5790,
+            "score": 1039.7386688534307,
+            "weight": 0
+        }
+    ],
+    [
+        "bow tie, bow-tie, bowtie",
+        {
+            "count": 6443,
+            "score": 1007.1431937457012,
+            "weight": 0
+        }
+    ],
+    [
+        "beer glass",
+        {
+            "count": 4200,
+            "score": 992.3807287471773,
+            "weight": 0
+        }
+    ],
+    [
+        "prison, prison house",
+        {
+            "count": 7838,
+            "score": 987.3987964414132,
+            "weight": 0
+        }
+    ],
+    [
+        "sandbar, sand bar",
+        {
+            "count": 14082,
+            "score": 977.5657655420588,
+            "weight": 1
+        }
+    ],
+    [
+        "swimming trunks, bathing trunks",
+        {
+            "count": 5936,
+            "score": 970.5892948669922,
+            "weight": 0
+        }
+    ],
+    [
+        "crane",
+        {
+            "count": 7417,
+            "score": 941.0498381470012,
+            "weight": 0
+        }
+    ],
+    [
+        "suit, suit of clothes",
+        {
+            "count": 6176,
+            "score": 939.7873912512306,
+            "weight": 0
+        }
+    ],
+    [
+        "pole",
+        {
+            "count": 8484,
+            "score": 938.2898895859167,
+            "weight": 0
+        }
+    ],
+    [
+        "Band Aid",
+        {
+            "count": 7717,
+            "score": 932.0883540185656,
+            "weight": 0
+        }
+    ],
+    [
+        "packet",
+        {
+            "count": 6730,
+            "score": 915.8593761559223,
+            "weight": 0
+        }
+    ],
+    [
+        "maillot",
+        {
+            "count": 9591,
+            "score": 908.3811932897387,
+            "weight": 0
+        }
+    ],
+    [
+        "convertible",
+        {
+            "count": 6504,
+            "score": 898.8253796418039,
+            "weight": 0
+        }
+    ],
+    [
+        "street sign",
+        {
+            "count": 4926,
+            "score": 871.6092078058699,
+            "weight": 0
+        }
+    ],
+    [
+        "bakery, bakeshop, bakehouse",
+        {
+            "count": 6989,
+            "score": 871.429165125915,
+            "weight": 0
+        }
+    ],
+    [
+        "parachute, chute",
+        {
+            "count": 6155,
+            "score": 851.9994174716097,
+            "weight": 0
+        }
+    ],
+    [
+        "dining table, board",
+        {
+            "count": 6265,
+            "score": 838.8639306431196,
+            "weight": 0
+        }
+    ],
+    [
+        "passenger car, coach, carriage",
+        {
+            "count": 5584,
+            "score": 814.8046575795788,
+            "weight": 0
+        }
+    ],
+    [
+        "maze, labyrinth",
+        {
+            "count": 5155,
+            "score": 807.3102178204514,
+            "weight": 1
+        }
+    ],
+    [
+        "pot, flowerpot",
+        {
+            "count": 5328,
+            "score": 805.3498020593725,
+            "weight": 0
+        }
+    ],
+    [
+        "gown",
+        {
+            "count": 4475,
+            "score": 802.4970359207523,
+            "weight": 0
+        }
+    ],
+    [
+        "swing",
+        {
+            "count": 7027,
+            "score": 796.4775403433072,
+            "weight": 1
+        }
+    ],
+    [
+        "geyser",
+        {
+            "count": 8246,
+            "score": 791.6392139524098,
+            "weight": 1
+        }
+    ],
+    [
+        "ox",
+        {
+            "count": 2236,
+            "score": 789.9422226793904,
+            "weight": 0
+        }
+    ],
+    [
+        "cinema, movie theater, movie theatre, movie house, picture palace",
+        {
+            "count": 7325,
+            "score": 788.0357707111971,
+            "weight": 0
+        }
+    ],
+    [
+        "snowmobile",
+        {
+            "count": 12591,
+            "score": 768.4455880539856,
+            "weight": 0
+        }
+    ],
+    [
+        "rapeseed",
+        {
+            "count": 4067,
+            "score": 763.4874203333602,
+            "weight": 0
+        }
+    ],
+    [
+        "ski mask",
+        {
+            "count": 7456,
+            "score": 737.9514809436081,
+            "weight": 0
+        }
+    ],
+    [
+        "barn",
+        {
+            "count": 5909,
+            "score": 721.4335281587695,
+            "weight": 1
+        }
+    ],
+    [
+        "espresso",
+        {
+            "count": 2840,
+            "score": 711.8118458016374,
+            "weight": 0
+        }
+    ],
+    [
+        "scoreboard",
+        {
+            "count": 5548,
+            "score": 707.9802719839408,
+            "weight": 0
+        }
+    ],
+    [
+        "tray",
+        {
+            "count": 7322,
+            "score": 689.5798907278775,
+            "weight": 0
+        }
+    ],
+    [
+        "stupa, tope",
+        {
+            "count": 3765,
+            "score": 684.4373107813099,
+            "weight": 1
+        }
+    ],
+    [
+        "sarong",
+        {
+            "count": 6163,
+            "score": 677.4713326688425,
+            "weight": 0
+        }
+    ],
+    [
+        "menu",
+        {
+            "count": 5403,
+            "score": 673.9378466426458,
+            "weight": 0
+        }
+    ],
+    [
+        "library",
+        {
+            "count": 7151,
+            "score": 672.5874717289289,
+            "weight": 0
+        }
+    ],
+    [
+        "ice cream, icecream",
+        {
+            "count": 4501,
+            "score": 666.6139867596212,
+            "weight": 0
+        }
+    ],
+    [
+        "magnetic compass",
+        {
+            "count": 4571,
+            "score": 664.3226394544763,
+            "weight": 0
+        }
+    ],
+    [
+        "worm fence, snake fence, snake-rail fence, Virginia fence",
+        {
+            "count": 7367,
+            "score": 662.0161876273673,
+            "weight": 1
+        }
+    ],
+    [
+        "bathing cap, swimming cap",
+        {
+            "count": 5369,
+            "score": 651.8066600614208,
+            "weight": 0
+        }
+    ],
+    [
+        "sliding door",
+        {
+            "count": 5263,
+            "score": 639.141259349114,
+            "weight": 0
+        }
+    ],
+    [
+        "electric locomotive",
+        {
+            "count": 3689,
+            "score": 636.1091879338765,
+            "weight": 0
+        }
+    ],
+    [
+        "greenhouse, nursery, glasshouse",
+        {
+            "count": 5472,
+            "score": 629.6812092798546,
+            "weight": 0
+        }
+    ],
+    [
+        "candle, taper, wax light",
+        {
+            "count": 4161,
+            "score": 626.6182617669011,
+            "weight": 0
+        }
+    ],
+    [
+        "limousine, limo",
+        {
+            "count": 5542,
+            "score": 625.9696888633362,
+            "weight": 0
+        }
+    ],
+    [
+        "canoe",
+        {
+            "count": 7420,
+            "score": 624.2847288655066,
+            "weight": 0
+        }
+    ],
+    [
+        "bubble",
+        {
+            "count": 3287,
+            "score": 623.7043217616607,
+            "weight": 0
+        }
+    ],
+    [
+        "window shade",
+        {
+            "count": 4818,
+            "score": 619.1300415835917,
+            "weight": 0
+        }
+    ],
+    [
+        "window screen",
+        {
+            "count": 5043,
+            "score": 608.7560151947982,
+            "weight": 0
+        }
+    ],
+    [
+        "groom, bridegroom",
+        {
+            "count": 4781,
+            "score": 601.9721531159823,
+            "weight": 0
+        }
+    ],
+    [
+        "fireboat",
+        {
+            "count": 4789,
+            "score": 589.7471202941801,
+            "weight": 0
+        }
+    ],
+    [
+        "viaduct",
+        {
+            "count": 4049,
+            "score": 583.2109733837351,
+            "weight": 1
+        }
+    ],
+    [
+        "cab, hack, taxi, taxicab",
+        {
+            "count": 5160,
+            "score": 579.441631060573,
+            "weight": 0
+        }
+    ],
+    [
+        "picket fence, paling",
+        {
+            "count": 6179,
+            "score": 577.4256698887064,
+            "weight": 0
+        }
+    ],
+    [
+        "lipstick, lip rouge",
+        {
+            "count": 3580,
+            "score": 576.7005075949792,
+            "weight": 0
+        }
+    ],
+    [
+        "mask",
+        {
+            "count": 4261,
+            "score": 576.0937907143546,
+            "weight": 0
+        }
+    ],
+    [
+        "gondola",
+        {
+            "count": 6406,
+            "score": 571.0680966016292,
+            "weight": 0
+        }
+    ],
+    [
+        "steel arch bridge",
+        {
+            "count": 4345,
+            "score": 569.3604989917558,
+            "weight": 1
+        }
+    ],
+    [
+        "wine bottle",
+        {
+            "count": 2970,
+            "score": 561.0712936521959,
+            "weight": 0
+        }
+    ],
+    [
+        "abaya",
+        {
+            "count": 4976,
+            "score": 560.1722259517326,
+            "weight": 0
+        }
+    ],
+    [
+        "beer bottle",
+        {
+            "count": 2859,
+            "score": 559.4272365535562,
+            "weight": 0
+        }
+    ],
+    [
+        "cowboy hat, ten-gallon hat",
+        {
+            "count": 3815,
+            "score": 555.147934993026,
+            "weight": 0
+        }
+    ],
+    [
+        "warplane, military plane",
+        {
+            "count": 5195,
+            "score": 549.0188916117359,
+            "weight": 0
+        }
+    ],
+    [
+        "solar dish, solar collector, solar furnace",
+        {
+            "count": 5238,
+            "score": 544.6141487698739,
+            "weight": 0
+        }
+    ],
+    [
+        "grille, radiator grille",
+        {
+            "count": 5529,
+            "score": 543.4069765655249,
+            "weight": 0
+        }
+    ],
+    [
+        "running shoe",
+        {
+            "count": 2180,
+            "score": 543.048884172862,
+            "weight": 0
+        }
+    ],
+    [
+        "paddle, boat paddle",
+        {
+            "count": 3907,
+            "score": 541.5840171445598,
+            "weight": 0
+        }
+    ],
+    [
+        "shoe shop, shoe-shop, shoe store",
+        {
+            "count": 4640,
+            "score": 535.617802040581,
+            "weight": 0
+        }
+    ],
+    [
+        "red wine",
+        {
+            "count": 3420,
+            "score": 534.536095203868,
+            "weight": 0
+        }
+    ],
+    [
+        "vase",
+        {
+            "count": 3236,
+            "score": 530.0418968904273,
+            "weight": 0
+        }
+    ],
+    [
+        "lab coat, laboratory coat",
+        {
+            "count": 4019,
+            "score": 529.0013931611284,
+            "weight": 0
+        }
+    ],
+    [
+        "daisy",
+        {
+            "count": 1814,
+            "score": 528.6009783210711,
+            "weight": 0
+        }
+    ],
+    [
+        "traffic light, traffic signal, stoplight",
+        {
+            "count": 4550,
+            "score": 525.477198526391,
+            "weight": 0
+        }
+    ],
+    [
+        "balloon",
+        {
+            "count": 3639,
+            "score": 511.8068841641334,
+            "weight": 0
+        }
+    ],
+    [
+        "eggnog",
+        {
+            "count": 3883,
+            "score": 507.28214262786787,
+            "weight": 0
+        }
+    ],
+    [
+        "cheeseburger",
+        {
+            "count": 1550,
+            "score": 507.1510226243263,
+            "weight": 0
+        }
+    ],
+    [
+        "pajama, pyjama, pj's, jammies",
+        {
+            "count": 4577,
+            "score": 504.5709138820148,
+            "weight": 0
+        }
+    ],
+    [
+        "pizza, pizza pie",
+        {
+            "count": 1721,
+            "score": 502.8697907823225,
+            "weight": 0
+        }
+    ],
+    [
+        "television, television system",
+        {
+            "count": 4448,
+            "score": 500.17031272690275,
+            "weight": 0
+        }
+    ],
+    [
+        "mountain tent",
+        {
+            "count": 14604,
+            "score": 494.6604821158683,
+            "weight": 0
+        }
+    ],
+    [
+        "theater curtain, theatre curtain",
+        {
+            "count": 5480,
+            "score": 494.3397656070234,
+            "weight": 0
+        }
+    ],
+    [
+        "barbershop",
+        {
+            "count": 3460,
+            "score": 489.6700224700421,
+            "weight": 0
+        }
+    ],
+    [
+        "sandal",
+        {
+            "count": 3491,
+            "score": 486.93564457527606,
+            "weight": 0
+        }
+    ],
+    [
+        "unicycle, monocycle",
+        {
+            "count": 4392,
+            "score": 484.5062471251906,
+            "weight": 0
+        }
+    ],
+    [
+        "brassiere, bra, bandeau",
+        {
+            "count": 4107,
+            "score": 484.3443471697064,
+            "weight": 0
+        }
+    ],
+    [
+        "altar",
+        {
+            "count": 4281,
+            "score": 482.94235139847103,
+            "weight": 0
+        }
+    ],
+    [
+        "beacon, lighthouse, beacon light, pharos",
+        {
+            "count": 5652,
+            "score": 479.88275140787005,
+            "weight": 0
+        }
+    ],
+    [
+        "toyshop",
+        {
+            "count": 4570,
+            "score": 473.1649778620622,
+            "weight": 0
+        }
+    ],
+    [
+        "triumphal arch",
+        {
+            "count": 4234,
+            "score": 470.09653508385236,
+            "weight": 0
+        }
+    ],
+    [
+        "crash helmet",
+        {
+            "count": 4284,
+            "score": 469.19216413075446,
+            "weight": 0
+        }
+    ],
+    [
+        "digital watch",
+        {
+            "count": 4922,
+            "score": 468.1793478491654,
+            "weight": 0
+        }
+    ],
+    [
+        "buckle",
+        {
+            "count": 3566,
+            "score": 456.27831430142373,
+            "weight": 0
+        }
+    ],
+    [
+        "tobacco shop, tobacconist shop, tobacconist",
+        {
+            "count": 4261,
+            "score": 456.11368070762,
+            "weight": 0
+        }
+    ],
+    [
+        "torch",
+        {
+            "count": 4107,
+            "score": 455.8108874589356,
+            "weight": 0
+        }
+    ],
+    [
+        "stone wall",
+        {
+            "count": 4734,
+            "score": 452.88039829713307,
+            "weight": 0
+        }
+    ],
+    [
+        "hair spray",
+        {
+            "count": 5028,
+            "score": 445.2768223930268,
+            "weight": 0
+        }
+    ],
+    [
+        "perfume, essence",
+        {
+            "count": 3455,
+            "score": 444.83691158939655,
+            "weight": 0
+        }
+    ],
+    [
+        "tub, vat",
+        {
+            "count": 3653,
+            "score": 440.75660184440017,
+            "weight": 0
+        }
+    ],
+    [
+        "pedestal, plinth, footstall",
+        {
+            "count": 3011,
+            "score": 440.6044377388696,
+            "weight": 0
+        }
+    ],
+    [
+        "car mirror",
+        {
+            "count": 3222,
+            "score": 439.764173834429,
+            "weight": 0
+        }
+    ],
+    [
+        "sunscreen, sunblock, sun blocker",
+        {
+            "count": 5626,
+            "score": 439.5696615117133,
+            "weight": 0
+        }
+    ],
+    [
+        "sweatshirt",
+        {
+            "count": 4457,
+            "score": 438.36289233362913,
+            "weight": 0
+        }
+    ],
+    [
+        "electric guitar",
+        {
+            "count": 2581,
+            "score": 437.2685283257724,
+            "weight": 0
+        }
+    ],
+    [
+        "goblet",
+        {
+            "count": 3007,
+            "score": 436.60342709496695,
+            "weight": 0
+        }
+    ],
+    [
+        "cup",
+        {
+            "count": 3861,
+            "score": 428.7652136782781,
+            "weight": 0
+        }
+    ],
+    [
+        "car wheel",
+        {
+            "count": 6817,
+            "score": 427.84007679672504,
+            "weight": 0
+        }
+    ],
+    [
+        "monitor",
+        {
+            "count": 4792,
+            "score": 427.77688378082064,
+            "weight": 0
+        }
+    ],
+    [
+        "bookshop, bookstore, bookstall",
+        {
+            "count": 4384,
+            "score": 422.32927206619934,
+            "weight": 0
+        }
+    ],
+    [
+        "maillot, tank suit",
+        {
+            "count": 4325,
+            "score": 421.2973316641403,
+            "weight": 0
+        }
+    ],
+    [
+        "racket, racquet",
+        {
+            "count": 2277,
+            "score": 420.0584501928993,
+            "weight": 0
+        }
+    ],
+    [
+        "jigsaw puzzle",
+        {
+            "count": 3259,
+            "score": 418.3191492669673,
+            "weight": 0
+        }
+    ],
+    [
+        "grocery store, grocery, food market, market",
+        {
+            "count": 3902,
+            "score": 414.798257587035,
+            "weight": 0
+        }
+    ],
+    [
+        "coral reef",
+        {
+            "count": 3495,
+            "score": 409.14053663344197,
+            "weight": 0
+        }
+    ],
+    [
+        "microphone, mike",
+        {
+            "count": 4891,
+            "score": 403.0597410944283,
+            "weight": 0
+        }
+    ],
+    [
+        "minivan",
+        {
+            "count": 3176,
+            "score": 395.69893830552246,
+            "weight": 0
+        }
+    ],
+    [
+        "dome",
+        {
+            "count": 4086,
+            "score": 394.93528954613294,
+            "weight": 0
+        }
+    ],
+    [
+        "studio couch, day bed",
+        {
+            "count": 2326,
+            "score": 386.86416192159777,
+            "weight": 0
+        }
+    ],
+    [
+        "wardrobe, closet, press",
+        {
+            "count": 2341,
+            "score": 386.45406307780127,
+            "weight": 0
+        }
+    ],
+    [
+        "military uniform",
+        {
+            "count": 3232,
+            "score": 383.53082110530204,
+            "weight": 0
+        }
+    ],
+    [
+        "bicycle-built-for-two, tandem bicycle, tandem",
+        {
+            "count": 3701,
+            "score": 375.7682447602874,
+            "weight": 0
+        }
+    ],
+    [
+        "confectionery, confectionary, candy store",
+        {
+            "count": 3235,
+            "score": 374.2945216100172,
+            "weight": 0
+        }
+    ],
+    [
+        "obelisk",
+        {
+            "count": 4572,
+            "score": 370.37812692599385,
+            "weight": 0
+        }
+    ],
+    [
+        "necklace",
+        {
+            "count": 1857,
+            "score": 369.778031292793,
+            "weight": 0
+        }
+    ],
+    [
+        "chainlink fence",
+        {
+            "count": 2925,
+            "score": 369.11021928947196,
+            "weight": 0
+        }
+    ],
+    [
+        "chocolate sauce, chocolate syrup",
+        {
+            "count": 3354,
+            "score": 368.4484393939117,
+            "weight": 0
+        }
+    ],
+    [
+        "bullet train, bullet",
+        {
+            "count": 3197,
+            "score": 367.6870168366022,
+            "weight": 0
+        }
+    ],
+    [
+        "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
+        {
+            "count": 3001,
+            "score": 365.2307534642714,
+            "weight": 0
+        }
+    ],
+    [
+        "motor scooter, scooter",
+        {
+            "count": 2042,
+            "score": 363.0865861906369,
+            "weight": 0
+        }
+    ],
+    [
+        "barbell",
+        {
+            "count": 2111,
+            "score": 360.4291487001385,
+            "weight": 0
+        }
+    ],
+    [
+        "dumbbell",
+        {
+            "count": 2391,
+            "score": 357.25184255122986,
+            "weight": 0
+        }
+    ],
+    [
+        "snorkel",
+        {
+            "count": 3301,
+            "score": 355.9287231682289,
+            "weight": 0
+        }
+    ],
+    [
+        "cardigan",
+        {
+            "count": 2926,
+            "score": 354.47825575123716,
+            "weight": 0
+        }
+    ],
+    [
+        "thatch, thatched roof",
+        {
+            "count": 3365,
+            "score": 351.15487319796193,
+            "weight": 0
+        }
+    ],
+    [
+        "hair slide",
+        {
+            "count": 3149,
+            "score": 350.6771954520598,
+            "weight": 0
+        }
+    ],
+    [
+        "dogsled, dog sled, dog sleigh",
+        {
+            "count": 6930,
+            "score": 347.55492538065573,
+            "weight": 0
+        }
+    ],
+    [
+        "aircraft carrier, carrier, flattop, attack aircraft carrier",
+        {
+            "count": 3681,
+            "score": 346.0303354672096,
+            "weight": 0
+        }
+    ],
+    [
+        "binoculars, field glasses, opera glasses",
+        {
+            "count": 2112,
+            "score": 344.2458186551162,
+            "weight": 0
+        }
+    ],
+    [
+        "ballplayer, baseball player",
+        {
+            "count": 2636,
+            "score": 339.3891663129903,
+            "weight": 0
+        }
+    ],
+    [
+        "cowboy boot",
+        {
+            "count": 2848,
+            "score": 337.4428215489582,
+            "weight": 0
+        }
+    ],
+    [
+        "catamaran",
+        {
+            "count": 2857,
+            "score": 335.36594682042414,
+            "weight": 0
+        }
+    ],
+    [
+        "brass, memorial tablet, plaque",
+        {
+            "count": 2517,
+            "score": 333.5224486439257,
+            "weight": 0
+        }
+    ],
+    [
+        "doormat, welcome mat",
+        {
+            "count": 3025,
+            "score": 330.8477170891272,
+            "weight": 0
+        }
+    ],
+    [
+        "crutch",
+        {
+            "count": 3344,
+            "score": 329.3843665233562,
+            "weight": 0
+        }
+    ],
+    [
+        "lumbermill, sawmill",
+        {
+            "count": 3325,
+            "score": 329.2757197999563,
+            "weight": 0
+        }
+    ],
+    [
+        "wall clock",
+        {
+            "count": 3803,
+            "score": 328.9864967713737,
+            "weight": 0
+        }
+    ],
+    [
+        "freight car",
+        {
+            "count": 2819,
+            "score": 328.92451238328067,
+            "weight": 0
+        }
+    ],
+    [
+        "poncho",
+        {
+            "count": 3240,
+            "score": 328.49386713251806,
+            "weight": 0
+        }
+    ],
+    [
+        "Loafer",
+        {
+            "count": 3100,
+            "score": 328.08639971196624,
+            "weight": 0
+        }
+    ],
+    [
+        "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",
+        {
+            "count": 3037,
+            "score": 326.6458975555561,
+            "weight": 0
+        }
+    ],
+    [
+        "moped",
+        {
+            "count": 2182,
+            "score": 323.05672449389385,
+            "weight": 0
+        }
+    ],
+    [
+        "goose",
+        {
+            "count": 1471,
+            "score": 310.688169710862,
+            "weight": 0
+        }
+    ],
+    [
+        "snowplow, snowplough",
+        {
+            "count": 3925,
+            "score": 307.8718132777162,
+            "weight": 0
+        }
+    ],
+    [
+        "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+        {
+            "count": 3145,
+            "score": 307.11358404762694,
+            "weight": 0
+        }
+    ],
+    [
+        "sombrero",
+        {
+            "count": 2531,
+            "score": 306.8840635604715,
+            "weight": 0
+        }
+    ],
+    [
+        "shovel",
+        {
+            "count": 3706,
+            "score": 305.7871154321565,
+            "weight": 0
+        }
+    ],
+    [
+        "trench coat",
+        {
+            "count": 2475,
+            "score": 303.7484096256174,
+            "weight": 0
+        }
+    ],
+    [
+        "neck brace",
+        {
+            "count": 2797,
+            "score": 303.09706219243844,
+            "weight": 0
+        }
+    ],
+    [
+        "wool, woolen, woollen",
+        {
+            "count": 4598,
+            "score": 302.65548560903426,
+            "weight": 0
+        }
+    ],
+    [
+        "carton",
+        {
+            "count": 3120,
+            "score": 301.516191609232,
+            "weight": 0
+        }
+    ],
+    [
+        "kimono",
+        {
+            "count": 3065,
+            "score": 298.628432741289,
+            "weight": 0
+        }
+    ],
+    [
+        "ice lolly, lolly, lollipop, popsicle",
+        {
+            "count": 2470,
+            "score": 297.8156226018434,
+            "weight": 0
+        }
+    ],
+    [
+        "coil, spiral, volute, whorl, helix",
+        {
+            "count": 2211,
+            "score": 297.35358327353697,
+            "weight": 0
+        }
+    ],
+    [
+        "trimaran",
+        {
+            "count": 2659,
+            "score": 296.5607088768263,
+            "weight": 0
+        }
+    ],
+    [
+        "bonnet, poke bonnet",
+        {
+            "count": 2411,
+            "score": 294.83400827643027,
+            "weight": 0
+        }
+    ],
+    [
+        "bathtub, bathing tub, bath, tub",
+        {
+            "count": 2571,
+            "score": 294.70707146494533,
+            "weight": 0
+        }
+    ],
+    [
+        "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",
+        {
+            "count": 2975,
+            "score": 291.4723930688377,
+            "weight": 0
+        }
+    ],
+    [
+        "coffee mug",
+        {
+            "count": 2492,
+            "score": 290.74464445843205,
+            "weight": 0
+        }
+    ],
+    [
+        "trifle",
+        {
+            "count": 2382,
+            "score": 289.8610377205987,
+            "weight": 0
+        }
+    ],
+    [
+        "carbonara",
+        {
+            "count": 1568,
+            "score": 289.6126806232278,
+            "weight": 0
+        }
+    ],
+    [
+        "hotdog, hot dog, red hot",
+        {
+            "count": 2325,
+            "score": 287.692763335762,
+            "weight": 0
+        }
+    ],
+    [
+        "teddy, teddy bear",
+        {
+            "count": 1174,
+            "score": 286.8338764646578,
+            "weight": 0
+        }
+    ],
+    [
+        "mosque",
+        {
+            "count": 3491,
+            "score": 285.9151599083227,
+            "weight": 0
+        }
+    ],
+    [
+        "carousel, carrousel, merry-go-round, roundabout, whirligig",
+        {
+            "count": 2447,
+            "score": 284.5540367919548,
+            "weight": 0
+        }
+    ],
+    [
+        "backpack, back pack, knapsack, packsack, rucksack, haversack",
+        {
+            "count": 2033,
+            "score": 283.3563694722229,
+            "weight": 0
+        }
+    ],
+    [
+        "strawberry",
+        {
+            "count": 1768,
+            "score": 280.76426045587846,
+            "weight": 0
+        }
+    ],
+    [
+        "home theater, home theatre",
+        {
+            "count": 2333,
+            "score": 280.3422277966456,
+            "weight": 0
+        }
+    ],
+    [
+        "volleyball",
+        {
+            "count": 2711,
+            "score": 280.10091105751263,
+            "weight": 0
+        }
+    ],
+    [
+        "purse",
+        {
+            "count": 1853,
+            "score": 279.6215868285825,
+            "weight": 0
+        }
+    ],
+    [
+        "water bottle",
+        {
+            "count": 2176,
+            "score": 278.91866618649965,
+            "weight": 0
+        }
+    ],
+    [
+        "meat loaf, meatloaf",
+        {
+            "count": 2842,
+            "score": 278.06825823413055,
+            "weight": 0
+        }
+    ],
+    [
+        "planetarium",
+        {
+            "count": 2350,
+            "score": 276.95943162554954,
+            "weight": 0
+        }
+    ],
+    [
+        "balance beam, beam",
+        {
+            "count": 3110,
+            "score": 274.13279053515834,
+            "weight": 0
+        }
+    ],
+    [
+        "cloak",
+        {
+            "count": 3758,
+            "score": 273.58516705452075,
+            "weight": 0
+        }
+    ],
+    [
+        "consomme",
+        {
+            "count": 2843,
+            "score": 272.8780983605584,
+            "weight": 0
+        }
+    ],
+    [
+        "liner, ocean liner",
+        {
+            "count": 2496,
+            "score": 272.17797205890383,
+            "weight": 0
+        }
+    ],
+    [
+        "minibus",
+        {
+            "count": 2833,
+            "score": 268.80776962689833,
+            "weight": 0
+        }
+    ],
+    [
+        "megalith, megalithic structure",
+        {
+            "count": 2437,
+            "score": 268.3249092559313,
+            "weight": 0
+        }
+    ],
+    [
+        "speedboat",
+        {
+            "count": 2143,
+            "score": 264.8280293756511,
+            "weight": 0
+        }
+    ],
+    [
+        "wreck",
+        {
+            "count": 2749,
+            "score": 264.2883157506876,
+            "weight": 0
+        }
+    ],
+    [
+        "French loaf",
+        {
+            "count": 1962,
+            "score": 261.87543314579307,
+            "weight": 0
+        }
+    ],
+    [
+        "lotion",
+        {
+            "count": 2634,
+            "score": 261.4306304000347,
+            "weight": 0
+        }
+    ],
+    [
+        "desk",
+        {
+            "count": 2436,
+            "score": 258.4010786265203,
+            "weight": 0
+        }
+    ],
+    [
+        "Windsor tie",
+        {
+            "count": 2627,
+            "score": 256.43531077695707,
+            "weight": 0
+        }
+    ],
+    [
+        "turnstile",
+        {
+            "count": 2094,
+            "score": 250.82660342816052,
+            "weight": 0
+        }
+    ],
+    [
+        "face powder",
+        {
+            "count": 2087,
+            "score": 250.1891944753533,
+            "weight": 0
+        }
+    ],
+    [
+        "clog, geta, patten, sabot",
+        {
+            "count": 2502,
+            "score": 246.1805074072838,
+            "weight": 0
+        }
+    ],
+    [
+        "feather boa, boa",
+        {
+            "count": 2216,
+            "score": 245.4483591684766,
+            "weight": 0
+        }
+    ],
+    [
+        "burrito",
+        {
+            "count": 2086,
+            "score": 241.2794099366722,
+            "weight": 0
+        }
+    ],
+    [
+        "mortarboard",
+        {
+            "count": 2156,
+            "score": 240.41424315620884,
+            "weight": 0
+        }
+    ],
+    [
+        "soup bowl",
+        {
+            "count": 2147,
+            "score": 238.8939949588057,
+            "weight": 0
+        }
+    ],
+    [
+        "guillotine",
+        {
+            "count": 1561,
+            "score": 238.53282337246083,
+            "weight": 0
+        }
+    ],
+    [
+        "lampshade, lamp shade",
+        {
+            "count": 1873,
+            "score": 237.94179436167724,
+            "weight": 0
+        }
+    ],
+    [
+        "scuba diver",
+        {
+            "count": 1601,
+            "score": 237.79225709806997,
+            "weight": 0
+        }
+    ],
+    [
+        "soccer ball",
+        {
+            "count": 1359,
+            "score": 237.49940193099246,
+            "weight": 0
+        }
+    ],
+    [
+        "digital clock",
+        {
+            "count": 1910,
+            "score": 234.97490701715287,
+            "weight": 0
+        }
+    ],
+    [
+        "drum, membranophone, tympan",
+        {
+            "count": 1670,
+            "score": 234.86237451515694,
+            "weight": 0
+        }
+    ],
+    [
+        "jeep, landrover",
+        {
+            "count": 1172,
+            "score": 231.83745332723993,
+            "weight": 0
+        }
+    ],
+    [
+        "accordion, piano accordion, squeeze box",
+        {
+            "count": 1889,
+            "score": 231.33516395397373,
+            "weight": 0
+        }
+    ],
+    [
+        "tricycle, trike, velocipede",
+        {
+            "count": 2248,
+            "score": 231.09240553616974,
+            "weight": 0
+        }
+    ],
+    [
+        "knee pad",
+        {
+            "count": 2302,
+            "score": 230.89784782594234,
+            "weight": 0
+        }
+    ],
+    [
+        "ibex, Capra ibex",
+        {
+            "count": 3856,
+            "score": 229.81425849229757,
+            "weight": 0
+        }
+    ],
+    [
+        "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+        {
+            "count": 1950,
+            "score": 229.65391671525595,
+            "weight": 0
+        }
+    ],
+    [
+        "bagel, beigel",
+        {
+            "count": 1999,
+            "score": 229.12061184750382,
+            "weight": 0
+        }
+    ],
+    [
+        "bobsled, bobsleigh, bob",
+        {
+            "count": 2730,
+            "score": 228.31929076477263,
+            "weight": 0
+        }
+    ],
+    [
+        "paddlewheel, paddle wheel",
+        {
+            "count": 1939,
+            "score": 227.23854896645207,
+            "weight": 0
+        }
+    ],
+    [
+        "laptop, laptop computer",
+        {
+            "count": 2001,
+            "score": 227.1174036473511,
+            "weight": 0
+        }
+    ],
+    [
+        "pop bottle, soda bottle",
+        {
+            "count": 2133,
+            "score": 226.65799790160236,
+            "weight": 0
+        }
+    ],
+    [
+        "sax, saxophone",
+        {
+            "count": 2275,
+            "score": 222.89703019111192,
+            "weight": 0
+        }
+    ],
+    [
+        "mailbag, postbag",
+        {
+            "count": 1731,
+            "score": 222.83939261553678,
+            "weight": 0
+        }
+    ],
+    [
+        "pretzel",
+        {
+            "count": 1218,
+            "score": 222.5287274033771,
+            "weight": 0
+        }
+    ],
+    [
+        "shower curtain",
+        {
+            "count": 2538,
+            "score": 222.283279517834,
+            "weight": 0
+        }
+    ],
+    [
+        "overskirt",
+        {
+            "count": 2309,
+            "score": 220.91311756298273,
+            "weight": 0
+        }
+    ],
+    [
+        "steam locomotive",
+        {
+            "count": 2330,
+            "score": 220.77232391459256,
+            "weight": 0
+        }
+    ],
+    [
+        "schooner",
+        {
+            "count": 1968,
+            "score": 220.77156644021807,
+            "weight": 0
+        }
+    ],
+    [
+        "sock",
+        {
+            "count": 2242,
+            "score": 219.58194134353505,
+            "weight": 0
+        }
+    ],
+    [
+        "binder, ring-binder",
+        {
+            "count": 2653,
+            "score": 219.11508919032713,
+            "weight": 0
+        }
+    ],
+    [
+        "shower cap",
+        {
+            "count": 1888,
+            "score": 217.19681759372133,
+            "weight": 0
+        }
+    ],
+    [
+        "puck, hockey puck",
+        {
+            "count": 1448,
+            "score": 217.19282816366677,
+            "weight": 0
+        }
+    ],
+    [
+        "hook, claw",
+        {
+            "count": 2566,
+            "score": 216.89885223507054,
+            "weight": 0
+        }
+    ],
+    [
+        "horizontal bar, high bar",
+        {
+            "count": 2508,
+            "score": 214.6677654312715,
+            "weight": 0
+        }
+    ],
+    [
+        "punching bag, punch bag, punching ball, punchball",
+        {
+            "count": 1683,
+            "score": 213.50816840624628,
+            "weight": 0
+        }
+    ],
+    [
+        "corn",
+        {
+            "count": 1822,
+            "score": 211.88366197213418,
+            "weight": 0
+        }
+    ],
+    [
+        "chain",
+        {
+            "count": 2091,
+            "score": 211.11647740811986,
+            "weight": 0
+        }
+    ],
+    [
+        "handkerchief, hankie, hanky, hankey",
+        {
+            "count": 2103,
+            "score": 209.89711416193006,
+            "weight": 0
+        }
+    ],
+    [
+        "maypole",
+        {
+            "count": 2149,
+            "score": 209.4283867596239,
+            "weight": 0
+        }
+    ],
+    [
+        "mashed potato",
+        {
+            "count": 2035,
+            "score": 207.4175555936381,
+            "weight": 0
+        }
+    ],
+    [
+        "grand piano, grand",
+        {
+            "count": 1930,
+            "score": 207.1628123841383,
+            "weight": 0
+        }
+    ],
+    [
+        "lighter, light, igniter, ignitor",
+        {
+            "count": 2422,
+            "score": 206.85502317624292,
+            "weight": 0
+        }
+    ],
+    [
+        "buckeye, horse chestnut, conker",
+        {
+            "count": 1480,
+            "score": 204.32982439967964,
+            "weight": 0
+        }
+    ],
+    [
+        "sleeping bag",
+        {
+            "count": 2418,
+            "score": 204.32844632712658,
+            "weight": 0
+        }
+    ],
+    [
+        "spider web, spider's web",
+        {
+            "count": 1371,
+            "score": 204.26124931995366,
+            "weight": 0
+        }
+    ],
+    [
+        "wok",
+        {
+            "count": 1677,
+            "score": 200.57490522967885,
+            "weight": 0
+        }
+    ],
+    [
+        "French bulldog",
+        {
+            "count": 539,
+            "score": 200.387130742718,
+            "weight": 0
+        }
+    ],
+    [
+        "mobile home, manufactured home",
+        {
+            "count": 1870,
+            "score": 199.48204832273404,
+            "weight": 0
+        }
+    ],
+    [
+        "shield, buckler",
+        {
+            "count": 1839,
+            "score": 197.55856028282597,
+            "weight": 0
+        }
+    ],
+    [
+        "crossword puzzle, crossword",
+        {
+            "count": 1429,
+            "score": 196.92736384695672,
+            "weight": 0
+        }
+    ],
+    [
+        "trolleybus, trolley coach, trackless trolley",
+        {
+            "count": 2461,
+            "score": 196.5357965231977,
+            "weight": 0
+        }
+    ],
+    [
+        "syringe",
+        {
+            "count": 2297,
+            "score": 195.92513737005243,
+            "weight": 0
+        }
+    ],
+    [
+        "submarine, pigboat, sub, U-boat",
+        {
+            "count": 2092,
+            "score": 195.71446594997178,
+            "weight": 0
+        }
+    ],
+    [
+        "tripod",
+        {
+            "count": 1860,
+            "score": 194.5815140718064,
+            "weight": 0
+        }
+    ],
+    [
+        "hot pot, hotpot",
+        {
+            "count": 1679,
+            "score": 193.95492577353434,
+            "weight": 0
+        }
+    ],
+    [
+        "bucket, pail",
+        {
+            "count": 1848,
+            "score": 193.13941022678694,
+            "weight": 0
+        }
+    ],
+    [
+        "quilt, comforter, comfort, puff",
+        {
+            "count": 1645,
+            "score": 192.68640054453135,
+            "weight": 0
+        }
+    ],
+    [
+        "horse cart, horse-cart",
+        {
+            "count": 1112,
+            "score": 192.26438471363508,
+            "weight": 0
+        }
+    ],
+    [
+        "drumstick",
+        {
+            "count": 2316,
+            "score": 191.01379947601282,
+            "weight": 0
+        }
+    ],
+    [
+        "paintbrush",
+        {
+            "count": 2348,
+            "score": 190.95049016315397,
+            "weight": 0
+        }
+    ],
+    [
+        "sundial",
+        {
+            "count": 2812,
+            "score": 190.88109190072782,
+            "weight": 0
+        }
+    ],
+    [
+        "bee",
+        {
+            "count": 1389,
+            "score": 189.7248427186213,
+            "weight": 0
+        }
+    ],
+    [
+        "ping-pong ball",
+        {
+            "count": 1730,
+            "score": 189.63930648535973,
+            "weight": 0
+        }
+    ],
+    [
+        "hay",
+        {
+            "count": 1656,
+            "score": 189.51637887143968,
+            "weight": 0
+        }
+    ],
+    [
+        "hoopskirt, crinoline",
+        {
+            "count": 1790,
+            "score": 188.68856795963845,
+            "weight": 0
+        }
+    ],
+    [
+        "jinrikisha, ricksha, rickshaw",
+        {
+            "count": 2218,
+            "score": 188.48224931568802,
+            "weight": 0
+        }
+    ],
+    [
+        "shopping cart",
+        {
+            "count": 1394,
+            "score": 187.19512969082894,
+            "weight": 0
+        }
+    ],
+    [
+        "barrow, garden cart, lawn cart, wheelbarrow",
+        {
+            "count": 1769,
+            "score": 186.85875682710196,
+            "weight": 0
+        }
+    ],
+    [
+        "fire engine, fire truck",
+        {
+            "count": 1889,
+            "score": 186.65483584821732,
+            "weight": 0
+        }
+    ],
+    [
+        "pill bottle",
+        {
+            "count": 1645,
+            "score": 186.51079349496968,
+            "weight": 0
+        }
+    ],
+    [
+        "parallel bars, bars",
+        {
+            "count": 1981,
+            "score": 184.31390359131842,
+            "weight": 0
+        }
+    ],
+    [
+        "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",
+        {
+            "count": 1624,
+            "score": 184.22804621882096,
+            "weight": 0
+        }
+    ],
+    [
+        "acoustic guitar",
+        {
+            "count": 1426,
+            "score": 183.08111933162354,
+            "weight": 0
+        }
+    ],
+    [
+        "cannon",
+        {
+            "count": 1734,
+            "score": 182.5663901580224,
+            "weight": 0
+        }
+    ],
+    [
+        "pelican",
+        {
+            "count": 1226,
+            "score": 176.45723889283545,
+            "weight": 0
+        }
+    ],
+    [
+        "radio telescope, radio reflector",
+        {
+            "count": 1838,
+            "score": 175.29591472728202,
+            "weight": 0
+        }
+    ],
+    [
+        "harmonica, mouth organ, harp, mouth harp",
+        {
+            "count": 1587,
+            "score": 175.1761113073356,
+            "weight": 0
+        }
+    ],
+    [
+        "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+        {
+            "count": 1477,
+            "score": 174.7995403524692,
+            "weight": 0
+        }
+    ],
+    [
+        "cucumber, cuke",
+        {
+            "count": 1537,
+            "score": 173.25453967121484,
+            "weight": 0
+        }
+    ],
+    [
+        "birdhouse",
+        {
+            "count": 1557,
+            "score": 171.55355882810198,
+            "weight": 0
+        }
+    ],
+    [
+        "stretcher",
+        {
+            "count": 1853,
+            "score": 171.3021990478046,
+            "weight": 0
+        }
+    ],
+    [
+        "fire screen, fireguard",
+        {
+            "count": 1757,
+            "score": 171.2271638981981,
+            "weight": 0
+        }
+    ],
+    [
+        "bow",
+        {
+            "count": 1926,
+            "score": 170.3186985936536,
+            "weight": 0
+        }
+    ],
+    [
+        "mailbox, letter box",
+        {
+            "count": 1787,
+            "score": 169.09775345608978,
+            "weight": 0
+        }
+    ],
+    [
+        "prayer rug, prayer mat",
+        {
+            "count": 1594,
+            "score": 168.71648178092437,
+            "weight": 0
+        }
+    ],
+    [
+        "slot, one-armed bandit",
+        {
+            "count": 1719,
+            "score": 167.85303760781972,
+            "weight": 0
+        }
+    ],
+    [
+        "sorrel",
+        {
+            "count": 720,
+            "score": 166.42851496192452,
+            "weight": 0
+        }
+    ],
+    [
+        "rubber eraser, rubber, pencil eraser",
+        {
+            "count": 1682,
+            "score": 166.32686239924615,
+            "weight": 0
+        }
+    ],
+    [
+        "screen, CRT screen",
+        {
+            "count": 2401,
+            "score": 166.3206448280332,
+            "weight": 0
+        }
+    ],
+    [
+        "airship, dirigible",
+        {
+            "count": 2712,
+            "score": 165.90478952506965,
+            "weight": 0
+        }
+    ],
+    [
+        "crate",
+        {
+            "count": 1479,
+            "score": 165.49349129780603,
+            "weight": 0
+        }
+    ],
+    [
+        "oxcart",
+        {
+            "count": 1862,
+            "score": 165.18759286814281,
+            "weight": 0
+        }
+    ],
+    [
+        "drilling platform, offshore rig",
+        {
+            "count": 1810,
+            "score": 163.91810188968475,
+            "weight": 0
+        }
+    ],
+    [
+        "plastic bag",
+        {
+            "count": 1570,
+            "score": 163.3684721962836,
+            "weight": 0
+        }
+    ],
+    [
+        "hip, rose hip, rosehip",
+        {
+            "count": 1126,
+            "score": 162.55900028676297,
+            "weight": 0
+        }
+    ],
+    [
+        "bulletproof vest",
+        {
+            "count": 1706,
+            "score": 162.13421940186058,
+            "weight": 0
+        }
+    ],
+    [
+        "marimba, xylophone",
+        {
+            "count": 1327,
+            "score": 160.9383328694821,
+            "weight": 0
+        }
+    ],
+    [
+        "refrigerator, icebox",
+        {
+            "count": 1436,
+            "score": 160.25690582630386,
+            "weight": 0
+        }
+    ],
+    [
+        "academic gown, academic robe, judge's robe",
+        {
+            "count": 2356,
+            "score": 160.0414391940783,
+            "weight": 0
+        }
+    ],
+    [
+        "broccoli",
+        {
+            "count": 1023,
+            "score": 159.87992356015775,
+            "weight": 0
+        }
+    ],
+    [
+        "sea urchin",
+        {
+            "count": 790,
+            "score": 159.59198265307714,
+            "weight": 0
+        }
+    ],
+    [
+        "totem pole",
+        {
+            "count": 1130,
+            "score": 159.11175992943026,
+            "weight": 0
+        }
+    ],
+    [
+        "amphibian, amphibious vehicle",
+        {
+            "count": 1850,
+            "score": 159.0705299107467,
+            "weight": 0
+        }
+    ],
+    [
+        "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+        {
+            "count": 3287,
+            "score": 158.75366493791284,
+            "weight": 0
+        }
+    ],
+    [
+        "folding chair",
+        {
+            "count": 1697,
+            "score": 158.60118358701996,
+            "weight": 0
+        }
+    ],
+    [
+        "wallet, billfold, notecase, pocketbook",
+        {
+            "count": 1559,
+            "score": 158.50648934589117,
+            "weight": 0
+        }
+    ],
+    [
+        "bath towel",
+        {
+            "count": 1673,
+            "score": 154.77735303303092,
+            "weight": 0
+        }
+    ],
+    [
+        "throne",
+        {
+            "count": 1428,
+            "score": 154.66996548146926,
+            "weight": 0
+        }
+    ],
+    [
+        "pillow",
+        {
+            "count": 1441,
+            "score": 154.46856918739945,
+            "weight": 0
+        }
+    ],
+    [
+        "notebook, notebook computer",
+        {
+            "count": 1501,
+            "score": 153.97849510326705,
+            "weight": 0
+        }
+    ],
+    [
+        "diaper, nappy, napkin",
+        {
+            "count": 1434,
+            "score": 153.28661327000583,
+            "weight": 0
+        }
+    ],
+    [
+        "container ship, containership, container vessel",
+        {
+            "count": 1467,
+            "score": 150.92245245086087,
+            "weight": 0
+        }
+    ],
+    [
+        "reel",
+        {
+            "count": 1673,
+            "score": 150.48729443537377,
+            "weight": 0
+        }
+    ],
+    [
+        "conch",
+        {
+            "count": 1531,
+            "score": 150.1724655493408,
+            "weight": 0
+        }
+    ],
+    [
+        "tabby, tabby cat",
+        {
+            "count": 614,
+            "score": 149.9944411734723,
+            "weight": 0
+        }
+    ],
+    [
+        "guacamole",
+        {
+            "count": 1586,
+            "score": 149.7633435095413,
+            "weight": 0
+        }
+    ],
+    [
+        "quill, quill pen",
+        {
+            "count": 1346,
+            "score": 149.55149335966598,
+            "weight": 0
+        }
+    ],
+    [
+        "coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",
+        {
+            "count": 1871,
+            "score": 149.45919532290873,
+            "weight": 0
+        }
+    ],
+    [
+        "velvet",
+        {
+            "count": 2134,
+            "score": 147.81566227770236,
+            "weight": 0
+        }
+    ],
+    [
+        "shoji",
+        {
+            "count": 1725,
+            "score": 144.59540066269255,
+            "weight": 0
+        }
+    ],
+    [
+        "four-poster",
+        {
+            "count": 1145,
+            "score": 143.91480728590432,
+            "weight": 0
+        }
+    ],
+    [
+        "bottlecap",
+        {
+            "count": 1210,
+            "score": 143.81267268714237,
+            "weight": 0
+        }
+    ],
+    [
+        "plunger, plumber's helper",
+        {
+            "count": 1779,
+            "score": 143.0049429268106,
+            "weight": 0
+        }
+    ],
+    [
+        "missile",
+        {
+            "count": 2109,
+            "score": 142.7599141621131,
+            "weight": 0
+        }
+    ],
+    [
+        "organ, pipe organ",
+        {
+            "count": 961,
+            "score": 142.60467223281483,
+            "weight": 0
+        }
+    ],
+    [
+        "pick, plectrum, plectron",
+        {
+            "count": 1468,
+            "score": 142.46227457588247,
+            "weight": 0
+        }
+    ],
+    [
+        "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",
+        {
+            "count": 1267,
+            "score": 141.2052241484089,
+            "weight": 0
+        }
+    ],
+    [
+        "cocktail shaker",
+        {
+            "count": 1578,
+            "score": 140.58576783595709,
+            "weight": 0
+        }
+    ],
+    [
+        "odometer, hodometer, mileometer, milometer",
+        {
+            "count": 986,
+            "score": 140.48646879552712,
+            "weight": 0
+        }
+    ],
+    [
+        "butcher shop, meat market",
+        {
+            "count": 1342,
+            "score": 140.2208282249121,
+            "weight": 0
+        }
+    ],
+    [
+        "cornet, horn, trumpet, trump",
+        {
+            "count": 1644,
+            "score": 139.88685594635047,
+            "weight": 0
+        }
+    ],
+    [
+        "vestment",
+        {
+            "count": 1541,
+            "score": 138.8928627020705,
+            "weight": 0
+        }
+    ],
+    [
+        "flute, transverse flute",
+        {
+            "count": 1387,
+            "score": 138.75116673479556,
+            "weight": 0
+        }
+    ],
+    [
+        "paper towel",
+        {
+            "count": 1458,
+            "score": 137.5961312128843,
+            "weight": 0
+        }
+    ],
+    [
+        "medicine chest, medicine cabinet",
+        {
+            "count": 1312,
+            "score": 137.47601749483147,
+            "weight": 0
+        }
+    ],
+    [
+        "space shuttle",
+        {
+            "count": 3086,
+            "score": 135.40850267900896,
+            "weight": 0
+        }
+    ],
+    [
+        "rifle",
+        {
+            "count": 1672,
+            "score": 134.7758164698089,
+            "weight": 0
+        }
+    ],
+    [
+        "moving van",
+        {
+            "count": 1210,
+            "score": 134.5158814073293,
+            "weight": 0
+        }
+    ],
+    [
+        "garbage truck, dustcart",
+        {
+            "count": 1437,
+            "score": 134.43430098508543,
+            "weight": 0
+        }
+    ],
+    [
+        "recreational vehicle, RV, R.V.",
+        {
+            "count": 1468,
+            "score": 133.57930503200078,
+            "weight": 0
+        }
+    ],
+    [
+        "matchstick",
+        {
+            "count": 1594,
+            "score": 133.27556273042097,
+            "weight": 0
+        }
+    ],
+    [
+        "Labrador retriever",
+        {
+            "count": 662,
+            "score": 133.065618824603,
+            "weight": 0
+        }
+    ],
+    [
+        "barometer",
+        {
+            "count": 2294,
+            "score": 132.970731876012,
+            "weight": 0
+        }
+    ],
+    [
+        "potpie",
+        {
+            "count": 1333,
+            "score": 132.77088394930615,
+            "weight": 0
+        }
+    ],
+    [
+        "oxygen mask",
+        {
+            "count": 1396,
+            "score": 132.25499119581764,
+            "weight": 0
+        }
+    ],
+    [
+        "tennis ball",
+        {
+            "count": 1142,
+            "score": 131.94656041065764,
+            "weight": 0
+        }
+    ],
+    [
+        "ram, tup",
+        {
+            "count": 1064,
+            "score": 131.79969571216498,
+            "weight": 0
+        }
+    ],
+    [
+        "reflex camera",
+        {
+            "count": 801,
+            "score": 130.97654082409326,
+            "weight": 0
+        }
+    ],
+    [
+        "ear, spike, capitulum",
+        {
+            "count": 1131,
+            "score": 130.38148135066785,
+            "weight": 0
+        }
+    ],
+    [
+        "pickup, pickup truck",
+        {
+            "count": 1365,
+            "score": 126.97405993275652,
+            "weight": 0
+        }
+    ],
+    [
+        "projector",
+        {
+            "count": 1536,
+            "score": 126.93130778859972,
+            "weight": 0
+        }
+    ],
+    [
+        "caldron, cauldron",
+        {
+            "count": 1302,
+            "score": 126.72337932752771,
+            "weight": 0
+        }
+    ],
+    [
+        "llama",
+        {
+            "count": 932,
+            "score": 126.19968792697182,
+            "weight": 0
+        }
+    ],
+    [
+        "swab, swob, mop",
+        {
+            "count": 1486,
+            "score": 126.0959766934875,
+            "weight": 0
+        }
+    ],
+    [
+        "rocking chair, rocker",
+        {
+            "count": 1235,
+            "score": 125.91550069417391,
+            "weight": 0
+        }
+    ],
+    [
+        "bolo tie, bolo, bola tie, bola",
+        {
+            "count": 1440,
+            "score": 125.12665198124796,
+            "weight": 0
+        }
+    ],
+    [
+        "head cabbage",
+        {
+            "count": 1335,
+            "score": 124.20309270807692,
+            "weight": 0
+        }
+    ],
+    [
+        "oboe, hautboy, hautbois",
+        {
+            "count": 1377,
+            "score": 123.8740994373533,
+            "weight": 0
+        }
+    ],
+    [
+        "barrel, cask",
+        {
+            "count": 1164,
+            "score": 123.21840406769297,
+            "weight": 0
+        }
+    ],
+    [
+        "pinwheel",
+        {
+            "count": 1296,
+            "score": 123.08567678319068,
+            "weight": 0
+        }
+    ],
+    [
+        "golfcart, golf cart",
+        {
+            "count": 1458,
+            "score": 122.61508777250111,
+            "weight": 0
+        }
+    ],
+    [
+        "chime, bell, gong",
+        {
+            "count": 1141,
+            "score": 122.50419278772682,
+            "weight": 0
+        }
+    ],
+    [
+        "yurt",
+        {
+            "count": 1414,
+            "score": 122.15633758037256,
+            "weight": 0
+        }
+    ],
+    [
+        "basketball",
+        {
+            "count": 1305,
+            "score": 121.5924611162496,
+            "weight": 0
+        }
+    ],
+    [
+        "vending machine",
+        {
+            "count": 1355,
+            "score": 120.82482709633939,
+            "weight": 0
+        }
+    ],
+    [
+        "pirate, pirate ship",
+        {
+            "count": 1319,
+            "score": 120.72974818435978,
+            "weight": 0
+        }
+    ],
+    [
+        "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+        {
+            "count": 1442,
+            "score": 120.68690624909786,
+            "weight": 0
+        }
+    ],
+    [
+        "cliff dwelling",
+        {
+            "count": 2043,
+            "score": 120.56603313298547,
+            "weight": 0
+        }
+    ],
+    [
+        "ambulance",
+        {
+            "count": 1998,
+            "score": 120.5600264756813,
+            "weight": 0
+        }
+    ],
+    [
+        "ant, emmet, pismire",
+        {
+            "count": 887,
+            "score": 120.44122821293362,
+            "weight": 0
+        }
+    ],
+    [
+        "banjo",
+        {
+            "count": 1240,
+            "score": 118.32505155104172,
+            "weight": 0
+        }
+    ],
+    [
+        "cardoon",
+        {
+            "count": 647,
+            "score": 118.27315810609616,
+            "weight": 0
+        }
+    ],
+    [
+        "croquet ball",
+        {
+            "count": 1259,
+            "score": 117.44784038790218,
+            "weight": 0
+        }
+    ],
+    [
+        "breastplate, aegis, egis",
+        {
+            "count": 1417,
+            "score": 117.32457045687806,
+            "weight": 0
+        }
+    ],
+    [
+        "apron",
+        {
+            "count": 1279,
+            "score": 117.17636229013442,
+            "weight": 0
+        }
+    ],
+    [
+        "tow truck, tow car, wrecker",
+        {
+            "count": 1428,
+            "score": 117.01717031088563,
+            "weight": 0
+        }
+    ],
+    [
+        "stethoscope",
+        {
+            "count": 1310,
+            "score": 116.83535922266674,
+            "weight": 0
+        }
+    ],
+    [
+        "jellyfish",
+        {
+            "count": 1167,
+            "score": 116.45641189489677,
+            "weight": 0
+        }
+    ],
+    [
+        "beaker",
+        {
+            "count": 1166,
+            "score": 116.03369936275703,
+            "weight": 0
+        }
+    ],
+    [
+        "forklift",
+        {
+            "count": 1099,
+            "score": 115.34340476488529,
+            "weight": 0
+        }
+    ],
+    [
+        "ladle",
+        {
+            "count": 1334,
+            "score": 114.14254317468021,
+            "weight": 0
+        }
+    ],
+    [
+        "chain saw, chainsaw",
+        {
+            "count": 1170,
+            "score": 113.20978653654674,
+            "weight": 0
+        }
+    ],
+    [
+        "strainer",
+        {
+            "count": 1177,
+            "score": 113.08662060992211,
+            "weight": 0
+        }
+    ],
+    [
+        "bearskin, busby, shako",
+        {
+            "count": 1188,
+            "score": 113.07650215548347,
+            "weight": 0
+        }
+    ],
+    [
+        "Chihuahua",
+        {
+            "count": 566,
+            "score": 111.33518676368112,
+            "weight": 0
+        }
+    ],
+    [
+        "bib",
+        {
+            "count": 1264,
+            "score": 110.81831825274429,
+            "weight": 0
+        }
+    ],
+    [
+        "dough",
+        {
+            "count": 1054,
+            "score": 110.7777122983679,
+            "weight": 0
+        }
+    ],
+    [
+        "safety pin",
+        {
+            "count": 1241,
+            "score": 110.33640330724847,
+            "weight": 0
+        }
+    ],
+    [
+        "triceratops",
+        {
+            "count": 565,
+            "score": 110.28738937337128,
+            "weight": 0
+        }
+    ],
+    [
+        "plow, plough",
+        {
+            "count": 1382,
+            "score": 110.22671447880202,
+            "weight": 0
+        }
+    ],
+    [
+        "brown bear, bruin, Ursus arctos",
+        {
+            "count": 318,
+            "score": 109.7070379400684,
+            "weight": 0
+        }
+    ],
+    [
+        "gas pump, gasoline pump, petrol pump, island dispenser",
+        {
+            "count": 1270,
+            "score": 109.14789409572722,
+            "weight": 0
+        }
+    ],
+    [
+        "padlock",
+        {
+            "count": 928,
+            "score": 108.27836930315527,
+            "weight": 0
+        }
+    ],
+    [
+        "table lamp",
+        {
+            "count": 1126,
+            "score": 107.67675294500805,
+            "weight": 0
+        }
+    ],
+    [
+        "potter's wheel",
+        {
+            "count": 982,
+            "score": 107.26548022349016,
+            "weight": 0
+        }
+    ],
+    [
+        "iPod",
+        {
+            "count": 965,
+            "score": 106.49152792952509,
+            "weight": 0
+        }
+    ],
+    [
+        "pineapple, ananas",
+        {
+            "count": 1049,
+            "score": 106.1467850719273,
+            "weight": 0
+        }
+    ],
+    [
+        "frying pan, frypan, skillet",
+        {
+            "count": 983,
+            "score": 105.71238361317864,
+            "weight": 0
+        }
+    ],
+    [
+        "toilet tissue, toilet paper, bathroom tissue",
+        {
+            "count": 1293,
+            "score": 105.58628790347711,
+            "weight": 0
+        }
+    ],
+    [
+        "drake",
+        {
+            "count": 376,
+            "score": 105.57302049723512,
+            "weight": 0
+        }
+    ],
+    [
+        "water jug",
+        {
+            "count": 1475,
+            "score": 104.0860787051361,
+            "weight": 0
+        }
+    ],
+    [
+        "gasmask, respirator, gas helmet",
+        {
+            "count": 1017,
+            "score": 103.75916971716697,
+            "weight": 0
+        }
+    ],
+    [
+        "loupe, jeweler's loupe",
+        {
+            "count": 1196,
+            "score": 102.74018644691407,
+            "weight": 0
+        }
+    ],
+    [
+        "steel drum",
+        {
+            "count": 1083,
+            "score": 101.52321510437469,
+            "weight": 0
+        }
+    ],
+    [
+        "gong, tam-tam",
+        {
+            "count": 1206,
+            "score": 100.64269510062013,
+            "weight": 0
+        }
+    ],
+    [
+        "apiary, bee house",
+        {
+            "count": 755,
+            "score": 100.4355991019263,
+            "weight": 0
+        }
+    ],
+    [
+        "honeycomb",
+        {
+            "count": 1049,
+            "score": 99.58881409689144,
+            "weight": 0
+        }
+    ],
+    [
+        "cauliflower",
+        {
+            "count": 789,
+            "score": 99.45569057476314,
+            "weight": 0
+        }
+    ],
+    [
+        "pay-phone, pay-station",
+        {
+            "count": 891,
+            "score": 98.44803436029017,
+            "weight": 0
+        }
+    ],
+    [
+        "rugby ball",
+        {
+            "count": 862,
+            "score": 98.13849316045162,
+            "weight": 0
+        }
+    ],
+    [
+        "barber chair",
+        {
+            "count": 1032,
+            "score": 98.02929022411081,
+            "weight": 0
+        }
+    ],
+    [
+        "football helmet",
+        {
+            "count": 1174,
+            "score": 97.7998580247313,
+            "weight": 0
+        }
+    ],
+    [
+        "yawl",
+        {
+            "count": 888,
+            "score": 97.25338365504285,
+            "weight": 0
+        }
+    ],
+    [
+        "rule, ruler",
+        {
+            "count": 1168,
+            "score": 97.18116880003072,
+            "weight": 0
+        }
+    ],
+    [
+        "lifeboat",
+        {
+            "count": 1093,
+            "score": 97.11580164796726,
+            "weight": 0
+        }
+    ],
+    [
+        "water tower",
+        {
+            "count": 946,
+            "score": 97.0741612053439,
+            "weight": 0
+        }
+    ],
+    [
+        "sea lion",
+        {
+            "count": 1158,
+            "score": 96.96023940286977,
+            "weight": 0
+        }
+    ],
+    [
+        "whistle",
+        {
+            "count": 1206,
+            "score": 96.49096911185552,
+            "weight": 0
+        }
+    ],
+    [
+        "maraca",
+        {
+            "count": 1378,
+            "score": 95.96143834371294,
+            "weight": 0
+        }
+    ],
+    [
+        "nail",
+        {
+            "count": 993,
+            "score": 95.95993632817408,
+            "weight": 0
+        }
+    ],
+    [
+        "broom",
+        {
+            "count": 1249,
+            "score": 95.92956284840807,
+            "weight": 0
+        }
+    ],
+    [
+        "golf ball",
+        {
+            "count": 828,
+            "score": 95.57901747579126,
+            "weight": 0
+        }
+    ],
+    [
+        "parking meter",
+        {
+            "count": 1249,
+            "score": 94.86825680376978,
+            "weight": 0
+        }
+    ],
+    [
+        "oscilloscope, scope, cathode-ray oscilloscope, CRO",
+        {
+            "count": 857,
+            "score": 94.75642584214893,
+            "weight": 0
+        }
+    ],
+    [
+        "violin, fiddle",
+        {
+            "count": 971,
+            "score": 94.50162392184848,
+            "weight": 0
+        }
+    ],
+    [
+        "toilet seat",
+        {
+            "count": 1062,
+            "score": 94.4466283301122,
+            "weight": 0
+        }
+    ],
+    [
+        "Bernese mountain dog",
+        {
+            "count": 275,
+            "score": 94.28680808722856,
+            "weight": 0
+        }
+    ],
+    [
+        "pencil box, pencil case",
+        {
+            "count": 1302,
+            "score": 94.14421475447341,
+            "weight": 0
+        }
+    ],
+    [
+        "hamper",
+        {
+            "count": 1276,
+            "score": 93.72912670356163,
+            "weight": 0
+        }
+    ],
+    [
+        "pool table, billiard table, snooker table",
+        {
+            "count": 958,
+            "score": 93.41612469498021,
+            "weight": 0
+        }
+    ],
+    [
+        "orange",
+        {
+            "count": 793,
+            "score": 93.39611514151329,
+            "weight": 0
+        }
+    ],
+    [
+        "go-kart",
+        {
+            "count": 1053,
+            "score": 92.57691102253739,
+            "weight": 0
+        }
+    ],
+    [
+        "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",
+        {
+            "count": 1240,
+            "score": 92.20493217406329,
+            "weight": 0
+        }
+    ],
+    [
+        "bookcase",
+        {
+            "count": 805,
+            "score": 91.57099614436083,
+            "weight": 0
+        }
+    ],
+    [
+        "marmot",
+        {
+            "count": 4770,
+            "score": 91.25850135425935,
+            "weight": 0
+        }
+    ],
+    [
+        "gar, garfish, garpike, billfish, Lepisosteus osseus",
+        {
+            "count": 1285,
+            "score": 91.25188648272842,
+            "weight": 0
+        }
+    ],
+    [
+        "killer whale, killer, orca, grampus, sea wolf, Orcinus orca",
+        {
+            "count": 1095,
+            "score": 90.72410313662124,
+            "weight": 0
+        }
+    ],
+    [
+        "bassoon",
+        {
+            "count": 1309,
+            "score": 90.42792237262532,
+            "weight": 0
+        }
+    ],
+    [
+        "spatula",
+        {
+            "count": 1212,
+            "score": 90.08092904759087,
+            "weight": 0
+        }
+    ],
+    [
+        "thimble",
+        {
+            "count": 909,
+            "score": 89.7813708003132,
+            "weight": 0
+        }
+    ],
+    [
+        "harp",
+        {
+            "count": 716,
+            "score": 89.47931971569005,
+            "weight": 0
+        }
+    ],
+    [
+        "banana",
+        {
+            "count": 930,
+            "score": 89.42193459506399,
+            "weight": 0
+        }
+    ],
+    [
+        "rotisserie",
+        {
+            "count": 679,
+            "score": 89.39167402471867,
+            "weight": 0
+        }
+    ],
+    [
+        "Christmas stocking",
+        {
+            "count": 909,
+            "score": 89.08126289886394,
+            "weight": 0
+        }
+    ],
+    [
+        "projectile, missile",
+        {
+            "count": 1572,
+            "score": 88.07726421090956,
+            "weight": 0
+        }
+    ],
+    [
+        "knot",
+        {
+            "count": 916,
+            "score": 87.34321896562756,
+            "weight": 0
+        }
+    ],
+    [
+        "Egyptian cat",
+        {
+            "count": 605,
+            "score": 87.34292533534517,
+            "weight": 0
+        }
+    ],
+    [
+        "sewing machine",
+        {
+            "count": 753,
+            "score": 86.41875567567331,
+            "weight": 0
+        }
+    ],
+    [
+        "chest",
+        {
+            "count": 860,
+            "score": 86.3578122138133,
+            "weight": 0
+        }
+    ],
+    [
+        "vacuum, vacuum cleaner",
+        {
+            "count": 881,
+            "score": 86.27208436103683,
+            "weight": 0
+        }
+    ],
+    [
+        "Dungeness crab, Cancer magister",
+        {
+            "count": 1205,
+            "score": 86.18276077610062,
+            "weight": 0
+        }
+    ],
+    [
+        "Dutch oven",
+        {
+            "count": 972,
+            "score": 85.68988972179795,
+            "weight": 0
+        }
+    ],
+    [
+        "American egret, great white heron, Egretta albus",
+        {
+            "count": 894,
+            "score": 84.88001327214079,
+            "weight": 0
+        }
+    ],
+    [
+        "stove",
+        {
+            "count": 777,
+            "score": 84.13425288603685,
+            "weight": 0
+        }
+    ],
+    [
+        "switch, electric switch, electrical switch",
+        {
+            "count": 729,
+            "score": 84.10910341536146,
+            "weight": 0
+        }
+    ],
+    [
+        "scale, weighing machine",
+        {
+            "count": 1131,
+            "score": 83.34059990019523,
+            "weight": 0
+        }
+    ],
+    [
+        "joystick",
+        {
+            "count": 777,
+            "score": 83.29048985350073,
+            "weight": 0
+        }
+    ],
+    [
+        "acorn squash",
+        {
+            "count": 760,
+            "score": 81.8866611331905,
+            "weight": 0
+        }
+    ],
+    [
+        "Arabian camel, dromedary, Camelus dromedarius",
+        {
+            "count": 663,
+            "score": 81.17198966360957,
+            "weight": 0
+        }
+    ],
+    [
+        "tractor",
+        {
+            "count": 756,
+            "score": 81.05392952533634,
+            "weight": 0
+        }
+    ],
+    [
+        "cello, violoncello",
+        {
+            "count": 637,
+            "score": 80.02851300902694,
+            "weight": 0
+        }
+    ],
+    [
+        "desktop computer",
+        {
+            "count": 945,
+            "score": 79.46534978717682,
+            "weight": 0
+        }
+    ],
+    [
+        "trombone",
+        {
+            "count": 1101,
+            "score": 78.65443152860871,
+            "weight": 0
+        }
+    ],
+    [
+        "abacus",
+        {
+            "count": 814,
+            "score": 77.97475888955478,
+            "weight": 0
+        }
+    ],
+    [
+        "harvester, reaper",
+        {
+            "count": 1005,
+            "score": 77.58790060695293,
+            "weight": 0
+        }
+    ],
+    [
+        "upright, upright piano",
+        {
+            "count": 655,
+            "score": 77.53614719536642,
+            "weight": 0
+        }
+    ],
+    [
+        "manhole cover",
+        {
+            "count": 608,
+            "score": 77.5090487635025,
+            "weight": 0
+        }
+    ],
+    [
+        "tench, Tinca tinca",
+        {
+            "count": 718,
+            "score": 77.17758864039206,
+            "weight": 0
+        }
+    ],
+    [
+        "panpipe, pandean pipe, syrinx",
+        {
+            "count": 795,
+            "score": 77.06934335789714,
+            "weight": 0
+        }
+    ],
+    [
+        "lawn mower, mower",
+        {
+            "count": 966,
+            "score": 76.97198158723262,
+            "weight": 0
+        }
+    ],
+    [
+        "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+        {
+            "count": 914,
+            "score": 76.78429218554811,
+            "weight": 0
+        }
+    ],
+    [
+        "Saint Bernard, St Bernard",
+        {
+            "count": 218,
+            "score": 76.1857142420049,
+            "weight": 0
+        }
+    ],
+    [
+        "crayfish, crawfish, crawdad, crawdaddy",
+        {
+            "count": 787,
+            "score": 76.02505489444593,
+            "weight": 0
+        }
+    ],
+    [
+        "pitcher, ewer",
+        {
+            "count": 1364,
+            "score": 75.45536475124754,
+            "weight": 0
+        }
+    ],
+    [
+        "radio, wireless",
+        {
+            "count": 951,
+            "score": 75.14859251149755,
+            "weight": 0
+        }
+    ],
+    [
+        "tiger cat",
+        {
+            "count": 583,
+            "score": 74.5925555232725,
+            "weight": 0
+        }
+    ],
+    [
+        "Indian elephant, Elephas maximus",
+        {
+            "count": 560,
+            "score": 74.12787323932383,
+            "weight": 0
+        }
+    ],
+    [
+        "barracouta, snoek",
+        {
+            "count": 934,
+            "score": 73.39417420067548,
+            "weight": 0
+        }
+    ],
+    [
+        "disk brake, disc brake",
+        {
+            "count": 1088,
+            "score": 73.33643982686908,
+            "weight": 0
+        }
+    ],
+    [
+        "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+        {
+            "count": 1295,
+            "score": 73.18596312630689,
+            "weight": 0
+        }
+    ],
+    [
+        "electric fan, blower",
+        {
+            "count": 788,
+            "score": 73.00786183874936,
+            "weight": 0
+        }
+    ],
+    [
+        "scabbard",
+        {
+            "count": 719,
+            "score": 72.93799889517766,
+            "weight": 0
+        }
+    ],
+    [
+        "sturgeon",
+        {
+            "count": 1246,
+            "score": 72.78858682347152,
+            "weight": 0
+        }
+    ],
+    [
+        "Siamese cat, Siamese",
+        {
+            "count": 271,
+            "score": 72.62083740216622,
+            "weight": 0
+        }
+    ],
+    [
+        "albatross, mollymawk",
+        {
+            "count": 628,
+            "score": 72.53368944545218,
+            "weight": 0
+        }
+    ],
+    [
+        "shopping basket",
+        {
+            "count": 913,
+            "score": 72.33234958619505,
+            "weight": 0
+        }
+    ],
+    [
+        "ocarina, sweet potato",
+        {
+            "count": 876,
+            "score": 71.85646538995934,
+            "weight": 0
+        }
+    ],
+    [
+        "nematode, nematode worm, roundworm",
+        {
+            "count": 895,
+            "score": 71.84829773350117,
+            "weight": 0
+        }
+    ],
+    [
+        "fig",
+        {
+            "count": 609,
+            "score": 71.43654470886031,
+            "weight": 0
+        }
+    ],
+    [
+        "cleaver, meat cleaver, chopper",
+        {
+            "count": 747,
+            "score": 70.86173046839394,
+            "weight": 0
+        }
+    ],
+    [
+        "wooden spoon",
+        {
+            "count": 853,
+            "score": 70.73214247034912,
+            "weight": 0
+        }
+    ],
+    [
+        "flamingo",
+        {
+            "count": 507,
+            "score": 68.47626060063158,
+            "weight": 0
+        }
+    ],
+    [
+        "mosquito net",
+        {
+            "count": 913,
+            "score": 68.20992311192782,
+            "weight": 0
+        }
+    ],
+    [
+        "remote control, remote",
+        {
+            "count": 910,
+            "score": 68.07464664183408,
+            "weight": 0
+        }
+    ],
+    [
+        "Persian cat",
+        {
+            "count": 300,
+            "score": 67.93233589842302,
+            "weight": 0
+        }
+    ],
+    [
+        "hog, pig, grunter, squealer, Sus scrofa",
+        {
+            "count": 519,
+            "score": 67.09305156672053,
+            "weight": 0
+        }
+    ],
+    [
+        "bison",
+        {
+            "count": 936,
+            "score": 66.95672139298586,
+            "weight": 0
+        }
+    ],
+    [
+        "nipple",
+        {
+            "count": 730,
+            "score": 66.67915730225809,
+            "weight": 0
+        }
+    ],
+    [
+        "mousetrap",
+        {
+            "count": 680,
+            "score": 66.58430707156458,
+            "weight": 0
+        }
+    ],
+    [
+        "pomegranate",
+        {
+            "count": 626,
+            "score": 66.35799755534754,
+            "weight": 0
+        }
+    ],
+    [
+        "zucchini, courgette",
+        {
+            "count": 669,
+            "score": 66.31845573566352,
+            "weight": 0
+        }
+    ],
+    [
+        "fountain pen",
+        {
+            "count": 630,
+            "score": 65.9505756680519,
+            "weight": 0
+        }
+    ],
+    [
+        "Eskimo dog, husky",
+        {
+            "count": 458,
+            "score": 65.92158906609984,
+            "weight": 0
+        }
+    ],
+    [
+        "cuirass",
+        {
+            "count": 806,
+            "score": 65.60480466505578,
+            "weight": 0
+        }
+    ],
+    [
+        "butternut squash",
+        {
+            "count": 720,
+            "score": 65.2704351908178,
+            "weight": 0
+        }
+    ],
+    [
+        "tank, army tank, armored combat vehicle, armoured combat vehicle",
+        {
+            "count": 716,
+            "score": 64.97850276797908,
+            "weight": 0
+        }
+    ],
+    [
+        "golden retriever",
+        {
+            "count": 312,
+            "score": 64.8357153631805,
+            "weight": 0
+        }
+    ],
+    [
+        "ballpoint, ballpoint pen, ballpen, Biro",
+        {
+            "count": 725,
+            "score": 63.85069558042514,
+            "weight": 0
+        }
+    ],
+    [
+        "mortar",
+        {
+            "count": 721,
+            "score": 63.235181290020165,
+            "weight": 0
+        }
+    ],
+    [
+        "Pomeranian",
+        {
+            "count": 226,
+            "score": 62.73627072214731,
+            "weight": 0
+        }
+    ],
+    [
+        "mixing bowl",
+        {
+            "count": 829,
+            "score": 62.72005480473308,
+            "weight": 0
+        }
+    ],
+    [
+        "Petri dish",
+        {
+            "count": 657,
+            "score": 62.37795758855583,
+            "weight": 0
+        }
+    ],
+    [
+        "mushroom",
+        {
+            "count": 645,
+            "score": 62.31105038399983,
+            "weight": 0
+        }
+    ],
+    [
+        "cassette",
+        {
+            "count": 647,
+            "score": 62.244142673080205,
+            "weight": 0
+        }
+    ],
+    [
+        "kite",
+        {
+            "count": 391,
+            "score": 61.66860946662928,
+            "weight": 0
+        }
+    ],
+    [
+        "carpenter's kit, tool kit",
+        {
+            "count": 592,
+            "score": 61.30988058929506,
+            "weight": 0
+        }
+    ],
+    [
+        "china cabinet, china closet",
+        {
+            "count": 876,
+            "score": 61.30438437897101,
+            "weight": 0
+        }
+    ],
+    [
+        "safe",
+        {
+            "count": 728,
+            "score": 60.6205617471569,
+            "weight": 0
+        }
+    ],
+    [
+        "peacock",
+        {
+            "count": 251,
+            "score": 60.13604769485164,
+            "weight": 0
+        }
+    ],
+    [
+        "Siberian husky",
+        {
+            "count": 499,
+            "score": 59.966539990920865,
+            "weight": 0
+        }
+    ],
+    [
+        "bald eagle, American eagle, Haliaeetus leucocephalus",
+        {
+            "count": 252,
+            "score": 59.90316973529116,
+            "weight": 0
+        }
+    ],
+    [
+        "corkscrew, bottle screw",
+        {
+            "count": 989,
+            "score": 59.72249008756717,
+            "weight": 0
+        }
+    ],
+    [
+        "mouse, computer mouse",
+        {
+            "count": 707,
+            "score": 59.65326245901815,
+            "weight": 0
+        }
+    ],
+    [
+        "stingray",
+        {
+            "count": 625,
+            "score": 59.58000344085667,
+            "weight": 0
+        }
+    ],
+    [
+        "pug, pug-dog",
+        {
+            "count": 427,
+            "score": 59.45727862147277,
+            "weight": 0
+        }
+    ],
+    [
+        "screw",
+        {
+            "count": 636,
+            "score": 59.129484059296374,
+            "weight": 0
+        }
+    ],
+    [
+        "radiator",
+        {
+            "count": 599,
+            "score": 58.69098202017449,
+            "weight": 0
+        }
+    ],
+    [
+        "plate rack",
+        {
+            "count": 568,
+            "score": 58.61491507390565,
+            "weight": 0
+        }
+    ],
+    [
+        "measuring cup",
+        {
+            "count": 623,
+            "score": 58.402683080341376,
+            "weight": 0
+        }
+    ],
+    [
+        "snail",
+        {
+            "count": 316,
+            "score": 57.879109762914595,
+            "weight": 0
+        }
+    ],
+    [
+        "assault rifle, assault gun",
+        {
+            "count": 719,
+            "score": 57.827518041578855,
+            "weight": 0
+        }
+    ],
+    [
+        "Chesapeake Bay retriever",
+        {
+            "count": 483,
+            "score": 57.7167721526972,
+            "weight": 0
+        }
+    ],
+    [
+        "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",
+        {
+            "count": 944,
+            "score": 57.61758752162132,
+            "weight": 0
+        }
+    ],
+    [
+        "lemon",
+        {
+            "count": 514,
+            "score": 57.541621089349064,
+            "weight": 0
+        }
+    ],
+    [
+        "Model T",
+        {
+            "count": 546,
+            "score": 56.99669052164245,
+            "weight": 0
+        }
+    ],
+    [
+        "tape player",
+        {
+            "count": 665,
+            "score": 56.97818038063997,
+            "weight": 0
+        }
+    ],
+    [
+        "spaghetti squash",
+        {
+            "count": 743,
+            "score": 56.90656972069701,
+            "weight": 0
+        }
+    ],
+    [
+        "cabbage butterfly",
+        {
+            "count": 658,
+            "score": 56.83414231140978,
+            "weight": 0
+        }
+    ],
+    [
+        "Granny Smith",
+        {
+            "count": 480,
+            "score": 55.96480091656338,
+            "weight": 0
+        }
+    ],
+    [
+        "file, file cabinet, filing cabinet",
+        {
+            "count": 597,
+            "score": 55.19064981946758,
+            "weight": 0
+        }
+    ],
+    [
+        "can opener, tin opener",
+        {
+            "count": 588,
+            "score": 55.1883384873513,
+            "weight": 0
+        }
+    ],
+    [
+        "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+        {
+            "count": 646,
+            "score": 54.908907832219484,
+            "weight": 0
+        }
+    ],
+    [
+        "school bus",
+        {
+            "count": 620,
+            "score": 54.77107658844718,
+            "weight": 0
+        }
+    ],
+    [
+        "jackfruit, jak, jack",
+        {
+            "count": 496,
+            "score": 54.705910077147564,
+            "weight": 0
+        }
+    ],
+    [
+        "rain barrel",
+        {
+            "count": 788,
+            "score": 54.5004110957143,
+            "weight": 0
+        }
+    ],
+    [
+        "saltshaker, salt shaker",
+        {
+            "count": 687,
+            "score": 54.398333021197004,
+            "weight": 0
+        }
+    ],
+    [
+        "black swan, Cygnus atratus",
+        {
+            "count": 600,
+            "score": 54.02287460063235,
+            "weight": 0
+        }
+    ],
+    [
+        "German shepherd, German shepherd dog, German police dog, alsatian",
+        {
+            "count": 275,
+            "score": 53.84657044833875,
+            "weight": 0
+        }
+    ],
+    [
+        "hourglass",
+        {
+            "count": 446,
+            "score": 53.737301991947675,
+            "weight": 0
+        }
+    ],
+    [
+        "Samoyed, Samoyede",
+        {
+            "count": 348,
+            "score": 53.68665815343047,
+            "weight": 0
+        }
+    ],
+    [
+        "washer, automatic washer, washing machine",
+        {
+            "count": 565,
+            "score": 53.57451180872158,
+            "weight": 0
+        }
+    ],
+    [
+        "jack-o'-lantern",
+        {
+            "count": 623,
+            "score": 53.57397947436766,
+            "weight": 0
+        }
+    ],
+    [
+        "CD player",
+        {
+            "count": 558,
+            "score": 53.30034640739268,
+            "weight": 0
+        }
+    ],
+    [
+        "cradle",
+        {
+            "count": 697,
+            "score": 53.285748369766225,
+            "weight": 0
+        }
+    ],
+    [
+        "Rhodesian ridgeback",
+        {
+            "count": 300,
+            "score": 53.039525213476736,
+            "weight": 0
+        }
+    ],
+    [
+        "holster",
+        {
+            "count": 739,
+            "score": 52.999377125168394,
+            "weight": 0
+        }
+    ],
+    [
+        "iron, smoothing iron",
+        {
+            "count": 634,
+            "score": 52.50336551570172,
+            "weight": 0
+        }
+    ],
+    [
+        "coffeepot",
+        {
+            "count": 768,
+            "score": 52.20012964811394,
+            "weight": 0
+        }
+    ],
+    [
+        "piggy bank, penny bank",
+        {
+            "count": 514,
+            "score": 51.7100408860133,
+            "weight": 0
+        }
+    ],
+    [
+        "hammer",
+        {
+            "count": 730,
+            "score": 51.59778353483125,
+            "weight": 0
+        }
+    ],
+    [
+        "beagle",
+        {
+            "count": 252,
+            "score": 51.588782166971214,
+            "weight": 0
+        }
+    ],
+    [
+        "vulture",
+        {
+            "count": 413,
+            "score": 50.85257600582554,
+            "weight": 0
+        }
+    ],
+    [
+        "teapot",
+        {
+            "count": 409,
+            "score": 50.60163808949892,
+            "weight": 0
+        }
+    ],
+    [
+        "power drill",
+        {
+            "count": 672,
+            "score": 50.47563983251864,
+            "weight": 0
+        }
+    ],
+    [
+        "screwdriver",
+        {
+            "count": 722,
+            "score": 50.43273035887006,
+            "weight": 0
+        }
+    ],
+    [
+        "vizsla, Hungarian pointer",
+        {
+            "count": 355,
+            "score": 49.980185208507464,
+            "weight": 0
+        }
+    ],
+    [
+        "half track",
+        {
+            "count": 584,
+            "score": 49.71624720606633,
+            "weight": 0
+        }
+    ],
+    [
+        "starfish, sea star",
+        {
+            "count": 469,
+            "score": 49.453294527858816,
+            "weight": 0
+        }
+    ],
+    [
+        "soap dispenser",
+        {
+            "count": 729,
+            "score": 49.07175283396646,
+            "weight": 0
+        }
+    ],
+    [
+        "kelpie",
+        {
+            "count": 530,
+            "score": 48.793392834457336,
+            "weight": 0
+        }
+    ],
+    [
+        "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",
+        {
+            "count": 680,
+            "score": 48.712879103884916,
+            "weight": 0
+        }
+    ],
+    [
+        "Appenzeller",
+        {
+            "count": 442,
+            "score": 48.492755302744335,
+            "weight": 0
+        }
+    ],
+    [
+        "waffle iron",
+        {
+            "count": 375,
+            "score": 48.20142464518722,
+            "weight": 0
+        }
+    ],
+    [
+        "coral fungus",
+        {
+            "count": 490,
+            "score": 47.8688256747555,
+            "weight": 0
+        }
+    ],
+    [
+        "entertainment center",
+        {
+            "count": 699,
+            "score": 47.61879193630011,
+            "weight": 0
+        }
+    ],
+    [
+        "toaster",
+        {
+            "count": 499,
+            "score": 47.12338030782462,
+            "weight": 0
+        }
+    ],
+    [
+        "bell pepper",
+        {
+            "count": 416,
+            "score": 47.06708675935806,
+            "weight": 0
+        }
+    ],
+    [
+        "thresher, thrasher, threshing machine",
+        {
+            "count": 744,
+            "score": 46.77466614169316,
+            "weight": 0
+        }
+    ],
+    [
+        "malamute, malemute, Alaskan malamute",
+        {
+            "count": 461,
+            "score": 46.219791124640324,
+            "weight": 0
+        }
+    ],
+    [
+        "West Highland white terrier",
+        {
+            "count": 443,
+            "score": 46.163887043528824,
+            "weight": 0
+        }
+    ],
+    [
+        "Greater Swiss Mountain dog",
+        {
+            "count": 342,
+            "score": 46.0356039992912,
+            "weight": 0
+        }
+    ],
+    [
+        "acorn",
+        {
+            "count": 452,
+            "score": 45.61759282996354,
+            "weight": 0
+        }
+    ],
+    [
+        "cocker spaniel, English cocker spaniel, cocker",
+        {
+            "count": 229,
+            "score": 45.50839527425114,
+            "weight": 0
+        }
+    ],
+    [
+        "oil filter",
+        {
+            "count": 617,
+            "score": 45.00386371175591,
+            "weight": 0
+        }
+    ],
+    [
+        "microwave, microwave oven",
+        {
+            "count": 445,
+            "score": 44.28796944142414,
+            "weight": 0
+        }
+    ],
+    [
+        "letter opener, paper knife, paperknife",
+        {
+            "count": 601,
+            "score": 44.24832957222179,
+            "weight": 0
+        }
+    ],
+    [
+        "hatchet",
+        {
+            "count": 615,
+            "score": 43.9513376334171,
+            "weight": 0
+        }
+    ],
+    [
+        "hard disc, hard disk, fixed disk",
+        {
+            "count": 446,
+            "score": 43.68133106181267,
+            "weight": 0
+        }
+    ],
+    [
+        "crib, cot",
+        {
+            "count": 528,
+            "score": 43.649740868338995,
+            "weight": 0
+        }
+    ],
+    [
+        "schipperke",
+        {
+            "count": 558,
+            "score": 43.632933686776894,
+            "weight": 0
+        }
+    ],
+    [
+        "gazelle",
+        {
+            "count": 405,
+            "score": 43.53035437024664,
+            "weight": 0
+        }
+    ],
+    [
+        "dishwasher, dish washer, dishwashing machine",
+        {
+            "count": 507,
+            "score": 43.52396684824271,
+            "weight": 0
+        }
+    ],
+    [
+        "hammerhead, hammerhead shark",
+        {
+            "count": 413,
+            "score": 43.37635997454345,
+            "weight": 0
+        }
+    ],
+    [
+        "pencil sharpener",
+        {
+            "count": 543,
+            "score": 43.21844741020277,
+            "weight": 0
+        }
+    ],
+    [
+        "artichoke, globe artichoke",
+        {
+            "count": 339,
+            "score": 42.80810315090639,
+            "weight": 0
+        }
+    ],
+    [
+        "lion, king of beasts, Panthera leo",
+        {
+            "count": 130,
+            "score": 42.43220447120257,
+            "weight": 0
+        }
+    ],
+    [
+        "sea anemone, anemone",
+        {
+            "count": 544,
+            "score": 42.18511217812738,
+            "weight": 0
+        }
+    ],
+    [
+        "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+        {
+            "count": 305,
+            "score": 42.18491894437466,
+            "weight": 0
+        }
+    ],
+    [
+        "Rottweiler",
+        {
+            "count": 311,
+            "score": 42.12901898447308,
+            "weight": 0
+        }
+    ],
+    [
+        "earthstar",
+        {
+            "count": 627,
+            "score": 41.865023679902606,
+            "weight": 0
+        }
+    ],
+    [
+        "revolver, six-gun, six-shooter",
+        {
+            "count": 553,
+            "score": 41.685966333630475,
+            "weight": 0
+        }
+    ],
+    [
+        "Pembroke, Pembroke Welsh corgi",
+        {
+            "count": 289,
+            "score": 41.320749614184024,
+            "weight": 0
+        }
+    ],
+    [
+        "computer keyboard, keypad",
+        {
+            "count": 475,
+            "score": 41.190523087541806,
+            "weight": 0
+        }
+    ],
+    [
+        "tiger, Panthera tigris",
+        {
+            "count": 189,
+            "score": 41.13266098412714,
+            "weight": 0
+        }
+    ],
+    [
+        "combination lock",
+        {
+            "count": 662,
+            "score": 40.9661783566691,
+            "weight": 0
+        }
+    ],
+    [
+        "ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",
+        {
+            "count": 442,
+            "score": 40.80748566429975,
+            "weight": 0
+        }
+    ],
+    [
+        "miniature pinscher",
+        {
+            "count": 293,
+            "score": 40.586463748069946,
+            "weight": 0
+        }
+    ],
+    [
+        "mitten",
+        {
+            "count": 671,
+            "score": 39.78841592965364,
+            "weight": 0
+        }
+    ],
+    [
+        "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+        {
+            "count": 416,
+            "score": 39.26039046263031,
+            "weight": 0
+        }
+    ],
+    [
+        "Weimaraner",
+        {
+            "count": 321,
+            "score": 39.04289694171166,
+            "weight": 0
+        }
+    ],
+    [
+        "Great Dane",
+        {
+            "count": 425,
+            "score": 38.92009591965689,
+            "weight": 0
+        }
+    ],
+    [
+        "collie",
+        {
+            "count": 246,
+            "score": 38.57548322156072,
+            "weight": 0
+        }
+    ],
+    [
+        "whippet",
+        {
+            "count": 296,
+            "score": 38.42166243486281,
+            "weight": 0
+        }
+    ],
+    [
+        "Boston bull, Boston terrier",
+        {
+            "count": 380,
+            "score": 38.417867650685366,
+            "weight": 0
+        }
+    ],
+    [
+        "Staffordshire bullterrier, Staffordshire bull terrier",
+        {
+            "count": 327,
+            "score": 38.2200907696315,
+            "weight": 0
+        }
+    ],
+    [
+        "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",
+        {
+            "count": 472,
+            "score": 37.869879397369004,
+            "weight": 0
+        }
+    ],
+    [
+        "French horn, horn",
+        {
+            "count": 494,
+            "score": 37.58733412773654,
+            "weight": 0
+        }
+    ],
+    [
+        "espresso maker",
+        {
+            "count": 351,
+            "score": 37.17303584314095,
+            "weight": 0
+        }
+    ],
+    [
+        "king penguin, Aptenodytes patagonica",
+        {
+            "count": 377,
+            "score": 36.6974183482489,
+            "weight": 0
+        }
+    ],
+    [
+        "Doberman, Doberman pinscher",
+        {
+            "count": 295,
+            "score": 36.2238818139258,
+            "weight": 0
+        }
+    ],
+    [
+        "Border collie",
+        {
+            "count": 240,
+            "score": 35.63407454481785,
+            "weight": 0
+        }
+    ],
+    [
+        "African elephant, Loxodonta africana",
+        {
+            "count": 244,
+            "score": 35.30792934544843,
+            "weight": 0
+        }
+    ],
+    [
+        "milk can",
+        {
+            "count": 319,
+            "score": 35.09897869504516,
+            "weight": 0
+        }
+    ],
+    [
+        "hummingbird",
+        {
+            "count": 565,
+            "score": 35.082905979203176,
+            "weight": 0
+        }
+    ],
+    [
+        "Great Pyrenees",
+        {
+            "count": 304,
+            "score": 35.079694564963575,
+            "weight": 0
+        }
+    ],
+    [
+        "Polaroid camera, Polaroid Land camera",
+        {
+            "count": 403,
+            "score": 34.81147698951827,
+            "weight": 0
+        }
+    ],
+    [
+        "bolete",
+        {
+            "count": 298,
+            "score": 34.674321571365,
+            "weight": 0
+        }
+    ],
+    [
+        "malinois",
+        {
+            "count": 266,
+            "score": 34.27149346103397,
+            "weight": 0
+        }
+    ],
+    [
+        "redbone",
+        {
+            "count": 303,
+            "score": 34.205594116676366,
+            "weight": 0
+        }
+    ],
+    [
+        "Ibizan hound, Ibizan Podenco",
+        {
+            "count": 327,
+            "score": 34.00744938684147,
+            "weight": 0
+        }
+    ],
+    [
+        "dial telephone, dial phone",
+        {
+            "count": 342,
+            "score": 33.282606855471386,
+            "weight": 0
+        }
+    ],
+    [
+        "basenji",
+        {
+            "count": 309,
+            "score": 33.204345673491844,
+            "weight": 0
+        }
+    ],
+    [
+        "printer",
+        {
+            "count": 459,
+            "score": 32.81571471512689,
+            "weight": 0
+        }
+    ],
+    [
+        "baseball",
+        {
+            "count": 730,
+            "score": 32.81335313699583,
+            "weight": 0
+        }
+    ],
+    [
+        "dalmatian, coach dog, carriage dog",
+        {
+            "count": 212,
+            "score": 32.70120800334553,
+            "weight": 0
+        }
+    ],
+    [
+        "toy poodle",
+        {
+            "count": 256,
+            "score": 32.51037071900646,
+            "weight": 0
+        }
+    ],
+    [
+        "hand-held computer, hand-held microcomputer",
+        {
+            "count": 505,
+            "score": 31.70747873194523,
+            "weight": 0
+        }
+    ],
+    [
+        "Italian greyhound",
+        {
+            "count": 308,
+            "score": 31.28806304743921,
+            "weight": 0
+        }
+    ],
+    [
+        "dingo, warrigal, warragal, Canis dingo",
+        {
+            "count": 339,
+            "score": 30.969745985566988,
+            "weight": 0
+        }
+    ],
+    [
+        "bassinet",
+        {
+            "count": 365,
+            "score": 30.88930832213373,
+            "weight": 0
+        }
+    ],
+    [
+        "wallaby, brush kangaroo",
+        {
+            "count": 249,
+            "score": 30.87708884567519,
+            "weight": 0
+        }
+    ],
+    [
+        "lens cap, lens cover",
+        {
+            "count": 420,
+            "score": 30.67907888814443,
+            "weight": 0
+        }
+    ],
+    [
+        "muzzle",
+        {
+            "count": 304,
+            "score": 30.661107960713935,
+            "weight": 0
+        }
+    ],
+    [
+        "Airedale, Airedale terrier",
+        {
+            "count": 224,
+            "score": 30.57997202826664,
+            "weight": 0
+        }
+    ],
+    [
+        "modem",
+        {
+            "count": 422,
+            "score": 30.3807115459349,
+            "weight": 0
+        }
+    ],
+    [
+        "American alligator, Alligator mississipiensis",
+        {
+            "count": 391,
+            "score": 30.321793387438902,
+            "weight": 0
+        }
+    ],
+    [
+        "goldfish, Carassius auratus",
+        {
+            "count": 228,
+            "score": 30.29478552418732,
+            "weight": 0
+        }
+    ],
+    [
+        "whiskey jug",
+        {
+            "count": 549,
+            "score": 30.28134760213652,
+            "weight": 0
+        }
+    ],
+    [
+        "loggerhead, loggerhead turtle, Caretta caretta",
+        {
+            "count": 415,
+            "score": 30.189937496190836,
+            "weight": 0
+        }
+    ],
+    [
+        "slide rule, slipstick",
+        {
+            "count": 458,
+            "score": 30.04072032466911,
+            "weight": 0
+        }
+    ],
+    [
+        "groenendael",
+        {
+            "count": 301,
+            "score": 29.056905674908194,
+            "weight": 0
+        }
+    ],
+    [
+        "cassette player",
+        {
+            "count": 424,
+            "score": 28.836451207316713,
+            "weight": 0
+        }
+    ],
+    [
+        "EntleBucher",
+        {
+            "count": 400,
+            "score": 28.448261403420474,
+            "weight": 0
+        }
+    ],
+    [
+        "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+        {
+            "count": 300,
+            "score": 27.95850912360038,
+            "weight": 0
+        }
+    ],
+    [
+        "walking stick, walkingstick, stick insect",
+        {
+            "count": 264,
+            "score": 27.832720131016686,
+            "weight": 0
+        }
+    ],
+    [
+        "Crock Pot",
+        {
+            "count": 301,
+            "score": 27.79217120874091,
+            "weight": 0
+        }
+    ],
+    [
+        "electric ray, crampfish, numbfish, torpedo",
+        {
+            "count": 449,
+            "score": 27.3475994916098,
+            "weight": 0
+        }
+    ],
+    [
+        "space heater",
+        {
+            "count": 402,
+            "score": 27.220032670799355,
+            "weight": 0
+        }
+    ],
+    [
+        "tiger shark, Galeocerdo cuvieri",
+        {
+            "count": 361,
+            "score": 27.123313980804596,
+            "weight": 0
+        }
+    ],
+    [
+        "ringlet, ringlet butterfly",
+        {
+            "count": 169,
+            "score": 27.102238595598465,
+            "weight": 0
+        }
+    ],
+    [
+        "zebra",
+        {
+            "count": 180,
+            "score": 26.60330089121635,
+            "weight": 0
+        }
+    ],
+    [
+        "kuvasz",
+        {
+            "count": 304,
+            "score": 26.209923287664424,
+            "weight": 0
+        }
+    ],
+    [
+        "standard poodle",
+        {
+            "count": 259,
+            "score": 26.124879142807913,
+            "weight": 0
+        }
+    ],
+    [
+        "boxer",
+        {
+            "count": 348,
+            "score": 26.02478590190003,
+            "weight": 0
+        }
+    ],
+    [
+        "lycaenid, lycaenid butterfly",
+        {
+            "count": 145,
+            "score": 25.70332158340898,
+            "weight": 0
+        }
+    ],
+    [
+        "custard apple",
+        {
+            "count": 275,
+            "score": 25.524131494294124,
+            "weight": 0
+        }
+    ],
+    [
+        "chiffonier, commode",
+        {
+            "count": 236,
+            "score": 25.326802127696283,
+            "weight": 0
+        }
+    ],
+    [
+        "Lakeland terrier",
+        {
+            "count": 286,
+            "score": 25.235681302918238,
+            "weight": 0
+        }
+    ],
+    [
+        "centipede",
+        {
+            "count": 187,
+            "score": 25.037875806854572,
+            "weight": 0
+        }
+    ],
+    [
+        "chow, chow chow",
+        {
+            "count": 159,
+            "score": 24.89711324650125,
+            "weight": 0
+        }
+    ],
+    [
+        "Yorkshire terrier",
+        {
+            "count": 141,
+            "score": 24.623831230041105,
+            "weight": 0
+        }
+    ],
+    [
+        "Cardigan, Cardigan Welsh corgi",
+        {
+            "count": 309,
+            "score": 24.275920543355824,
+            "weight": 0
+        }
+    ],
+    [
+        "hen",
+        {
+            "count": 145,
+            "score": 23.58798551974178,
+            "weight": 0
+        }
+    ],
+    [
+        "sea snake",
+        {
+            "count": 382,
+            "score": 23.505055349620307,
+            "weight": 0
+        }
+    ],
+    [
+        "space bar",
+        {
+            "count": 283,
+            "score": 23.190451429209133,
+            "weight": 0
+        }
+    ],
+    [
+        "admiral",
+        {
+            "count": 132,
+            "score": 22.99430175049929,
+            "weight": 0
+        }
+    ],
+    [
+        "pickelhaube",
+        {
+            "count": 380,
+            "score": 22.864218909147894,
+            "weight": 0
+        }
+    ],
+    [
+        "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",
+        {
+            "count": 183,
+            "score": 22.811466604871384,
+            "weight": 0
+        }
+    ],
+    [
+        "rock crab, Cancer irroratus",
+        {
+            "count": 327,
+            "score": 22.618512626177107,
+            "weight": 0
+        }
+    ],
+    [
+        "spindle",
+        {
+            "count": 319,
+            "score": 22.533220285169705,
+            "weight": 0
+        }
+    ],
+    [
+        "sulphur butterfly, sulfur butterfly",
+        {
+            "count": 486,
+            "score": 22.493647744131895,
+            "weight": 0
+        }
+    ],
+    [
+        "Shetland sheepdog, Shetland sheep dog, Shetland",
+        {
+            "count": 139,
+            "score": 22.48314311357882,
+            "weight": 0
+        }
+    ],
+    [
+        "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+        {
+            "count": 291,
+            "score": 22.472141393331185,
+            "weight": 0
+        }
+    ],
+    [
+        "photocopier",
+        {
+            "count": 343,
+            "score": 22.38273341482636,
+            "weight": 0
+        }
+    ],
+    [
+        "typewriter keyboard",
+        {
+            "count": 231,
+            "score": 22.220345261028058,
+            "weight": 0
+        }
+    ],
+    [
+        "stinkhorn, carrion fungus",
+        {
+            "count": 348,
+            "score": 22.096641972888392,
+            "weight": 0
+        }
+    ],
+    [
+        "terrapin",
+        {
+            "count": 218,
+            "score": 21.897457886650955,
+            "weight": 0
+        }
+    ],
+    [
+        "tusker",
+        {
+            "count": 243,
+            "score": 21.88319721541484,
+            "weight": 0
+        }
+    ],
+    [
+        "water snake",
+        {
+            "count": 217,
+            "score": 21.8672801424691,
+            "weight": 0
+        }
+    ],
+    [
+        "plane, carpenter's plane, woodworking plane",
+        {
+            "count": 379,
+            "score": 21.60180975323601,
+            "weight": 0
+        }
+    ],
+    [
+        "white wolf, Arctic wolf, Canis lupus tundrarum",
+        {
+            "count": 163,
+            "score": 21.536159128983854,
+            "weight": 0
+        }
+    ],
+    [
+        "eel",
+        {
+            "count": 172,
+            "score": 21.506227942096302,
+            "weight": 0
+        }
+    ],
+    [
+        "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+        {
+            "count": 225,
+            "score": 21.499683957106754,
+            "weight": 0
+        }
+    ],
+    [
+        "American coot, marsh hen, mud hen, water hen, Fulica americana",
+        {
+            "count": 224,
+            "score": 21.295463595163028,
+            "weight": 0
+        }
+    ],
+    [
+        "African crocodile, Nile crocodile, Crocodylus niloticus",
+        {
+            "count": 126,
+            "score": 21.27534511336853,
+            "weight": 0
+        }
+    ],
+    [
+        "red fox, Vulpes vulpes",
+        {
+            "count": 91,
+            "score": 21.236877394811017,
+            "weight": 0
+        }
+    ],
+    [
+        "bull mastiff",
+        {
+            "count": 338,
+            "score": 21.16983876929953,
+            "weight": 0
+        }
+    ],
+    [
+        "slug",
+        {
+            "count": 240,
+            "score": 21.088337958892225,
+            "weight": 0
+        }
+    ],
+    [
+        "tick",
+        {
+            "count": 290,
+            "score": 20.895182515643683,
+            "weight": 0
+        }
+    ],
+    [
+        "orangutan, orang, orangutang, Pongo pygmaeus",
+        {
+            "count": 207,
+            "score": 20.88019936096316,
+            "weight": 0
+        }
+    ],
+    [
+        "barn spider, Araneus cavaticus",
+        {
+            "count": 306,
+            "score": 20.843793102672862,
+            "weight": 0
+        }
+    ],
+    [
+        "porcupine, hedgehog",
+        {
+            "count": 143,
+            "score": 20.556506249908125,
+            "weight": 0
+        }
+    ],
+    [
+        "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
+        {
+            "count": 133,
+            "score": 20.492302681001092,
+            "weight": 0
+        }
+    ],
+    [
+        "brain coral",
+        {
+            "count": 365,
+            "score": 20.395378709179568,
+            "weight": 0
+        }
+    ],
+    [
+        "Walker hound, Walker foxhound",
+        {
+            "count": 200,
+            "score": 20.312917420109443,
+            "weight": 0
+        }
+    ],
+    [
+        "Newfoundland, Newfoundland dog",
+        {
+            "count": 265,
+            "score": 20.150415482203243,
+            "weight": 0
+        }
+    ],
+    [
+        "Maltese dog, Maltese terrier, Maltese",
+        {
+            "count": 103,
+            "score": 20.051026505127084,
+            "weight": 0
+        }
+    ],
+    [
+        "wire-haired fox terrier",
+        {
+            "count": 158,
+            "score": 19.927278103437857,
+            "weight": 0
+        }
+    ],
+    [
+        "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+        {
+            "count": 250,
+            "score": 19.91330292263592,
+            "weight": 0
+        }
+    ],
+    [
+        "ptarmigan",
+        {
+            "count": 274,
+            "score": 19.827722498885123,
+            "weight": 0
+        }
+    ],
+    [
+        "lionfish",
+        {
+            "count": 177,
+            "score": 19.675649658494876,
+            "weight": 0
+        }
+    ],
+    [
+        "Irish setter, red setter",
+        {
+            "count": 153,
+            "score": 19.573585810199802,
+            "weight": 0
+        }
+    ],
+    [
+        "curly-coated retriever",
+        {
+            "count": 221,
+            "score": 19.2128288896929,
+            "weight": 0
+        }
+    ],
+    [
+        "sea slug, nudibranch",
+        {
+            "count": 191,
+            "score": 19.21064505769391,
+            "weight": 0
+        }
+    ],
+    [
+        "garden spider, Aranea diademata",
+        {
+            "count": 211,
+            "score": 19.15410848033207,
+            "weight": 0
+        }
+    ],
+    [
+        "macaw",
+        {
+            "count": 176,
+            "score": 18.994443597783174,
+            "weight": 0
+        }
+    ],
+    [
+        "Brittany spaniel",
+        {
+            "count": 193,
+            "score": 18.930241620088054,
+            "weight": 0
+        }
+    ],
+    [
+        "Shih-Tzu",
+        {
+            "count": 143,
+            "score": 18.58268113656959,
+            "weight": 0
+        }
+    ],
+    [
+        "Irish water spaniel",
+        {
+            "count": 162,
+            "score": 18.33418876469659,
+            "weight": 0
+        }
+    ],
+    [
+        "American black bear, black bear, Ursus americanus, Euarctos americanus",
+        {
+            "count": 248,
+            "score": 18.273453353045625,
+            "weight": 0
+        }
+    ],
+    [
+        "lynx, catamount",
+        {
+            "count": 359,
+            "score": 18.203210975669208,
+            "weight": 0
+        }
+    ],
+    [
+        "fly",
+        {
+            "count": 318,
+            "score": 18.14096678972055,
+            "weight": 0
+        }
+    ],
+    [
+        "bluetick",
+        {
+            "count": 159,
+            "score": 17.91445381763333,
+            "weight": 0
+        }
+    ],
+    [
+        "giant schnauzer",
+        {
+            "count": 193,
+            "score": 17.871012966890703,
+            "weight": 0
+        }
+    ],
+    [
+        "toy terrier",
+        {
+            "count": 264,
+            "score": 17.82428140533011,
+            "weight": 0
+        }
+    ],
+    [
+        "snow leopard, ounce, Panthera uncia",
+        {
+            "count": 103,
+            "score": 17.781299518916057,
+            "weight": 0
+        }
+    ],
+    [
+        "English setter",
+        {
+            "count": 205,
+            "score": 17.588415975489625,
+            "weight": 0
+        }
+    ],
+    [
+        "basset, basset hound",
+        {
+            "count": 204,
+            "score": 17.563454939896474,
+            "weight": 0
+        }
+    ],
+    [
+        "scorpion",
+        {
+            "count": 219,
+            "score": 17.53038053077762,
+            "weight": 0
+        }
+    ],
+    [
+        "Norwich terrier",
+        {
+            "count": 164,
+            "score": 17.45427769725211,
+            "weight": 0
+        }
+    ],
+    [
+        "miniature poodle",
+        {
+            "count": 121,
+            "score": 17.394771949177084,
+            "weight": 0
+        }
+    ],
+    [
+        "cockroach, roach",
+        {
+            "count": 190,
+            "score": 17.28200578000542,
+            "weight": 0
+        }
+    ],
+    [
+        "fox squirrel, eastern fox squirrel, Sciurus niger",
+        {
+            "count": 101,
+            "score": 17.170513464749092,
+            "weight": 0
+        }
+    ],
+    [
+        "great grey owl, great gray owl, Strix nebulosa",
+        {
+            "count": 174,
+            "score": 17.06474018285735,
+            "weight": 0
+        }
+    ],
+    [
+        "impala, Aepyceros melampus",
+        {
+            "count": 194,
+            "score": 16.99972568726116,
+            "weight": 0
+        }
+    ],
+    [
+        "red-breasted merganser, Mergus serrator",
+        {
+            "count": 146,
+            "score": 16.969800499746952,
+            "weight": 0
+        }
+    ],
+    [
+        "macaque",
+        {
+            "count": 143,
+            "score": 16.963395084690546,
+            "weight": 0
+        }
+    ],
+    [
+        "boa constrictor, Constrictor constrictor",
+        {
+            "count": 160,
+            "score": 16.703206205612332,
+            "weight": 0
+        }
+    ],
+    [
+        "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+        {
+            "count": 108,
+            "score": 16.672497549676336,
+            "weight": 0
+        }
+    ],
+    [
+        "puffer, pufferfish, blowfish, globefish",
+        {
+            "count": 117,
+            "score": 16.492657833718113,
+            "weight": 0
+        }
+    ],
+    [
+        "grasshopper, hopper",
+        {
+            "count": 107,
+            "score": 16.395953867245225,
+            "weight": 0
+        }
+    ],
+    [
+        "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+        {
+            "count": 219,
+            "score": 16.36497416457496,
+            "weight": 0
+        }
+    ],
+    [
+        "komondor",
+        {
+            "count": 149,
+            "score": 16.336998352780938,
+            "weight": 0
+        }
+    ],
+    [
+        "magpie",
+        {
+            "count": 191,
+            "score": 16.188905284870998,
+            "weight": 0
+        }
+    ],
+    [
+        "Irish terrier",
+        {
+            "count": 170,
+            "score": 16.159392668530927,
+            "weight": 0
+        }
+    ],
+    [
+        "common iguana, iguana, Iguana iguana",
+        {
+            "count": 139,
+            "score": 16.137471115444896,
+            "weight": 0
+        }
+    ],
+    [
+        "Angora, Angora rabbit",
+        {
+            "count": 144,
+            "score": 16.13626169260364,
+            "weight": 0
+        }
+    ],
+    [
+        "sea cucumber, holothurian",
+        {
+            "count": 258,
+            "score": 15.95739973137097,
+            "weight": 0
+        }
+    ],
+    [
+        "hermit crab",
+        {
+            "count": 221,
+            "score": 15.935378150315955,
+            "weight": 0
+        }
+    ],
+    [
+        "Old English sheepdog, bobtail",
+        {
+            "count": 136,
+            "score": 15.918516278023162,
+            "weight": 0
+        }
+    ],
+    [
+        "African chameleon, Chamaeleo chamaeleon",
+        {
+            "count": 83,
+            "score": 15.881181237171404,
+            "weight": 0
+        }
+    ],
+    [
+        "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+        {
+            "count": 174,
+            "score": 15.828178225664828,
+            "weight": 0
+        }
+    ],
+    [
+        "Blenheim spaniel",
+        {
+            "count": 81,
+            "score": 15.689674366461986,
+            "weight": 0
+        }
+    ],
+    [
+        "English springer, English springer spaniel",
+        {
+            "count": 149,
+            "score": 15.676408231485766,
+            "weight": 0
+        }
+    ],
+    [
+        "German short-haired pointer",
+        {
+            "count": 142,
+            "score": 15.610366886729025,
+            "weight": 0
+        }
+    ],
+    [
+        "spoonbill",
+        {
+            "count": 269,
+            "score": 15.575248869965435,
+            "weight": 0
+        }
+    ],
+    [
+        "skunk, polecat, wood pussy",
+        {
+            "count": 168,
+            "score": 15.456622379097098,
+            "weight": 0
+        }
+    ],
+    [
+        "chambered nautilus, pearly nautilus, nautilus",
+        {
+            "count": 180,
+            "score": 15.393926470540464,
+            "weight": 0
+        }
+    ],
+    [
+        "soft-coated wheaten terrier",
+        {
+            "count": 160,
+            "score": 15.26366506451086,
+            "weight": 0
+        }
+    ],
+    [
+        "otter",
+        {
+            "count": 154,
+            "score": 15.207285855722148,
+            "weight": 0
+        }
+    ],
+    [
+        "black-and-tan coonhound",
+        {
+            "count": 132,
+            "score": 14.789376569213346,
+            "weight": 0
+        }
+    ],
+    [
+        "spider monkey, Ateles geoffroyi",
+        {
+            "count": 166,
+            "score": 14.632816166398698,
+            "weight": 0
+        }
+    ],
+    [
+        "agaric",
+        {
+            "count": 128,
+            "score": 14.497337256798346,
+            "weight": 0
+        }
+    ],
+    [
+        "water ouzel, dipper",
+        {
+            "count": 167,
+            "score": 14.44562737653905,
+            "weight": 0
+        }
+    ],
+    [
+        "green lizard, Lacerta viridis",
+        {
+            "count": 81,
+            "score": 14.356491055288643,
+            "weight": 0
+        }
+    ],
+    [
+        "Norfolk terrier",
+        {
+            "count": 189,
+            "score": 14.210692968859803,
+            "weight": 0
+        }
+    ],
+    [
+        "tarantula",
+        {
+            "count": 107,
+            "score": 14.114848099197843,
+            "weight": 0
+        }
+    ],
+    [
+        "quail",
+        {
+            "count": 131,
+            "score": 14.040310920474212,
+            "weight": 0
+        }
+    ],
+    [
+        "frilled lizard, Chlamydosaurus kingi",
+        {
+            "count": 174,
+            "score": 13.960502743198049,
+            "weight": 0
+        }
+    ],
+    [
+        "flat-coated retriever",
+        {
+            "count": 159,
+            "score": 13.932670917274663,
+            "weight": 0
+        }
+    ],
+    [
+        "leopard, Panthera pardus",
+        {
+            "count": 113,
+            "score": 13.80788258199027,
+            "weight": 0
+        }
+    ],
+    [
+        "gorilla, Gorilla gorilla",
+        {
+            "count": 102,
+            "score": 13.800835880359955,
+            "weight": 0
+        }
+    ],
+    [
+        "anemone fish",
+        {
+            "count": 114,
+            "score": 13.66916188164032,
+            "weight": 0
+        }
+    ],
+    [
+        "cheetah, chetah, Acinonyx jubatus",
+        {
+            "count": 93,
+            "score": 13.599153398452472,
+            "weight": 0
+        }
+    ],
+    [
+        "trilobite",
+        {
+            "count": 175,
+            "score": 13.579599754419178,
+            "weight": 0
+        }
+    ],
+    [
+        "dugong, Dugong dugon",
+        {
+            "count": 233,
+            "score": 13.564420062786667,
+            "weight": 0
+        }
+    ],
+    [
+        "timber wolf, grey wolf, gray wolf, Canis lupus",
+        {
+            "count": 136,
+            "score": 13.50845521472911,
+            "weight": 0
+        }
+    ],
+    [
+        "brambling, Fringilla montifringilla",
+        {
+            "count": 169,
+            "score": 13.378270426228482,
+            "weight": 0
+        }
+    ],
+    [
+        "beaver",
+        {
+            "count": 187,
+            "score": 13.204910484142601,
+            "weight": 0
+        }
+    ],
+    [
+        "hare",
+        {
+            "count": 191,
+            "score": 13.163229738607697,
+            "weight": 0
+        }
+    ],
+    [
+        "Welsh springer spaniel",
+        {
+            "count": 115,
+            "score": 13.019821755386772,
+            "weight": 0
+        }
+    ],
+    [
+        "papillon",
+        {
+            "count": 120,
+            "score": 12.923335721628973,
+            "weight": 0
+        }
+    ],
+    [
+        "Gordon setter",
+        {
+            "count": 157,
+            "score": 12.848791276395787,
+            "weight": 0
+        }
+    ],
+    [
+        "cock",
+        {
+            "count": 123,
+            "score": 12.827799417977076,
+            "weight": 0
+        }
+    ],
+    [
+        "wild boar, boar, Sus scrofa",
+        {
+            "count": 151,
+            "score": 12.726560123726813,
+            "weight": 0
+        }
+    ],
+    [
+        "Indian cobra, Naja naja",
+        {
+            "count": 154,
+            "score": 12.686880407331046,
+            "weight": 0
+        }
+    ],
+    [
+        "chimpanzee, chimp, Pan troglodytes",
+        {
+            "count": 144,
+            "score": 12.647943278920138,
+            "weight": 0
+        }
+    ],
+    [
+        "silky terrier, Sydney silky",
+        {
+            "count": 149,
+            "score": 12.62853692572753,
+            "weight": 0
+        }
+    ],
+    [
+        "Tibetan terrier, chrysanthemum dog",
+        {
+            "count": 78,
+            "score": 12.532981001373258,
+            "weight": 0
+        }
+    ],
+    [
+        "Afghan hound, Afghan",
+        {
+            "count": 153,
+            "score": 12.480131740150682,
+            "weight": 0
+        }
+    ],
+    [
+        "lacewing, lacewing fly",
+        {
+            "count": 143,
+            "score": 12.449597582420665,
+            "weight": 0
+        }
+    ],
+    [
+        "howler monkey, howler",
+        {
+            "count": 127,
+            "score": 12.295193777128588,
+            "weight": 0
+        }
+    ],
+    [
+        "Saluki, gazelle hound",
+        {
+            "count": 130,
+            "score": 12.289407119516909,
+            "weight": 0
+        }
+    ],
+    [
+        "isopod",
+        {
+            "count": 242,
+            "score": 12.249439227548464,
+            "weight": 0
+        }
+    ],
+    [
+        "leaf beetle, chrysomelid",
+        {
+            "count": 141,
+            "score": 12.209709585353266,
+            "weight": 0
+        }
+    ],
+    [
+        "warthog",
+        {
+            "count": 136,
+            "score": 11.998616943579691,
+            "weight": 0
+        }
+    ],
+    [
+        "wood rabbit, cottontail, cottontail rabbit",
+        {
+            "count": 100,
+            "score": 11.770710100667202,
+            "weight": 0
+        }
+    ],
+    [
+        "hartebeest",
+        {
+            "count": 192,
+            "score": 11.688416728960874,
+            "weight": 0
+        }
+    ],
+    [
+        "ruffed grouse, partridge, Bonasa umbellus",
+        {
+            "count": 151,
+            "score": 11.672834846685873,
+            "weight": 0
+        }
+    ],
+    [
+        "house finch, linnet, Carpodacus mexicanus",
+        {
+            "count": 105,
+            "score": 11.5177360901871,
+            "weight": 0
+        }
+    ],
+    [
+        "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+        {
+            "count": 220,
+            "score": 11.506185642807395,
+            "weight": 0
+        }
+    ],
+    [
+        "Leonberg",
+        {
+            "count": 219,
+            "score": 11.404064422860756,
+            "weight": 0
+        }
+    ],
+    [
+        "Australian terrier",
+        {
+            "count": 129,
+            "score": 11.389250577500206,
+            "weight": 0
+        }
+    ],
+    [
+        "Irish wolfhound",
+        {
+            "count": 116,
+            "score": 11.310050913605664,
+            "weight": 0
+        }
+    ],
+    [
+        "Norwegian elkhound, elkhound",
+        {
+            "count": 148,
+            "score": 11.21873451673855,
+            "weight": 0
+        }
+    ],
+    [
+        "night snake, Hypsiglena torquata",
+        {
+            "count": 181,
+            "score": 11.149881360684958,
+            "weight": 0
+        }
+    ],
+    [
+        "African grey, African gray, Psittacus erithacus",
+        {
+            "count": 174,
+            "score": 11.128554019451258,
+            "weight": 0
+        }
+    ],
+    [
+        "toucan",
+        {
+            "count": 103,
+            "score": 11.083317385018745,
+            "weight": 0
+        }
+    ],
+    [
+        "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",
+        {
+            "count": 148,
+            "score": 11.039084936372092,
+            "weight": 0
+        }
+    ],
+    [
+        "Kerry blue terrier",
+        {
+            "count": 111,
+            "score": 10.993248112979927,
+            "weight": 0
+        }
+    ],
+    [
+        "Lhasa, Lhasa apso",
+        {
+            "count": 116,
+            "score": 10.968779755399737,
+            "weight": 0
+        }
+    ],
+    [
+        "Tibetan mastiff",
+        {
+            "count": 123,
+            "score": 10.959241153621292,
+            "weight": 0
+        }
+    ],
+    [
+        "meerkat, mierkat",
+        {
+            "count": 118,
+            "score": 10.896517200539847,
+            "weight": 0
+        }
+    ],
+    [
+        "cricket",
+        {
+            "count": 85,
+            "score": 10.888551233810631,
+            "weight": 0
+        }
+    ],
+    [
+        "alligator lizard",
+        {
+            "count": 85,
+            "score": 10.770979260152217,
+            "weight": 0
+        }
+    ],
+    [
+        "borzoi, Russian wolfhound",
+        {
+            "count": 145,
+            "score": 10.75078461447265,
+            "weight": 0
+        }
+    ],
+    [
+        "bloodhound, sleuthhound",
+        {
+            "count": 169,
+            "score": 10.648751497217745,
+            "weight": 0
+        }
+    ],
+    [
+        "junco, snowbird",
+        {
+            "count": 88,
+            "score": 10.576406777807279,
+            "weight": 0
+        }
+    ],
+    [
+        "dhole, Cuon alpinus",
+        {
+            "count": 118,
+            "score": 10.572292064753128,
+            "weight": 0
+        }
+    ],
+    [
+        "rock python, rock snake, Python sebae",
+        {
+            "count": 118,
+            "score": 10.542307185565278,
+            "weight": 0
+        }
+    ],
+    [
+        "dishrag, dishcloth",
+        {
+            "count": 132,
+            "score": 10.502377891170909,
+            "weight": 0
+        }
+    ],
+    [
+        "bee eater",
+        {
+            "count": 66,
+            "score": 10.482784247898962,
+            "weight": 0
+        }
+    ],
+    [
+        "weasel",
+        {
+            "count": 174,
+            "score": 10.380089424390462,
+            "weight": 0
+        }
+    ],
+    [
+        "cairn, cairn terrier",
+        {
+            "count": 84,
+            "score": 10.36283322534291,
+            "weight": 0
+        }
+    ],
+    [
+        "Mexican hairless",
+        {
+            "count": 151,
+            "score": 10.315052681049565,
+            "weight": 0
+        }
+    ],
+    [
+        "Scotch terrier, Scottish terrier, Scottie",
+        {
+            "count": 131,
+            "score": 10.208027234650217,
+            "weight": 0
+        }
+    ],
+    [
+        "chickadee",
+        {
+            "count": 35,
+            "score": 10.178527761891019,
+            "weight": 0
+        }
+    ],
+    [
+        "miniature schnauzer",
+        {
+            "count": 72,
+            "score": 10.117692039786562,
+            "weight": 0
+        }
+    ],
+    [
+        "gyromitra",
+        {
+            "count": 128,
+            "score": 10.053669766586609,
+            "weight": 0
+        }
+    ],
+    [
+        "thunder snake, worm snake, Carphophis amoenus",
+        {
+            "count": 146,
+            "score": 9.900207834074536,
+            "weight": 0
+        }
+    ],
+    [
+        "Pekinese, Pekingese, Peke",
+        {
+            "count": 139,
+            "score": 9.895824630977586,
+            "weight": 0
+        }
+    ],
+    [
+        "mantis, mantid",
+        {
+            "count": 126,
+            "score": 9.753749878975214,
+            "weight": 0
+        }
+    ],
+    [
+        "dung beetle",
+        {
+            "count": 102,
+            "score": 9.740196608327096,
+            "weight": 0
+        }
+    ],
+    [
+        "white stork, Ciconia ciconia",
+        {
+            "count": 146,
+            "score": 9.577884104699478,
+            "weight": 0
+        }
+    ],
+    [
+        "wolf spider, hunting spider",
+        {
+            "count": 124,
+            "score": 9.49683309676766,
+            "weight": 0
+        }
+    ],
+    [
+        "baboon",
+        {
+            "count": 92,
+            "score": 9.470964099888079,
+            "weight": 0
+        }
+    ],
+    [
+        "partridge",
+        {
+            "count": 121,
+            "score": 9.340513391245622,
+            "weight": 0
+        }
+    ],
+    [
+        "Bedlington terrier",
+        {
+            "count": 105,
+            "score": 8.996897368391956,
+            "weight": 0
+        }
+    ],
+    [
+        "Bouvier des Flandres, Bouviers des Flandres",
+        {
+            "count": 142,
+            "score": 8.899572583670306,
+            "weight": 0
+        }
+    ],
+    [
+        "coyote, prairie wolf, brush wolf, Canis latrans",
+        {
+            "count": 117,
+            "score": 8.871699391514994,
+            "weight": 0
+        }
+    ],
+    [
+        "Arctic fox, white fox, Alopex lagopus",
+        {
+            "count": 146,
+            "score": 8.868895496760473,
+            "weight": 0
+        }
+    ],
+    [
+        "rock beauty, Holocanthus tricolor",
+        {
+            "count": 116,
+            "score": 8.837602706793405,
+            "weight": 0
+        }
+    ],
+    [
+        "long-horned beetle, longicorn, longicorn beetle",
+        {
+            "count": 131,
+            "score": 8.644505985875611,
+            "weight": 0
+        }
+    ],
+    [
+        "langur",
+        {
+            "count": 94,
+            "score": 8.583248655646457,
+            "weight": 0
+        }
+    ],
+    [
+        "vine snake",
+        {
+            "count": 104,
+            "score": 8.517630069574807,
+            "weight": 0
+        }
+    ],
+    [
+        "armadillo",
+        {
+            "count": 116,
+            "score": 8.482695040220278,
+            "weight": 0
+        }
+    ],
+    [
+        "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+        {
+            "count": 126,
+            "score": 8.336527997183339,
+            "weight": 0
+        }
+    ],
+    [
+        "black grouse",
+        {
+            "count": 189,
+            "score": 8.234688787892082,
+            "weight": 0
+        }
+    ],
+    [
+        "lorikeet",
+        {
+            "count": 97,
+            "score": 8.219798628531862,
+            "weight": 0
+        }
+    ],
+    [
+        "rhinoceros beetle",
+        {
+            "count": 96,
+            "score": 8.189153832223383,
+            "weight": 0
+        }
+    ],
+    [
+        "English foxhound",
+        {
+            "count": 148,
+            "score": 8.184533529361943,
+            "weight": 0
+        }
+    ],
+    [
+        "agama",
+        {
+            "count": 118,
+            "score": 8.116339663727558,
+            "weight": 0
+        }
+    ],
+    [
+        "capuchin, ringtail, Cebus capucinus",
+        {
+            "count": 70,
+            "score": 8.013462497401633,
+            "weight": 0
+        }
+    ],
+    [
+        "Sussex spaniel",
+        {
+            "count": 166,
+            "score": 7.997256012935395,
+            "weight": 0
+        }
+    ],
+    [
+        "banded gecko",
+        {
+            "count": 109,
+            "score": 7.95899733225815,
+            "weight": 0
+        }
+    ],
+    [
+        "ringneck snake, ring-necked snake, ring snake",
+        {
+            "count": 167,
+            "score": 7.914964720075659,
+            "weight": 0
+        }
+    ],
+    [
+        "hognose snake, puff adder, sand viper",
+        {
+            "count": 215,
+            "score": 7.912412014371512,
+            "weight": 0
+        }
+    ],
+    [
+        "leafhopper",
+        {
+            "count": 83,
+            "score": 7.738912518776488,
+            "weight": 0
+        }
+    ],
+    [
+        "Border terrier",
+        {
+            "count": 101,
+            "score": 7.72464781513554,
+            "weight": 0
+        }
+    ],
+    [
+        "little blue heron, Egretta caerulea",
+        {
+            "count": 73,
+            "score": 7.6417062679247465,
+            "weight": 0
+        }
+    ],
+    [
+        "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+        {
+            "count": 52,
+            "score": 7.606426103942795,
+            "weight": 0
+        }
+    ],
+    [
+        "oystercatcher, oyster catcher",
+        {
+            "count": 104,
+            "score": 7.586795318988152,
+            "weight": 0
+        }
+    ],
+    [
+        "tree frog, tree-frog",
+        {
+            "count": 49,
+            "score": 7.544338179868646,
+            "weight": 0
+        }
+    ],
+    [
+        "American chameleon, anole, Anolis carolinensis",
+        {
+            "count": 66,
+            "score": 7.461423992965194,
+            "weight": 0
+        }
+    ],
+    [
+        "harvestman, daddy longlegs, Phalangium opilio",
+        {
+            "count": 74,
+            "score": 7.4338045644271915,
+            "weight": 0
+        }
+    ],
+    [
+        "indri, indris, Indri indri, Indri brevicaudatus",
+        {
+            "count": 105,
+            "score": 7.389245964994188,
+            "weight": 0
+        }
+    ],
+    [
+        "damselfly",
+        {
+            "count": 63,
+            "score": 7.3274428478762275,
+            "weight": 0
+        }
+    ],
+    [
+        "briard",
+        {
+            "count": 81,
+            "score": 7.2372427800437436,
+            "weight": 0
+        }
+    ],
+    [
+        "standard schnauzer",
+        {
+            "count": 67,
+            "score": 7.214732251884925,
+            "weight": 0
+        }
+    ],
+    [
+        "ruddy turnstone, Arenaria interpres",
+        {
+            "count": 87,
+            "score": 7.141249094329396,
+            "weight": 0
+        }
+    ],
+    [
+        "squirrel monkey, Saimiri sciureus",
+        {
+            "count": 55,
+            "score": 7.070866810194275,
+            "weight": 0
+        }
+    ],
+    [
+        "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+        {
+            "count": 71,
+            "score": 7.063170352950692,
+            "weight": 0
+        }
+    ],
+    [
+        "sloth bear, Melursus ursinus, Ursus ursinus",
+        {
+            "count": 140,
+            "score": 6.887021524635202,
+            "weight": 0
+        }
+    ],
+    [
+        "clumber, clumber spaniel",
+        {
+            "count": 134,
+            "score": 6.796956525486166,
+            "weight": 0
+        }
+    ],
+    [
+        "wombat",
+        {
+            "count": 114,
+            "score": 6.7812175408616895,
+            "weight": 0
+        }
+    ],
+    [
+        "green mamba",
+        {
+            "count": 63,
+            "score": 6.669872122452944,
+            "weight": 0
+        }
+    ],
+    [
+        "Brabancon griffon",
+        {
+            "count": 125,
+            "score": 6.565797406015918,
+            "weight": 0
+        }
+    ],
+    [
+        "mongoose",
+        {
+            "count": 92,
+            "score": 6.554991765820887,
+            "weight": 0
+        }
+    ],
+    [
+        "jaguar, panther, Panthera onca, Felis onca",
+        {
+            "count": 105,
+            "score": 6.541146309595206,
+            "weight": 0
+        }
+    ],
+    [
+        "otterhound, otter hound",
+        {
+            "count": 52,
+            "score": 6.450047300881124,
+            "weight": 0
+        }
+    ],
+    [
+        "mud turtle",
+        {
+            "count": 158,
+            "score": 6.427543207333656,
+            "weight": 0
+        }
+    ],
+    [
+        "bulbul",
+        {
+            "count": 89,
+            "score": 6.332882148955832,
+            "weight": 0
+        }
+    ],
+    [
+        "flatworm, platyhelminth",
+        {
+            "count": 117,
+            "score": 6.325217168065137,
+            "weight": 0
+        }
+    ],
+    [
+        "jay",
+        {
+            "count": 57,
+            "score": 6.279439325633575,
+            "weight": 0
+        }
+    ],
+    [
+        "goldfinch, Carduelis carduelis",
+        {
+            "count": 63,
+            "score": 6.2779121230123565,
+            "weight": 0
+        }
+    ],
+    [
+        "Madagascar cat, ring-tailed lemur, Lemur catta",
+        {
+            "count": 76,
+            "score": 6.258779902869719,
+            "weight": 0
+        }
+    ],
+    [
+        "echidna, spiny anteater, anteater",
+        {
+            "count": 123,
+            "score": 6.123723479206092,
+            "weight": 0
+        }
+    ],
+    [
+        "guinea pig, Cavia cobaya",
+        {
+            "count": 97,
+            "score": 6.03508895988125,
+            "weight": 0
+        }
+    ],
+    [
+        "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+        {
+            "count": 92,
+            "score": 6.031810385262361,
+            "weight": 0
+        }
+    ],
+    [
+        "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+        {
+            "count": 60,
+            "score": 6.002066896013275,
+            "weight": 0
+        }
+    ],
+    [
+        "black stork, Ciconia nigra",
+        {
+            "count": 99,
+            "score": 5.9317275661778694,
+            "weight": 0
+        }
+    ],
+    [
+        "indigo bunting, indigo finch, indigo bird, Passerina cyanea",
+        {
+            "count": 83,
+            "score": 5.872854523327646,
+            "weight": 0
+        }
+    ],
+    [
+        "common newt, Triturus vulgaris",
+        {
+            "count": 125,
+            "score": 5.859534721522061,
+            "weight": 0
+        }
+    ],
+    [
+        "bullfrog, Rana catesbeiana",
+        {
+            "count": 53,
+            "score": 5.824539406562508,
+            "weight": 0
+        }
+    ],
+    [
+        "king snake, kingsnake",
+        {
+            "count": 78,
+            "score": 5.787367293632997,
+            "weight": 0
+        }
+    ],
+    [
+        "titi, titi monkey",
+        {
+            "count": 72,
+            "score": 5.784328339941567,
+            "weight": 0
+        }
+    ],
+    [
+        "grey fox, gray fox, Urocyon cinereoargenteus",
+        {
+            "count": 86,
+            "score": 5.742998211444501,
+            "weight": 0
+        }
+    ],
+    [
+        "Gila monster, Heloderma suspectum",
+        {
+            "count": 70,
+            "score": 5.620304297306575,
+            "weight": 0
+        }
+    ],
+    [
+        "ostrich, Struthio camelus",
+        {
+            "count": 107,
+            "score": 5.565219464362599,
+            "weight": 0
+        }
+    ],
+    [
+        "bittern",
+        {
+            "count": 66,
+            "score": 5.545284118661982,
+            "weight": 0
+        }
+    ],
+    [
+        "robin, American robin, Turdus migratorius",
+        {
+            "count": 72,
+            "score": 5.52083315391792,
+            "weight": 0
+        }
+    ],
+    [
+        "limpkin, Aramus pictus",
+        {
+            "count": 81,
+            "score": 5.373892655741656,
+            "weight": 0
+        }
+    ],
+    [
+        "three-toed sloth, ai, Bradypus tridactylus",
+        {
+            "count": 68,
+            "score": 5.336115497222636,
+            "weight": 0
+        }
+    ],
+    [
+        "marmoset",
+        {
+            "count": 35,
+            "score": 5.299647301842924,
+            "weight": 0
+        }
+    ],
+    [
+        "redshank, Tringa totanus",
+        {
+            "count": 44,
+            "score": 5.27117918129079,
+            "weight": 0
+        }
+    ],
+    [
+        "Dandie Dinmont, Dandie Dinmont terrier",
+        {
+            "count": 60,
+            "score": 5.25614627841378,
+            "weight": 0
+        }
+    ],
+    [
+        "keeshond",
+        {
+            "count": 86,
+            "score": 5.224149625108112,
+            "weight": 0
+        }
+    ],
+    [
+        "polecat, fitch, foulmart, foumart, Mustela putorius",
+        {
+            "count": 110,
+            "score": 5.195647058906616,
+            "weight": 0
+        }
+    ],
+    [
+        "hamster",
+        {
+            "count": 59,
+            "score": 5.193460515292827,
+            "weight": 0
+        }
+    ],
+    [
+        "badger",
+        {
+            "count": 75,
+            "score": 5.189593418122968,
+            "weight": 0
+        }
+    ],
+    [
+        "affenpinscher, monkey pinscher, monkey dog",
+        {
+            "count": 50,
+            "score": 5.136580269929254,
+            "weight": 0
+        }
+    ],
+    [
+        "black and gold garden spider, Argiope aurantia",
+        {
+            "count": 95,
+            "score": 5.10470392795105,
+            "weight": 0
+        }
+    ],
+    [
+        "box turtle, box tortoise",
+        {
+            "count": 43,
+            "score": 5.067371582903434,
+            "weight": 0
+        }
+    ],
+    [
+        "red wolf, maned wolf, Canis rufus, Canis niger",
+        {
+            "count": 137,
+            "score": 4.890392809172795,
+            "weight": 0
+        }
+    ],
+    [
+        "hornbill",
+        {
+            "count": 88,
+            "score": 4.8476779381453525,
+            "weight": 0
+        }
+    ],
+    [
+        "jacamar",
+        {
+            "count": 42,
+            "score": 4.7955126472515985,
+            "weight": 0
+        }
+    ],
+    [
+        "whiptail, whiptail lizard",
+        {
+            "count": 77,
+            "score": 4.702031990585965,
+            "weight": 0
+        }
+    ],
+    [
+        "red-backed sandpiper, dunlin, Erolia alpina",
+        {
+            "count": 51,
+            "score": 4.624664745409973,
+            "weight": 0
+        }
+    ],
+    [
+        "kit fox, Vulpes macrotis",
+        {
+            "count": 55,
+            "score": 4.324804320123803,
+            "weight": 0
+        }
+    ],
+    [
+        "eft",
+        {
+            "count": 75,
+            "score": 4.318883105881014,
+            "weight": 0
+        }
+    ],
+    [
+        "prairie chicken, prairie grouse, prairie fowl",
+        {
+            "count": 85,
+            "score": 4.270846053500463,
+            "weight": 0
+        }
+    ],
+    [
+        "coucal",
+        {
+            "count": 69,
+            "score": 4.220796544205314,
+            "weight": 0
+        }
+    ],
+    [
+        "fiddler crab",
+        {
+            "count": 62,
+            "score": 4.190966346679488,
+            "weight": 0
+        }
+    ],
+    [
+        "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+        {
+            "count": 82,
+            "score": 4.1330068573588505,
+            "weight": 0
+        }
+    ],
+    [
+        "mink",
+        {
+            "count": 83,
+            "score": 3.9926148924714653,
+            "weight": 0
+        }
+    ],
+    [
+        "dowitcher",
+        {
+            "count": 51,
+            "score": 3.964175048364268,
+            "weight": 0
+        }
+    ],
+    [
+        "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",
+        {
+            "count": 52,
+            "score": 3.9440665782312863,
+            "weight": 0
+        }
+    ],
+    [
+        "Scottish deerhound, deerhound",
+        {
+            "count": 64,
+            "score": 3.588878625887446,
+            "weight": 0
+        }
+    ],
+    [
+        "green snake, grass snake",
+        {
+            "count": 47,
+            "score": 3.5299529668409377,
+            "weight": 0
+        }
+    ],
+    [
+        "black widow, Latrodectus mactans",
+        {
+            "count": 54,
+            "score": 3.368210240674671,
+            "weight": 0
+        }
+    ],
+    [
+        "patas, hussar monkey, Erythrocebus patas",
+        {
+            "count": 64,
+            "score": 3.3585515294689685,
+            "weight": 0
+        }
+    ],
+    [
+        "axolotl, mud puppy, Ambystoma mexicanum",
+        {
+            "count": 42,
+            "score": 3.3418219300510827,
+            "weight": 0
+        }
+    ],
+    [
+        "European fire salamander, Salamandra salamandra",
+        {
+            "count": 33,
+            "score": 3.196944959810935,
+            "weight": 0
+        }
+    ],
+    [
+        "Sealyham terrier, Sealyham",
+        {
+            "count": 43,
+            "score": 3.177966639166698,
+            "weight": 0
+        }
+    ],
+    [
+        "colobus, colobus monkey",
+        {
+            "count": 46,
+            "score": 3.175149020884419,
+            "weight": 0
+        }
+    ],
+    [
+        "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+        {
+            "count": 51,
+            "score": 3.130881998251425,
+            "weight": 0
+        }
+    ],
+    [
+        "guenon, guenon monkey",
+        {
+            "count": 49,
+            "score": 3.059020483480708,
+            "weight": 0
+        }
+    ],
+    [
+        "weevil",
+        {
+            "count": 60,
+            "score": 2.885689050111978,
+            "weight": 0
+        }
+    ],
+    [
+        "cicada, cicala",
+        {
+            "count": 65,
+            "score": 2.885061099943414,
+            "weight": 0
+        }
+    ],
+    [
+        "European gallinule, Porphyrio porphyrio",
+        {
+            "count": 65,
+            "score": 2.6985368212160665,
+            "weight": 0
+        }
+    ],
+    [
+        "gibbon, Hylobates lar",
+        {
+            "count": 67,
+            "score": 2.529183038161136,
+            "weight": 0
+        }
+    ],
+    [
+        "ground beetle, carabid beetle",
+        {
+            "count": 41,
+            "score": 2.3196933992148843,
+            "weight": 0
+        }
+    ],
+    [
+        "garter snake, grass snake",
+        {
+            "count": 37,
+            "score": 2.3147132385347504,
+            "weight": 0
+        }
+    ],
+    [
+        "hyena, hyaena",
+        {
+            "count": 49,
+            "score": 2.3120965047055506,
+            "weight": 0
+        }
+    ],
+    [
+        "bustard",
+        {
+            "count": 53,
+            "score": 2.1187877734337235,
+            "weight": 0
+        }
+    ],
+    [
+        "black-footed ferret, ferret, Mustela nigripes",
+        {
+            "count": 38,
+            "score": 1.8350742736951564,
+            "weight": 0
+        }
+    ],
+    [
+        "sidewinder, horned rattlesnake, Crotalus cerastes",
+        {
+            "count": 32,
+            "score": 1.5579230937873945,
+            "weight": 0
+        }
+    ],
+    [
+        "Japanese spaniel",
+        {
+            "count": 55,
+            "score": 1.5131662649218924,
+            "weight": 0
+        }
+    ],
+    [
+        "proboscis monkey, Nasalis larvatus",
+        {
+            "count": 38,
+            "score": 1.468113592723057,
+            "weight": 0
+        }
+    ],
+    [
+        "spotted salamander, Ambystoma maculatum",
+        {
+            "count": 24,
+            "score": 1.3970643304346595,
+            "weight": 0
+        }
+    ],
+    [
+        "tiger beetle",
+        {
+            "count": 26,
+            "score": 0.5622133328497512,
+            "weight": 0
+        }
+    ]
+]
