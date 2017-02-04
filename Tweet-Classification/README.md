@@ -58,4 +58,25 @@ Finally, and since scraping the web would result in many "NEUTRAL" tweets, we de
 In the folder images, you can find the prediction probabilities on a 2-class classification on the "NEUTRAL" and "POS/NEG" Tweets. As you can
 see, the classification probabilities are very high for "POS/NEG" Tweets and more uncertain on "NEUTRAL" Tweets. That's why we could get rid
 of most of neutral Tweets with a high threshold.
+## How to run the code
 
+First put all the data in a folder in which you create the folder `cleaned-data` and create all the cleaned files :
+```
+$ python3 create_clean.py
+```
+This will create files with cleaned data by season.
+
+Then after installing GEONAMES, do the splitting into training/test set by mean of : 
+
+```
+$ python3 splitting.py
+```
+
+In `featuring.py` you can specify in which season you want to train the models in the variable filetrain and filetest
+
+Finally run the model with :
+
+```
+$ python3 models.py
+```
+This will pickle the features of the model and run it over the traning set and test it over the set. It will yield a classification report.
