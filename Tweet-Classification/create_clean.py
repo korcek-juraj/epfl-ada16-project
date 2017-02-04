@@ -9,6 +9,13 @@ import tldextract
 
 
 def cleaning(month):
+    '''
+    Function that given a month will clean it
+    Example :
+    Input : the month
+    Output : dataframe that contains the cleaned tweets with
+    'source_location', 'source_spam_probability', the cleaned tweets, and the language of the tweet as columns
+    '''
     i=0
     prob=[]
     sentiment=[]
@@ -44,6 +51,8 @@ def cleaning(month):
     print(len(tweet))
     print(len(sentiment))
     print(len(location))
+    
+    #Putting everything in a dataframe
     df1=pd.DataFrame([])
     df1['cleaned-tweets']=tweet
     df1['sentiment']=sentiment
@@ -54,7 +63,8 @@ def cleaning(month):
     return df1
 
 
-'''
+#Reading the 3-dictionnaries to de-noise the Tweets
+
 dico = {}
 dico1 = open('dicos/dico1.txt', 'rb')
 for word in dico1:
@@ -74,7 +84,7 @@ for word in dico3:
     word = word.split()
     dico[word[0]] = word[1]
 dico3.close()
-'''
+
 
 
 '''
@@ -162,6 +172,12 @@ def replaceURLsbyDomains(tweet):
 
 
 def clean(tweet):
+    '''
+    Function that cleans the tweets
+    Input : tweet
+    Output : cleaned tweet
+    This function is called by the function cleaning above
+    '''
     tweet=tweet.replace(";"," ")
     tweet=remove_repetitions(tweet)
     tweet=arr(tweet)
@@ -177,6 +193,8 @@ def clean(tweet):
 seasons=[[("february","02"),("january","01")],[("march","03"),("april","04"),("may","05")],[("july","07"),("june","06"),("august","08")],[("october","10"),
 ("september","09")]]
 seasonsfiles=[]
+# Running the cleaning over the files and creating seasonal cleaned files
+#1.csv, 2.csv, 3.csv and 4.csv
 for j in range(len(seasons)):
     for i in range(len(seasons[j])):
         if i==0:
