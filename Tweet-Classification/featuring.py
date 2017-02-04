@@ -63,7 +63,11 @@ def train_test_features(n_gram=False, pretrained=True, nb_words=None):
     """
     np.random.seed(0)
 
-
+    #for the files filetrain and filetest you have to specify for which season you want to train the model
+    #and for which season you want to test it
+    # for the neutral tweets use : train_tweets = map(str,filetrain['tweet'])
+    
+    
     filetrain = pd.read_csv("cleaned-data/s3-cleaned/3train.csv", sep=";")
     #del filetrain['Unnamed: 0']
     filetest = pd.read_csv("cleaned-data/s3-cleaned/3test.csv", sep=";")
