@@ -1,30 +1,34 @@
 # Applied Data Analysis project
 
-Aim : Doing a happy map for a city in Switzerland like GoodCityLife project (NOKIA)  
-Idea : The idea would be to build a happy map minimizing both the inverse of happiness and the travel time  
+- Aim : Doing a sentiment map for Switzerland.
+ 
 
-Work Plan :
+## Work Plan
 
-We suppose that we will have at our disposal :
+We have at our disposal :
 
-- large twitter data (geolocated)
+- Large twitter data (geolocated)
 
-- instagram images (geolocated)
+- Instagram images (geolocated)
 
-1/ Analysis :
+1. Analysis :
 
-- study our dataset
+- Study our dataset
 
-- perform a sentiment analysis using convolutional / recurrent deep neural networks for Twitter data (also NLP methods like word embedding)
+- Perform a sentiment analysis using convolutional / recurrent deep neural networks for Twitter data (also NLP methods like word embedding)
 
-- perform sentiment analysis using convolutional deep networks on instagram images: the advantage of convolutional neural network is that we don’t need to preprocess the image and extract relevant features we can feed the whole image to the model and optimize the parameters
+- Perform sentiment analysis using convolutional deep networks on instagram images: the advantage of convolutional neural network is that we don’t need to preprocess the image and extract relevant features we can feed the whole image to the model and optimize the parameters
 
-- for the analysis we will be using Keras
+- For the analysis we will be using Keras
 
-2/ Viz : 
+2. Viz : 
 
-- optimization (Algorithm)
-
-- build a map
+- Building a sentiment map
          
-3/ Build a website that outputs the path found by the algorithm depending on user’s destination/provenance
+
+You can find detailed explanations on the readme files in the folders : Tweet-Classification and Instagram-Classification
+## Authors
+- Yassine Benyahia : yassine.benyahia@epfl.ch
+- Mohammed Hamza Sayah : mohammed.sayah@epfl.ch
+- Juraj Korceck : juraj.korceck@epfl.ch
+- Félix Böhm : felix.bohm@epfl.ch
