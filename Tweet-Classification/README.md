@@ -12,7 +12,8 @@ without considering the imbalance would be the same as running a dummy model tha
 We decided to train the models only on a POSITIVE/NEGATIVE labeled tweets. Also, since the features might change from one season to another,
 we decided to do seasonal models : 1/ January, February 2/ March, April, May 3/ June, July, August 3/ September, October
 
-
+- In the folder `images` you can find the illustration of the imbalance and the predicted probabilities that we are gonna discuss below.
+  You can also find the predicted map for January/February
 - In the folder `dicos` you can find the three dictionaries we found to help with de-noising the text.
 
 - Then, we had to split our data into training/validation/test. With the file `splitting.py`, and since all tweets weren't geolocated, we
