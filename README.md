@@ -13,17 +13,17 @@ We have at our disposal :
 
 1. Analysis :
 
-- Study our dataset
+  - Study our dataset
 
-- Perform a sentiment analysis using convolutional / recurrent deep neural networks for Twitter data (also NLP methods like word embedding)
+  - Perform a sentiment analysis using convolutional / recurrent deep neural networks for Twitter data (also NLP methods like word             embedding)
 
-- Perform sentiment analysis using convolutional deep networks on instagram images: the advantage of convolutional neural network is that we don’t need to preprocess the image and extract relevant features we can feed the whole image to the model and optimize the parameters
+   - Perform sentiment analysis using convolutional deep networks on instagram images: the advantage of convolutional neural network is       that we don’t need to preprocess the image and extract relevant features we can feed the whole image to the model and optimize the         parameters
 
-- For the analysis we will be using Keras
+   - For the analysis we will be using Keras
 
 2. Viz : 
 
-- Building a sentiment map
+  - Building a sentiment map
          
 
 You can find detailed explanations on the readme files in the folders : Tweet-Classification and Instagram-Classification
