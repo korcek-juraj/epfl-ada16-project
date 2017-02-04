@@ -47,7 +47,7 @@ def main(filename):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-f', '--filename', type=str)
+    parser.add_argument('-f', '--filename', type=str, required=True)
     args = parser.parse_args()
 
     main(args.filename)

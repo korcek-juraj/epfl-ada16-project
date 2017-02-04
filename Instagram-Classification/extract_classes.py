@@ -34,8 +34,8 @@ def extract_classes(results_filename, classes_filename):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-r', '--path_to_results_file', type=str)
-    parser.add_argument('-c', '--output_classes_file', type=str)
+    parser.add_argument('-r', '--path_to_results_file', type=str, required=True)
+    parser.add_argument('-c', '--output_classes_file', type=str, required=True)
     args = parser.parse_args()
     extract_classes(args.path_to_results_file, args.output_classes_file)
 

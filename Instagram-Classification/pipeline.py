@@ -297,7 +297,7 @@ def main(path_to_imgs_pickle, test_run, download_process_no, classification_proc
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-p', '--path_to_imgs_pickle', type=str)
+    parser.add_argument('-p', '--path_to_imgs_pickle', type=str, required=True)
     parser.add_argument('-o', '--output_json_file', type=str)
     parser.add_argument('-dp', '--download_process_count', type=int, default=2)
     parser.add_argument('-cp', '--classification_process_count', type=int, default=3)

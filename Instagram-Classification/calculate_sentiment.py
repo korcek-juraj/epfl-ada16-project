@@ -42,8 +42,8 @@ def calculate_sentiment(results_filename, classes_filename, sentiment_filename):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-r', '--path_to_results_file', type=str)
-    parser.add_argument('-c', '--path_to_classes_file', type=str)
-    parser.add_argument('-o', '--output_sentiment_file', type=str)
+    parser.add_argument('-r', '--path_to_results_file', type=str, required=True)
+    parser.add_argument('-c', '--path_to_classes_file', type=str, required=True)
+    parser.add_argument('-o', '--output_sentiment_file', type=str, required=True)
     args = parser.parse_args()
     calculate_sentiment(args.path_to_results_file, args.path_to_classes_file, args.output_sentiment_file)
