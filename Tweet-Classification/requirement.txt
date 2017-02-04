@@ -1,0 +1,7 @@
+keras
+pyenchant
+regex
+nltk
+scikit-learn
+pandas
+numpy
