@@ -1,3 +1,3 @@
-Instagram-Classification//months/all_urls.pickle filter=lfs diff=lfs merge=lfs -text
+Instagram-Classification/months/all_urls.pickle filter=lfs diff=lfs merge=lfs -text
 Instagram-Classification/months/all_urls.txt filter=lfs diff=lfs merge=lfs -text
 Instagram-Classification/results/all_urls_result.json filter=lfs diff=lfs merge=lfs -text
