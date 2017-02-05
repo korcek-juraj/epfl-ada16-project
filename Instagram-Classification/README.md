@@ -8,10 +8,11 @@ To run the code successfully you will need python3 (the code was tested on pytho
 
 If you do not have python3, you can download and install it from [python.org](https://www.python.org/downloads/). 
 
-You can install library requirements with following command. 
+If you are running the code on your laptop you can install library requirements with following command. 
 ```
 $ pip install requirements.txt
 ```
+For Amazon AWS EC2 servers we suggest using [Machine Learning AMI](https://aws.amazon.com/marketplace/pp/B01M0AXXQB) (Amazon Machine Image) which has all the necessary machine learning libraries pre-installed.
 
 If you want to run script from shell instead of the notebook just replace `%run ./script.py ...` with `python3 script.py ...`.  
 For example:
