@@ -1,5 +1,7 @@
 import argparse
 import json
+import errno
+import os
 
 import numpy as np
 
@@ -36,6 +38,14 @@ def calculate_sentiment(results_filename, classes_filename, sentiment_filename):
                     sentiment_dict[img_id]['sent_float'] += score * classes_dict[cls]
                 sentiment_dict[img_id]['sent_int'] = (1 if abs(sentiment_dict[img_id]['sent_float']) > 0.33 else 0) * np.sign(sentiment_dict[img_id]['sent_float'])
 
+    dir_path = os.path.dirname(sentiment_filename)
+    try:
+        os.makedirs(dir_path)
+    except OSError as exc: # Python >2.5
+        if exc.errno == errno.EEXIST and os.path.isdir(dir_path):
+            pass
+        else:
+            raise
     with open(sentiment_filename, 'wt') as sentiment_file:
         json.dump(sentiment_dict, sentiment_file, sort_keys=True, indent=4, separators=(',', ': '))
 

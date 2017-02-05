@@ -1,5 +1,7 @@
 import argparse
 import json
+import errno
+import os
 
 
 def extract_classes(results_filename, classes_filename):
@@ -28,8 +30,18 @@ def extract_classes(results_filename, classes_filename):
                         classes_dict[cls] = {'weight': 0, 'score': 0, 'count': 0}
                     classes_dict[cls]['score'] += score
                     classes_dict[cls]['count'] += 1
+
+    dir_path = os.path.dirname(classes_filename)
+    try:
+        os.makedirs(dir_path)
+    except OSError as exc: # Python >2.5
+        if exc.errno == errno.EEXIST and os.path.isdir(dir_path):
+            pass
+        else:
+            raise
     with open(classes_filename, 'wt') as classes_file:
         json.dump(sorted(list(classes_dict.items()), key=lambda x: x[1]['score'], reverse=True), classes_file, sort_keys=True, indent=4, separators=(',', ': '))
+
     print('No. of classses: ' + str(len(classes_dict)))
 
 

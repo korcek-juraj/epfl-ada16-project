@@ -8,10 +8,10 @@ from ctypes import c_bool
 import json
 import time
 import argparse
+import errno
 
 import tensorflow as tf
 import numpy as np
-
 from classify_image import maybe_download_and_extract, create_graph, NodeLookup, FLAGS
 
 
@@ -157,6 +157,14 @@ def save_result_worker(result_queue, output_file):
     :param output_file: filename of the results file to be written to
     :return: None
     """
+    dir_path = os.path.dirname(output_file)
+    try:
+        os.makedirs(dir_path)
+    except OSError as exc: # Python >2.5
+        if exc.errno == errno.EEXIST and os.path.isdir(dir_path):
+            pass
+        else:
+            raise
     with open(output_file, "a+") as result_file:
         while True:
             try:
