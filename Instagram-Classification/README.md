@@ -13,12 +13,13 @@ You can install library requirements with following command.
 $ pip install requirements.txt
 ```
 
-If you want to run script from shell instead of the notebook just replace `%run ./script.py ...` with `python script.py ...`.  
+If you want to run script from shell instead of the notebook just replace `%run ./script.py ...` with `python3 script.py ...`.  
 For example:
 ```
 %run ./create_url_dict.py -f months/september-october_urls.txt
 ```
 will become:
 ```
-python create_url_dict.py -f months/september-october_urls.txt
+python3 create_url_dict.py -f months/september-october_urls.txt
 ```
+
