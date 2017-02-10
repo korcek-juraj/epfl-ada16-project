@@ -28,7 +28,9 @@ We have at our disposal :
 
 - You can find detailed explanations on the readme files in the folders : Tweet-Classification and Instagram-Classification
 - You can also find our poster presentation pdf under poster.pdf
+
 ## Authors
+
 - Yassine Benyahia : yassine.benyahia@epfl.ch
 - Mohammed Hamza Sayah : mohammed.sayah@epfl.ch
 - Juraj Korcek : juraj.korcek@epfl.ch
