@@ -2,7 +2,7 @@
 
 ## Instagram Classification
 
-Details for this project part can be found in [Instagram-Classification](https://github.com/korcek-juraj/epfl-ada16-project/blob/master/Instagram-Classification/Instagram-Classification.ipynb) notebook. It will also lead you  step by step to reproduce the results. 
+Details for this project part can be found in [Instagram-Classification](https://nbviewer.jupyter.org/github/korcek-juraj/epfl-ada16-project/blob/master/Instagram-Classification/Instagram-Classification.ipynb) notebook. It will also lead you  step by step to reproduce the results. 
 
 To run the code successfully you will need python3 (the code was tested on python3.5) along with [NumPy](https://pypi.python.org/pypi/numpy) and [TensorFlow](https://www.tensorflow.org/) libraries specified in requirements.txt.
 
